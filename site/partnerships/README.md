@@ -5,14 +5,9 @@ The E.R.G.O block on the [partners page](index.html) is generated from
 from the JSON on every website deploy, so changes made directly to
 `index.html` are overwritten.
 
-## How to change it
+## How to suggest a change
 
-1. Fork [`zeousky/owaua`](https://github.com/zeousky/owaua).
-2. Edit `owaua.com/partnerships/ergo.json`.
-3. Open a pull request.
-
-When the pull request is merged, CI regenerates the HTML and GitHub Pages
-publishes it. You only ever need to touch `ergo.json`.
+Email `ckazros@owaua.com` with the proposed text or command changes. The site owner will review and apply them.
 
 ## The format
 
