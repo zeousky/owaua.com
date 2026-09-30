@@ -19,21 +19,6 @@ Deployment instructions are in [`AGENTS.md`](AGENTS.md).
 
 ## GitHub Pages
 
-The repository contains the complete static site and deploys `owaua.com/` to
-GitHub Pages whenever `main` changes. The checked-in [`CNAME`](CNAME) binds
-the Pages site to `owaua.com`.
+The workflow at the repository root publishes `site/` to GitHub Pages whenever `main` changes. The `owaua.com` custom domain is configured in the repository's **Settings → Pages**. GitHub Actions deployments do not read the checked-in `CNAME` file to configure the domain; it is retained as site metadata.
 
-In the repository settings, enable Pages with **Source: GitHub Actions**. If
-the domain should be served by GitHub Pages, point the domain's DNS at the
-GitHub Pages endpoints and remove the old hosting route. For an apex domain,
-use these records at the DNS provider:
-
-- `A @ 185.199.108.153`
-- `A @ 185.199.109.153`
-- `A @ 185.199.110.153`
-- `A @ 185.199.111.153`
-- `CNAME www zeousky.github.io`
-
-If Cloudflare remains authoritative, set these records to **DNS only** while
-GitHub validates the certificate. The existing Daki/Cloudflare route currently
-serves production, so changing these records is the cutover to GitHub Pages.
+The existing DNS and production hosting route remain on Daki/Cloudflare. Do not change DNS as part of a routine site deployment. A DNS cutover to GitHub Pages is a separate, intentional operation.
