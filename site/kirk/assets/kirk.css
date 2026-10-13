@@ -269,6 +269,13 @@ code {
   text-wrap: balance;
 }
 
+.opener .status {
+  max-width: 36rem;
+  margin-top: 1.15rem;
+  font-size: clamp(1.15rem, 2vw, 1.35rem);
+  line-height: 1.35;
+}
+
 .epigraph {
   max-width: 34rem;
   margin-top: 1.15rem;

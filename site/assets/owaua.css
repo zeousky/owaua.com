@@ -286,6 +286,12 @@ main.wrap {
   margin-bottom: 0.7rem;
 }
 
+.hero .status {
+  max-width: 34rem;
+  margin: 0 0 0.9rem;
+  font-size: 1.05rem;
+}
+
 .hero .lede {
   color: var(--muted);
   font-size: 1.05rem;
