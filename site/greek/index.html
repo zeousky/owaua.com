@@ -98,7 +98,7 @@ owaua
 <ul class="list">
 <li><strong>περιμένει να τον ρωτήσεις</strong><span>Κάν' του ping σε server και απαντάει. Ένα μοναχικό <code>@owaua</code> χωρίς τίποτα άλλο παίρνει ένα μικρό τοπικό «yeah;». Χωρίς κλήση στο μοντέλο. Τα άλλα bot αγνοούνται. Τα DM δουλεύουν μόνο αν ο operator ανοίξει το <code>BOT_ALLOW_DMS=1</code>.</span></li>
 <li><strong>θυμάται το νήμα σου, και λίγο από το δωμάτιο</strong><span>Το ιστορικό σου μαζί του είσαι μόνο εσύ, σ' αυτό το κανάλι: μέχρι 20 γύρους, σβήνουν μετά από μια εβδομάδα, και το αρχείο σταματάει στα 10.000 records. Κρατάει επίσης μια σύντομη πρόσφατη γραμμή από το κανάλι, ώστε ένα ping να μη πέφτει στα τυφλά. Το άτομο δίπλα έχει ακόμα δικό του νήμα και δική του persona.</span></li>
-<li><strong>μερικές φωνές</strong><span>Διάλεξε <code>rudeish low</code>, <code>rudeish medium</code>, <code>rudeish high</code>, <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>cute</code> ή <code>normal</code> για τον εαυτό σου. Η φωνή του ανθρώπου στο δωμάτιο είναι κλειστή από προεπιλογή· το <code>!human on</code> την προσθέτει. Το full mode είναι ξεχωριστό opt-in για εγκεκριμένους χρήστες.</span></li>
+<li><strong>μερικές φωνές</strong><span>Διάλεξε <code>rudeish low</code>, <code>rudeish medium</code>, <code>rudeish high</code>, <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>femboy</code>, <code>cute</code> ή <code>normal</code> για τον εαυτό σου. Η φωνή του ανθρώπου στο δωμάτιο είναι κλειστή από προεπιλογή· το <code>!human on</code> την προσθέτει. Το full mode είναι ξεχωριστό opt-in για εγκεκριμένους χρήστες.</span></li>
 <li><strong>μπορεί να απαντήσει στη γλώσσα σου</strong><span>Οι admin βάζουν πλήρες όνομα γλώσσας, π.χ. <code>!language hungarian</code>. Όταν υπάρχει ταιριαστή εικόνα, ο owaua μπορεί να αλλάξει και το avatar και το banner του bot σ' αυτόν τον server, για να μοιάζει του τόπου.</span></li>
 <li><strong>ένα κομμάτι στο voice, αν το ζητήσεις</strong><span>Το <code>!music</code> παίζει ένα μόνο βίντεο YouTube ή ανάρτηση Twitter/X με βίντεο, ή ένα υποστηριζόμενο αρχείο ήχου. Παύση, συνέχεια, restart, skip, stop, now και leave. Χωρίς αναζήτηση με όνομα ή playlists.</span></li>
 <li><strong>κοντές απαντήσεις</strong><span>Οι κανονικές απαντήσεις hangout μένουν κοντές και ολοκληρώνουν την πρόταση. Το Gemini hangout μπορεί να κοιτάξει μία εικόνα. Οι εγκεκριμένοι μπορούν να ανοίξουν το <code>!full mode on</code> στα καθορισμένα κανάλια. Το full mode μοιράζεται τα ίδια όρια.</span></li>
@@ -110,7 +110,7 @@ owaua
 <p>Κάθε εντολή έχει δικό της cooldown 25 δευτερολέπτων ανά χρήστη. Η αλλαγή ρυθμίσεων server θέλει Διαχείριση διακομιστή. Τα controls μουσικής δουλεύουν μόνο αν είσαι στο ίδιο φωνητικό κανάλι με το bot.</p>
 <div class="commands">
 <div class="command"><code>!help</code><p>Η λίστα, όταν την ξεχνάς.</p></div>
-<div class="command"><code>!persona rudeish low|medium|high</code><p>Ν' ακούσεις ή να αλλάξεις τη φωνή σου για γενικό κοινό. Επίσης <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>cute</code> και <code>normal</code>.</p></div>
+<div class="command"><code>!persona rudeish low|medium|high</code><p>Ν' ακούσεις ή να αλλάξεις τη φωνή σου για γενικό κοινό. Επίσης <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>femboy</code>, <code>cute</code> και <code>normal</code>.</p></div>
 <div class="command"><code>!human on|off</code><p>Άνοιξε τη φωνή του ανθρώπου στο δωμάτιο, ή γύρνα στην κανονική hangout φωνή. Είναι κλειστή από προεπιλογή.</p></div>
 <div class="command"><code>!language &lt;πλήρες όνομα&gt;|reset</code><p>Βάλε ή καθάρισε τη γλώσσα απάντησης του server, και την ταιριαστή εικόνα προφίλ όταν υπάρχει.</p></div>
 <div class="command"><code>!music &lt;URL YouTube/X ή συνημμένο&gt;</code><p>Βάλε ένα υποστηριζόμενο κομμάτι. Ή <code>pause</code>, <code>resume</code>, <code>restart</code>, <code>skip</code>, <code>stop</code>, <code>now</code> και <code>leave</code>.</p></div>
@@ -155,7 +155,7 @@ owaua
 </details>
 <details>
 <summary>Μπορώ να αλλάξω πώς ακούγεται;</summary>
-<p>Ναι. <code>!persona rudeish low</code>, <code>!persona rudeish medium</code>, <code>!persona rudeish high</code>, <code>!persona nerdish</code>, <code>!persona flirty</code>, <code>!persona irritating</code>, <code>!persona cute</code> ή <code>!persona normal</code>. Η φωνή του ανθρώπου στο δωμάτιο είναι κλειστή από προεπιλογή· το <code>!human on</code> τη φέρνει πίσω.</p>
+<p>Ναι. <code>!persona rudeish low</code>, <code>!persona rudeish medium</code>, <code>!persona rudeish high</code>, <code>!persona nerdish</code>, <code>!persona flirty</code>, <code>!persona irritating</code>, <code>!persona femboy</code>, <code>!persona cute</code> ή <code>!persona normal</code>. Η φωνή του ανθρώπου στο δωμάτιο είναι κλειστή από προεπιλογή· το <code>!human on</code> τη φέρνει πίσω.</p>
 </details>
 <details>
 <summary>Η μουσική παίζει;</summary>
