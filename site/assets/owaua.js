@@ -20,8 +20,8 @@ for (const button of document.querySelectorAll('[data-secret-button]')) {
   button.addEventListener('click', event => {
     if (button.classList.contains('is-revealed')) return;
     event.preventDefault();
-    button.textContent = 'secret button';
-    button.setAttribute('aria-label', 'secret button');
+    button.textContent = 'just a button';
+    button.setAttribute('aria-label', 'just a button');
     button.classList.add('is-revealed');
   });
 }

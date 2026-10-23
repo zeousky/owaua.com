@@ -1,0 +1,9 @@
+.langs { list-style: none; padding-left: 0; }
+.langs li { font-size: .82rem; color: var(--muted); }
+.langs-label { color: var(--muted); font-size: .85rem; margin-top: 1.5rem; }
+.corner-note { color: var(--muted); font-size: .85rem; margin-top: 1.5rem; }
+.kicker { color: var(--muted); }
+.nav-links button.secret-button { cursor: pointer; }
+.menu-panel button.secret-button { margin: .4rem 0; }
+.open-slot { margin-top: 2rem; }
+.command > code, .pcmd > code { max-width: 100%; overflow-wrap: anywhere; white-space: normal; }

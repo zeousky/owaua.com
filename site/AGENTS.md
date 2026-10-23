@@ -1,11 +1,11 @@
 # owaua.com
 
-Static site for the official owaua Discord bot. Edit here, then deploy through GitHub Pages.
+Static site for the official owaua Discord bot. Generated main pages come from `copy-source/`; edit that source and run `node copy-source/build.mjs`. The live domain is served by the connected Railway service.
 
 ## Deploy
 
 1. Commit and push the website changes to the repository's `main` branch.
-2. GitHub Actions publishes `owaua.com/` to GitHub Pages when `main` changes.
+2. Railway deploys the connected `zeousky/owaua.com` repository. GitHub Actions also publishes `site/` to GitHub Pages.
 3. Confirm the live page on `https://owaua.com/` and any changed localized path after the workflow completes.
 
 Do not use the Daki deployment client for this website; Daki is for the bot runtime only.

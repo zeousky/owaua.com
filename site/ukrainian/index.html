@@ -1,202 +1,67 @@
 <!doctype html>
-<html lang="uk" id="top">
+<html lang="en" id="top">
 <head>
 <meta charset="utf-8">
+<meta name="p:domain_verify" content="ddfdae0b5a6be42a404cd1abb0c19b62">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<meta name="description" content="owaua це Discord-бот. Згадай його, коли хочеш відповідь. Трохи пам'ятає, має кілька голосів і може поставити трек у voice.">
-<meta name="theme-color" content="#0057b7">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://s.pinimg.com; style-src 'self'; img-src 'self' data: https://ct.pinterest.com; connect-src 'self' https://ct.pinterest.com; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
-<script src="/assets/pinterest.js" defer></script>
-<link rel="canonical" href="https://owaua.com/ukrainian">
-<link rel="alternate" hreflang="en" href="https://owaua.com/">
-<link rel="alternate" hreflang="fr" href="https://owaua.com/french">
-<link rel="alternate" hreflang="de" href="https://owaua.com/german">
-<link rel="alternate" hreflang="el" href="https://owaua.com/greek">
-<link rel="alternate" hreflang="hu" href="https://owaua.com/hungarian">
-<link rel="alternate" hreflang="it" href="https://owaua.com/italian">
-<link rel="alternate" hreflang="pl" href="https://owaua.com/polish">
-<link rel="alternate" hreflang="ro" href="https://owaua.com/romanian">
-<link rel="alternate" hreflang="uk" href="https://owaua.com/ukrainian">
-<link rel="alternate" hreflang="x-default" href="https://owaua.com/">
-<meta property="og:url" content="https://owaua.com/ukrainian">
-<meta property="og:image" content="https://owaua.com/assets/pfp-ukrainian.png">
-<meta property="og:title" content="owaua">
-<meta property="og:description" content="Discord-бот, з яким можна поговорити">
-<title>owaua · маленький Discord hangout-бот</title>
-<link rel="icon" href="/assets/pfp-ukrainian-96.webp?v=20260918a" type="image/webp">
+<meta name="description" content="owaua is a Discord bot. Chat, search, voice, media, music, and memories of your own. Use slash commands or start with a dot.">
+<meta name="theme-color" content="#1e1f22">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
+<link rel="canonical" href="https://owaua.com/">
+<meta property="og:url" content="https://owaua.com/">
+<meta property="og:image" content="https://owaua.com/image.png">
+<meta property="og:title" content="owaua · a small Discord hangout bot">
+<meta property="og:description" content="owaua is a Discord bot. Chat, search, voice, media, music, and memories of your own. Use slash commands or start with a dot.">
+<title>owaua · a small Discord hangout bot</title>
+<link rel="icon" href="/assets/pfp-96.webp?v=20260918a" type="image/webp">
 <link rel="stylesheet" href="/assets/owaua.css?v=20261013a">
 <script src="/assets/owaua.js?v=20260920c" defer></script>
+<link rel="stylesheet" href="/assets/current-copy.css?v=20261023">
 </head>
-<body class="theme theme-ukrainian">
-<noscript><img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2612904762430&amp;noscript=1"></noscript>
-<div class="flag-bar" aria-hidden="true"></div>
-<div class="flag-rail" aria-hidden="true"></div>
-<a class="skip" href="#main">Перейти до змісту</a>
-<nav class="site-nav" aria-label="Головне">
-<a class="brand" href="/ukrainian" aria-label="головна owaua">
-<img src="/assets/pfp-ukrainian-96.webp?v=20260918a" width="28" height="28" alt="">
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<nav class="site-nav" aria-label="Main">
+<a class="brand" href="/" aria-label="owaua home">
+<img src="/assets/pfp-96.webp?v=20260918a" width="28" height="28" alt="">
 owaua
 </a>
 <div class="nav-links">
-<a href="#what">що вміє</a>
-<a href="#commands">команди</a>
-<a href="#limits">межі</a>
-<a href="/privacy">приватність</a>
-<a class="cta" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot">запросити</a>
+<a href="/#what">what it does</a>
+<a href="/#commands">commands</a>
+<a href="/#limits">limits</a>
+<a href="/privacy">privacy</a>
+<button type="button" class="secret-button" data-secret-button aria-label="hidden"></button>
+<a class="cta" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invite it</a>
 </div>
 <details class="menu">
-<summary>меню</summary>
+<summary>menu</summary>
 <div class="menu-panel">
-<a href="#what">що вміє</a>
-<a href="#commands">команди</a>
-<a href="#limits">межі</a>
-<a href="/privacy">приватність</a>
-<a href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot">запросити</a>
+<a href="/#what">what it does</a>
+<a href="/#commands">commands</a>
+<a href="/#limits">limits</a>
+<a href="/privacy">privacy</a>
+<button type="button" class="secret-button" data-secret-button aria-label="hidden"></button>
+<a href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invite it</a>
 </div>
 </details>
 </nav>
-<aside class="corner-note">Сайт маленький. Важливий сам бот.</aside>
-<main id="main" class="wrap">
-<header class="hero">
-<div class="hero-id">
-<img src="/assets/pfp-ukrainian-96.webp?v=20260918a" width="52" height="52" alt="">
-<div>
-<strong>owaua</strong>
-<span>the annoying discord bot</span>
-</div>
-</div>
-<h1>бот, який тусується на твоєму сервері</h1>
-<p class="status">Owaua не отримуватиме нових функцій, але я й надалі оновлюватиму його моделі ШІ, щоб спільнота могла користуватися найновішими доступними моделями.</p>
-<p class="lede">Згадай його, коли хочеш відповідь. Він трохи пам'ятає, що ви щойно сказали одне одному, не всю кімнату. Може змінити те, як звучить, відповідати мовою сервера або поставити трек у voice.</p>
-<div class="actions">
-<a class="button" href="https://discord.gg/CNbpwtE9HS">заходь у Discord</a>
-<a class="button ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot">запросити owaua</a>
-</div>
-<p class="note">Команди починаються з <code>!</code>. Слеш-команд немає. Він тримається осторонь особистих повідомлень, доки людина, яка його запускає, це не ввімкне.</p>
-<nav class="langs" aria-label="Мови">
-<a href="/">english</a>
-<a href="/french">français</a>
-<a href="/german">deutsch</a>
-<a href="/greek">ελληνικά</a>
-<a href="/hungarian">magyar</a>
-<a href="/italian">italiano</a>
-<a href="/polish">polski</a>
-<a href="/romanian">română</a>
-<a href="/ukrainian" aria-current="page">українська</a>
-</nav>
-</header>
-
-<figure class="shot">
-<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua відповідає в каналі Discord" loading="lazy">
-<figcaption>Дай згадку, думку або пісню. Він тут, щоб говорити, не щоб вести сервер.</figcaption>
-</figure>
-
-<section class="section" id="what">
-<h2>що він вміє</h2>
-<p>Згадай його, коли хочеш його в розмові. Відповідає голосом і мовою, які сервер уже обрав.</p>
-<ul class="list">
-<li><strong>чекає, доки запитаєш</strong><span>Згадай його на сервері — і він відповість. Самотнє <code>@owaua</code> без нічого отримує маленьке локальне «yeah?». Без виклику моделі. Інших ботів ігнорує. Особисті повідомлення працюють лише якщо оператор увімкне <code>BOT_ALLOW_DMS=1</code>.</span></li>
-<li><strong>пам'ятає твою нитку, і трохи кімнати</strong><span>Твоя історія з ним — це все ще лише ти, у тому каналі: до 20 ходів, за тиждень вони згасають, а файл зупиняється на 10 000 записах. Він ще тримає короткий недавній рядок із того каналу, щоб згадка не була наосліп. У людини поруч усе ще своя нитка і своя персона.</span></li>
-<li><strong>кілька голосів</strong><span>Обери <code>rudeish low</code>, <code>rudeish medium</code>, <code>rudeish high</code>, <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>femboy</code>, <code>cute</code> або <code>normal</code> для себе. Голос «людини в кімнаті» вимкнений за замовчуванням; <code>!human on</code> його додає. Повний режим — це окремий опт-ін для схвалених користувачів.</span></li>
-<li><strong>може відповідати твоєю мовою</strong><span>Адміни ставлять повну назву мови, наприклад <code>!language hungarian</code>. Коли є відповідна картинка, owaua може ще змінити аватар і банер бота на тому сервері, щоб він виглядав своїм.</span></li>
-<li><strong>трек у voice, якщо попросиш</strong><span><code>!music</code> грає одне відео з YouTube або допис Twitter/X із відео, або підтримуваний аудіофайл. Пауза, продовжити, перезапуск, пропустити, стоп, зараз і вийти. Без пошуку за назвою і без плейлистів.</span></li>
-<li><strong>короткі відповіді</strong><span>Звичайні hangout-відповіді лишаються короткими й договорюють речення. Gemini hangout може глянути на одне зображення. Схвалені люди можуть відкрити <code>!full mode on</code> у призначених каналах. Повний режим ділить ті самі ліміти.</span></li>
-</ul>
-</section>
-
-<section class="section" id="commands">
-<h2>як із ним говорити</h2>
-<p>У кожної команди власне 25-секундне очікування на користувача. Зміна налаштувань сервера потребує Керування сервером. Керування музикою працює лише якщо ти в тому ж голосовому каналі, що й бот.</p>
-<div class="commands">
-<div class="command"><code>!help</code><p>Список, коли забуваєш.</p></div>
-<div class="command"><code>!persona rudeish low|medium|high</code><p>Почути або змінити свій голос для загальної аудиторії. Також <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>femboy</code>, <code>cute</code> і <code>normal</code>.</p></div>
-<div class="command"><code>!human on|off</code><p>Увімкнути голос «людини в кімнаті» або повернутись до звичайного hangout-голосу. За замовчуванням він вимкнений.</p></div>
-<div class="command"><code>!language &lt;повна назва&gt;|reset</code><p>Поставити або скинути мову відповіді сервера й відповідну картинку профілю, якщо вона є.</p></div>
-<div class="command"><code>!music &lt;YouTube/X URL або вкладення&gt;</code><p>Поставити один підтримуваний трек. Або <code>pause</code>, <code>resume</code>, <code>restart</code>, <code>skip</code>, <code>stop</code>, <code>now</code> і <code>leave</code>.</p></div>
-<div class="command"><code>!memory erase</code> / <code>!memory erase mine</code><p>Адміни можуть стерти збережені чати сервера. Будь-хто може стерти свої, разом з особистими, коли вони ввімкнені.</p></div>
-<div class="command"><code>!reset all</code><p>Керування сервером. Стирає збережені чати цього сервера, рядки каналів, мову відповіді й картинку профілю, а також зупиняє його музику.</p></div>
-<div class="command"><code>!security status|pause|resume</code><p>Лише власник. Наскільки він зайнятий, і аварійна пауза, якщо щось іде не так.</p></div>
-<div class="command"><code>!shutdown</code> / <code>!pricing</code><p>Лише власник. Зупинити бота або показати поточні ціни моделей.</p></div>
-<div class="command"><code>!owner's note</code><p>Коротка нотатка від людини, яка його зробила.</p></div>
-</div>
-</section>
-
-<section class="section" id="limits">
-<h2>межі</h2>
-<p>Вони існують, щоб одна людина не могла його розплавити, і щоб він лишався досить дешевим, щоб його тримати. Це стелі запитів, не обіцянка безкоштовного користування.</p>
-<ul class="list">
-<li><strong>вісім спроб ШІ на хвилину, на користувача</strong><span>Цей лічильник живе в запущеному процесі й скидається при перезапуску. Окремої збереженої денної чи десятихвилинної квоти немає. Повний режим ділить ті самі ліміти.</span></li>
-<li><strong>три користувачі ШІ одночасно</strong><span>Щонайбільше три користувачі можуть займати слот відповіді ШІ водночас. У команди окреме 25-секундне очікування на користувача.</span></li>
-<li><strong>музика лишається маленькою</strong><span>Підтримувані посилання на відео YouTube або Twitter/X мають вести до одного треку до 15 хвилин. Аудіовкладення й завантажене аудіо обмежені 20 МіБ, і щонайбільше дві звичайні музичні сесії. Нативне відтворення потребує Linux і FFmpeg.</span></li>
-</ul>
-<p class="note">Він може помилятись із прямим обличчям. Перевіряй те, що важливо.</p>
-</section>
-
-<section class="section" id="data">
-<h2>що він тримає</h2>
-<div class="body">
-<p>Він тримає твою нитку з ним і короткий журнал недавніх рядків у тому каналі, щоб наступна відповідь не приходила з нізвідки. Твоя персона лишається твоєю. Усе це живе в локальному файлі SQLite. Старі ходи самі відпадають. <code>!memory erase</code> стирає збережені розмови сервера і ті рядки. <code>!memory erase mine</code> стирає твої.</p>
-<p>Hangout-запити йдуть до налаштованої моделі зі вимкненим сховищем на боці провайдера. Музичні запити потрапляють у невеликий журнал аудиту для оператора; він записує операційні метадані й хешує сирий аргумент. Паролі, підписані медіапосилання й текст помилки провайдера не записуються.</p>
-<p>Довша, обережна версія — це <a href="/privacy">політика приватності</a>. Запросити його також означає <a href="/terms">умови</a>.</p>
-</div>
-</section>
-
-<section class="section" id="faq">
-<h2>питання</h2>
-<div class="faq">
-<details>
-<summary>Він відповідає на кожне повідомлення?</summary>
-<p>Ні. Згадай його, коли хочеш відповідь. Він справді тримає короткий недавній рядок із каналу, щоб не бути наосліп, коли ти згадаєш. Особисті — лише якщо оператор їх увімкнув. Інші боти ніколи не отримують відповіді.</p>
-</details>
-<details>
-<summary>Чому не відповів?</summary>
-<p>Перевір, що ти його згадав. Дай секунду. Він показує typing, поки працює. Глянь на ліміти й очікування вище. Інших ботів він ігнорує.</p>
-</details>
-<details>
-<summary>Можна змінити, як він звучить?</summary>
-<p>Так. <code>!persona rudeish low</code>, <code>!persona rudeish medium</code>, <code>!persona rudeish high</code>, <code>!persona nerdish</code>, <code>!persona flirty</code>, <code>!persona irritating</code>, <code>!persona femboy</code>, <code>!persona cute</code> або <code>!persona normal</code>. Голос «людини в кімнаті» вимкнений за замовчуванням; <code>!human on</code> повертає його.</p>
-</details>
-<details>
-<summary>Музика грає?</summary>
-<p>Так. Заходить у твій голосовий канал і стрімить трек. Без плейлистів, без черги наступних десяти пісень. Треба бути у voice, і йому потрібні Connect і Speak там.</p>
-</details>
-<details>
-<summary>Можна довіряти кожній відповіді?</summary>
-<p>Ні. Може бути впевненим і все одно помилятись. Якщо щось важливе — перевір сам або запитай людину.</p>
-</details>
-<details>
-<summary>Де сказати, що щось зламалось?</summary>
-<p><a href="https://discord.gg/CNbpwtE9HS">Discord-сервер</a> або людина, яка його зробила: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Скажи, що пробував і що сталось. Будь ласка, не кидай токени чи приватні чати в публічний канал.</p>
-</details>
-</div>
-</section>
-
-</main>
+<aside class="corner-note">The site is small. The bot is the part that matters.</aside>
+<main id="main" class="wrap"><link rel="preload" as="image" href="/assets/pfp-96.webp?v=20260918a"/><link rel="preload" as="image" href="/image.webp?v=20260919a"/><aside class="corner-note">The site is small. The bot is the part that matters.</aside><header class="hero"><div class="hero-id"><img src="/assets/pfp-96.webp?v=20260918a" width="52" height="52" alt=""/><div><strong>owaua</strong><span>a small discord bot</span></div></div><h1>the bot that hangs out in your server</h1><p class="status">Chat, search, voice, and media, powered by Grok. Ask for what you need; it stays quiet until then.</p><p class="lede">Ping it when you want it to talk. It remembers your conversations, not the whole channel. It can change how it sounds for you, answer in your language, look things up, make something, or play a song in voice.</p><div class="actions"><a class="button" href="https://discord.gg/CNbpwtE9HS">come sit in the Discord</a><a class="button ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invite owaua</a></div><p class="note">Use slash commands, or start with a dot, like <code>.ask Hello</code>. DMs work too. Private dot-command results arrive by DM; the command you typed in a server stays visible there.</p><p class="langs-label">The site stays in English. The bot can answer in these:</p><ul class="langs" aria-label="Languages the bot can answer in"><li>english</li><li>français</li><li>deutsch</li><li>ελληνικά</li><li>magyar</li><li>italiano</li><li>polski</li><li>română</li><li>українська</li></ul></header><figure class="shot"><img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua replying in a Discord channel"/><figcaption>the screenshot I still like</figcaption></figure><section class="section" id="what"><h2>what it does</h2><p>Ping it when you want it in the conversation. It answers in the voice and language you chose for yourself.</p><ul class="list"><li><strong>it waits until you ask</strong><span>Ping it in a server and it answers. You can also reply to it, use /ask or .ask, or send a DM. It ignores other bots. It doesn’t collect the rest of the room’s chatter.</span></li><li><strong>it remembers your chat</strong><span>Your history is just you, in that server and channel. It can use recent messages, look back through older exchanges, and save useful things you tell it. The person next to you has their own history, and their own voice. Use /memory view to see your saved notes.</span></li><li><strong>a few ways it can sound</strong><span>Keep its usual casual voice, pick a pirate, robot, wizard, detective, or teacher, or describe a style of your own with /persona set description:.... That choice is yours. It follows you across servers and DMs until you change or reset it.</span></li><li><strong>it can answer in your language</strong><span>Set a full language name, like .language Hungarian. It applies to your replies, across servers and DMs, and to new voice sessions. .language auto goes back to matching your message. It doesn’t change the whole server’s language or profile art.</span></li><li><strong>a song in voice, if you ask</strong><span>Join a voice channel and try .music with a song name or a SoundCloud track link. More requests join the queue. You can pause, resume, skip, stop, or see what’s next. Controls work from the same voice channel as the bot.</span></li><li><strong>more than a short reply</strong><span>Ask a quick thing and it can keep it short. Ask for an explanation and it can go longer. It can search the web and X, read images and PDF, text, or code files, and return files or charts when the work calls for them.</span></li><li><strong>pictures, videos, and a voice</strong><span>Ask for an image or video, or send one and say what to change. You review the prompt and settings before a paid generation starts. /speak reads text aloud, /transcribe turns a recording into text, and /voice join starts a voice conversation.</span></li></ul></section><section class="section" id="commands"><h2>how you talk to it</h2><p>Every slash command also works with a dot. Your style, language, memory, and document library are your own. Music controls only work if you’re in the same voice channel as the bot.</p><div class="commands"><div class="command"><code>/help  or  .help</code><p>The list, when you forget.</p></div><div class="command"><code>/ask  or  .ask</code><p>Ask something. Attach an image, document, recording, or a video you want edited. A mention, reply, or DM works too.</p></div><div class="command"><code>/persona set description:...</code><p>Describe the voice you want, in up to 120 characters. /persona view shows it; /persona reset brings back the usual one.</p></div><div class="command"><code>.language Hungarian</code><p>Choose your reply language. .language list shows the choices; .language auto lets it match your message again.</p></div><div class="command"><code>.music &lt;song name or SoundCloud link&gt;</code><p>Put a song on. .music queue, pause, resume, skip, and stop are the controls.</p></div><div class="command"><code>/memory view|remember|forget|pause|resume|clear</code><p>See or manage your notes here. Pause stops reading and saving conversation memory. It doesn’t delete it.</p></div><div class="command"><code>/reset  or  .reset</code><p>Clear your own history, archive, and notes in this channel. Your persona, language, and saved documents have separate controls.</p></div><div class="command"><code>/knowledge add|list|forget|clear</code><p>Save a PDF, text, or code document for later. /ask library:true uses your library here.</p></div><div class="command"><code>/voice join|leave|status|voices</code><p>Talk in voice. It listens only to the person who started it, but everyone in the channel can hear the replies.</p></div><div class="command"><code>/speak  and  /transcribe</code><p>Turn text into speech, or a recording into text. /ask spoken:true adds a spoken answer.</p></div><div class="command"><code>/jobs</code><p>Your recent media requests and any finished video links in this server or DM.</p></div><div class="command"><code>/integrations</code><p>The read-only connections you can choose for an /ask request.</p></div></div></section><section class="section" id="limits"><h2>the limits</h2><p>So one person can’t wear it out, and so it stays cheap enough to leave on. These are caps. They aren’t a promise that using it is free.</p><ul class="list"><li><strong>a little breathing room</strong><span>AI requests have a five-second per-person cooldown by default. Up to three requests can be running at once. Another request in the same conversation waits until the current one finishes.</span></li><li><strong>media has a daily allowance</strong><span>Each person gets two images and one video a day. Each server shares five images and three videos a day. The bot owner is exempt. They reset at midnight Budapest time. A batch uses one image allowance per image, and edits count too.</span></li><li><strong>music and voice stay bounded</strong><span>One player per server, with up to 20 songs waiting. Choose recorded SoundCloud tracks shorter than an hour. A voice conversation lasts up to ten minutes, and only its starter can control it. Stop music before starting a voice conversation.</span></li></ul><p class="note">It can be wrong with a straight face. If it matters, check it.</p></section><section class="section" id="data"><h2>what it keeps</h2><p>Conversations, notes, and the settings you asked it to remember. Local memory stays on the host; relevant prompts and attachments go to xAI to answer you. Documents you deliberately save in a library stay at xAI until you remove them. It isn’t sold, and it isn’t used for ads.</p><div class="body"><p>The longer version is the <a href="/privacy">privacy policy</a>. Inviting it also means the <a href="/terms">terms</a>.</p></div></section><section class="section" id="faq"><h2>questions</h2><div class="faq"><details><summary>Does it reply to every message?</summary><p>No. Ping it, reply to it, use a command, or send a DM. It doesn’t join in on every line in the channel.</p></details><details><summary>Why didn’t it answer?</summary><p>Make sure you pinged it or used a command, then give it a second. A moving bar means it’s working. If it’s quiet after that, check the limits above. It also ignores other bots.</p></details><details><summary>Can I change how it sounds?</summary><p>Yes. Try /persona set description:Talk like a pirate, or choose a built-in character. The choice is just for you. /persona reset brings back the usual voice.</p></details><details><summary>Does the music actually play?</summary><p>It plays supported SoundCloud tracks. Join voice, then try .music with a song name or track link. If a source is unavailable, it can fail. YouTube links and playlists aren’t supported by this version.</p></details><details><summary>Can I trust every reply?</summary><p>No. It can sound sure and still be wrong. If something matters, check it yourself, or ask a person.</p></details><details><summary>Where do I say something is broken?</summary><p>The <a href="https://discord.gg/CNbpwtE9HS">Discord server</a>, or me: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Tell me what you tried and what happened. Please don’t paste tokens or private chats into a public channel.</p></details></div></section></main>
 <footer class="site-footer">
 <div class="wrap">
 <span>© 2026 owaua</span>
-<nav aria-label="Підвал">
-<a href="#what">що вміє</a>
-<a href="#commands">команди</a>
-<a href="/privacy">приватність</a>
-<a href="/terms">умови</a>
-<a href="/partnerships">партнери</a>
+<nav aria-label="Footer">
+<a href="/#what">what it does</a>
+<a href="/#commands">commands</a>
+<a href="/privacy">privacy</a>
+<a href="/terms">terms</a>
+<a href="/partnerships">partners</a>
 <a href="https://discord.gg/CNbpwtE9HS">Discord</a>
 
-<a href="mailto:ckazros@owaua.com">контакт</a>
+<a href="mailto:ckazros@owaua.com">contact</a>
 </nav>
-<nav class="langs" aria-label="Мови">
-<a href="/">english</a>
-<a href="/french">français</a>
-<a href="/german">deutsch</a>
-<a href="/greek">ελληνικά</a>
-<a href="/hungarian">magyar</a>
-<a href="/italian">italiano</a>
-<a href="/polish">polski</a>
-<a href="/romanian">română</a>
-<a href="/ukrainian" aria-current="page">українська</a>
-</nav>
+<ul class="langs" aria-label="Languages the bot can answer in"><li>english</li><li>français</li><li>deutsch</li><li>ελληνικά</li><li>magyar</li><li>italiano</li><li>polski</li><li>română</li><li>українська</li></ul>
 </div>
 </footer>
 </body>

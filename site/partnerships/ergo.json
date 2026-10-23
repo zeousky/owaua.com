@@ -3,9 +3,9 @@
   "meta": "the other bot · Discord",
   "mark": "/assets/ergopfp.webp?v=20260915d",
   "intro": "owaua hangs out. E.R.G.O does chores: a wallet, a shop, music, mods, fishing, news, and a little AI with its own memory. The long name is Executive Response & Governance Operator.",
-  "note": "Type `!menu` in Discord for the live list. Some of this is staff-only. It isn’t us, and it doesn’t share memory with owaua. Check anything that matters.",
+  "note": "Type `!menu` in Discord for the live list. Some of it is staff-only. It isn’t us, and it doesn’t share memory with owaua. If this page and the bot ever disagree, believe the bot.",
   "commands_summary": "commands, last we looked",
-  "commands_note": "Prefix is `!`, same as owaua. If this disagrees with the bot, believe the bot.",
+  "commands_note": "E.R.G.O uses `!`. Owaua uses slash commands or `.`. If this list disagrees with E.R.G.O, believe the bot.",
   "groups": [
     {
       "title": "getting around",
