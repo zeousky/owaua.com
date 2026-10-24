@@ -20,7 +20,7 @@ function PrivacyPage() {
       <header className="page-head">
         <p className="kicker">privacy</p>
         <h1>what it remembers</h1>
-        <p>Last updated October 23, 2026. This page follows the version of the bot running now.</p>
+        <p>Last updated October 24, 2026. This is how the bot works today.</p>
         <p>
           owaua remembers your conversations with it, useful notes, and your settings, so the next reply isn’t starting from nothing. It doesn’t keep a background log of the rest of the room.
         </p>
@@ -42,7 +42,7 @@ function PrivacyPage() {
       </section>
 
       <section className="section">
-        <h2>who to write</h2>
+        <h2>how to reach me</h2>
         <div className="body">
           <p>
             Questions and deletion requests can go to <a href={`mailto:${EMAIL}`}>{EMAIL}</a>, Discord <code>ckazros</code>, or the{" "}
@@ -84,7 +84,7 @@ function PrivacyPage() {
           <p>
             So it can reply, remember what you told it, and keep the voice and language you asked for. So one person can’t wear it out. So it can play a song, speak, transcribe a recording, or make media you asked for.
           </p>
-          <p>We don’t sell this. There are no ads. Your DMs are not a mailing list.</p>
+          <p>I don’t sell any of this. There are no ads. Your DMs are not a mailing list.</p>
         </div>
       </section>
 
@@ -101,7 +101,7 @@ function PrivacyPage() {
             Conversation history is kept for up to 180 days, with up to 1,000 exchanges per scope by default. Notes stay until you forget or clear them. Persona and language settings stay until changed or reset. Saved library documents have their own deletion controls.
           </p>
           <p>
-            Please don’t send passwords, tokens, or anything you wouldn’t want saved. If you already did, use <code>/reset</code> or <code>/memory clear</code> for your history and notes here, remove any saved library document separately, or write to us.
+            Please don’t send passwords, tokens, or anything you wouldn’t want saved. If you already did, use <code>/reset</code> or <code>/memory clear</code> for your history and notes here, remove any saved library document separately, or write to me.
           </p>
         </div>
       </section>
@@ -114,7 +114,7 @@ function PrivacyPage() {
             To write a reply, the bot sends your current prompt, relevant recalled context, saved style and language preferences, and requested attachments to xAI. Text requests ask xAI not to store the response; that is not a promise about every kind of provider retention. Web and X searches, hosted code execution, and read-only integrations you choose can send the request data those features need to the services involved. Local memory controls do not call a model.
           </p>
           <p>
-            Music sends the song query or SoundCloud track link needed to find and play it. Media generation sends your confirmed prompt and references to xAI. We are not Discord, xAI, or SoundCloud. Their policies apply to what passes through them.
+            Music sends the song name or SoundCloud link it needs to find and play the track. Making an image or video sends the prompt you confirmed, and any references, to xAI. I’m not Discord, xAI, or SoundCloud. Their policies apply to what passes through them.
           </p>
         </div>
       </section>
@@ -131,7 +131,7 @@ function PrivacyPage() {
         <h2>how long</h2>
         <div className="body">
           <p>
-            History stays until it falls off the exchange limit, expires after 180 days, you clear it, or we delete it for you. Saved notes, persona and language settings, and library documents have separate deletion controls. Media request and quota records persist until the operator deletes them; temporary result links can expire earlier at the provider. Music queues disappear when the bot restarts.
+            History stays until it falls off the exchange limit, expires after 180 days, you clear it, or I delete it for you. Saved notes, persona and language settings, and library documents have separate deletion controls. Media request and quota records persist until the operator deletes them; temporary result links can expire earlier at the provider. Music queues disappear when the bot restarts.
           </p>
           <p>Backups of the host can hold a copy for as long as those backups exist. Treat that file like private chat, because it is.</p>
         </div>
@@ -142,7 +142,7 @@ function PrivacyPage() {
         <div className="body">
           <p>If you don’t want a record, don’t talk to it. Leaving a server stops new memory for you there. It does not, by itself, wipe what’s already stored.</p>
           <p>
-            <code>/memory pause</code> stops reading and saving conversation memory here until <code>/memory resume</code>. <code>/reset</code> or <code>/memory clear</code> deletes your history, archive, and notes in this scope. <code>/memory forget</code> removes a saved note and its recorded source exchanges; paraphrases in other answers may remain. These controls do not delete your persona, language choice, or document library. Use <code>/knowledge forget</code> or <code>/knowledge clear</code> for saved documents. These history controls do not erase media job records; write to us if you need those removed.
+            <code>/memory pause</code> stops reading and saving conversation memory here until <code>/memory resume</code>. <code>/reset</code> or <code>/memory clear</code> deletes your history, archive, and notes in this scope. <code>/memory forget</code> removes a saved note and its recorded source exchanges; paraphrases in other answers may remain. These controls do not delete your persona, language choice, or document library. Use <code>/knowledge forget</code> or <code>/knowledge clear</code> for saved documents. These history controls do not erase media job records; write to me if you need those removed.
           </p>
           <p>
             If that isn’t enough, email <a href={`mailto:${EMAIL}`}>{EMAIL}</a> with your Discord user id. Say whether you mean DMs, a server, or both. Messages still sitting in the Discord channel are Discord’s, not ours.
@@ -164,7 +164,7 @@ function PrivacyPage() {
         <h2>age</h2>
         <div className="body">
           <p>
-            You need a Discord account, and you need to be old enough for Discord. That means 13 or older. Please don’t use the bot if you’re under 13. The voices are meant for ordinary servers. There is no adult mode.
+            You need a Discord account, and you need to be old enough for Discord. That means 13 or older. Please don’t use the bot if you’re under 13. The default voice is casual, and it swears. There is no adult mode. Explicit sexual content stays off, whatever voice you pick.
           </p>
         </div>
       </section>
@@ -173,7 +173,7 @@ function PrivacyPage() {
         <h2>if you run it yourself</h2>
         <div className="body">
           <p>
-            Self-hosting means your database, your keys, your users, and your own privacy page. The official bot is the one invited from this site. We can change models, limits, and where the file lives. If that changes what we collect in a way that matters, this page will say so.
+            Self-hosting means your database, your keys, your users, and your own privacy page. The official bot is the one invited from this site. I can change models, limits, and where the file lives. If that changes what gets collected in a way that matters, this page will say so.
           </p>
         </div>
       </section>

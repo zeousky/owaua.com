@@ -1,6 +1,6 @@
 # Current website wording
 
-The four route components started from the supplied Grok workspace. Their conversational wording is retained, with commands, feature limits, and data handling corrected against the Node bot now running as Owaua.
+The four route components are the source for the public pages. Commands, limits, and data handling follow the Node bot running as Owaua. The wording is written the way a person would explain the bot.
 
 This is a static export, with no app account, backend database, or client framework required on the website. The existing site shell, stylesheet, pictures, URLs, and native menu are retained.
 

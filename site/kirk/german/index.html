@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<meta name="description" content="owaua ist ein Discord-Bot. Ping ihn, wenn du eine Antwort willst. Er merkt sich ein bisschen, hat ein paar Stimmen und kann ein Lied in Voice spielen.">
+<meta name="description" content="Erwähne owaua, antworte ihm, oder schreib eine DM. Er merkt sich euer Gespräch, kann nachschlagen, ein Bild oder ein kurzes Video machen, im Voice reden und einen Song spielen.">
 <meta name="theme-color" content="#12110f">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
 <link rel="canonical" href="https://owaua.com/kirk/german">
@@ -22,7 +22,7 @@
 <meta property="og:image" content="https://owaua.com/assets/pfp-german.png">
 <meta property="og:title" content="owaua">
 <meta property="og:description" content="ein Discord-Bot, mit dem du reden kannst">
-<title>owaua · ein kleiner Discord-Hangout-Bot</title>
+<title>owaua · ein Discord-Bot, mit dem du reden kannst</title>
 <link rel="icon" href="/assets/pfp-german-96.webp?v=20260918a" type="image/webp">
 <link rel="stylesheet" href="/kirk/assets/kirk.css?v=20261013a">
 </head>
@@ -64,79 +64,56 @@
 </nav>
 </div>
 <div class="rail-end">
-<a class="invite" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot">einladen</a>
+<a class="invite" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">einladen</a>
 
 </div>
 </div>
 </details>
 <main id="main" class="stage">
 <header class="opener">
-<p class="kicker">the annoying discord bot</p>
-<p class="epigraph">Die Seite ist klein. Der Bot ist die Hauptsache.</p>
-<h1>der Bot, der auf deinem Server rumhängt</h1>
-<p class="status">Owaua wird keine neuen Funktionen erhalten, aber ich werde die KI-Modelle aktuell halten, damit die Community die neuesten verfügbaren Modelle nutzen kann.</p>
-<p class="lede">Ping ihn, wenn du eine Antwort willst. Er merkt sich ein bisschen von dem, was ihr gerade gesagt habt, nicht den ganzen Raum. Er kann anders klingen, in der Sprache des Servers antworten oder ein Lied in Voice anmachen.</p>
+<p class="kicker">ein Discord-Bot, mit dem du reden kannst</p>
+<p class="epigraph">Die Seite ist klein. Der Bot ist der Teil, auf den es ankommt.</p>
+<h1>der Bot, der in deinem Server abhängt</h1>
+<p class="status">Er bleibt still, bis du mit ihm redest. Dann kann er wirklich helfen.</p>
+<p class="lede">Erwähne ihn, antworte ihm, oder schreib ihm eine DM. Er merkt sich euer Gespräch in dem Kanal, nicht das der anderen. Er kann anders klingen, in deiner Sprache antworten, etwas nachschlagen, ein Bild oder ein kurzes Video machen, mit dir im Voice reden oder einen Song auflegen.</p>
 <div class="actions">
-<a class="btn" href="https://discord.gg/CNbpwtE9HS">komm auf den Discord</a>
-<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot">owaua einladen</a>
+<a class="btn" href="https://discord.gg/CNbpwtE9HS">komm in den Discord</a>
+<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">owaua einladen</a>
 </div>
-<p class="note">Befehle beginnen mit <code>!</code>. Es gibt keine Slash-Befehle. In DMs bleibt er draußen, außer die Person, die ihn betreibt, schaltet das ein.</p>
+<p class="note">Slash-Befehle gehen. Ein Punkt auch, zum Beispiel <code>.ask wie spät ist es</code>. Private Antworten kommen per DM, also lass die offen. Was du im Server tippst, bleibt dort sichtbar.</p>
 <figure class="plate">
 <img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua antwortet in einem Discord-Kanal" loading="lazy">
-<figcaption>mein Lieblings-Screenshot</figcaption>
+<figcaption>eine Antwort, mitten im Server</figcaption>
 </figure>
 </header>
 <section class="chapter" id="what">
 <header class="chapter-h"><span class="num">01</span><h2>was er macht</h2></header>
-<p>Ping ihn, wenn du ihn in der Unterhaltung willst. Er antwortet mit der Stimme und Sprache, die der Server schon gewählt hat.</p>
-<div class="piece"><h3>er wartet, bis du fragst</h3><p>Ping ihn auf einem Server, und er antwortet. Ein einsames <code>@owaua</code> ohne Text bekommt ein kleines lokales „yeah?“. Kein Modell-Aufruf. Andere Bots werden ignoriert. DMs gehen nur, wenn der Betreiber <code>BOT_ALLOW_DMS=1</code> einschaltet.</p></div>
-<div class="piece"><h3>er merkt sich deinen Thread, und ein bisschen vom Raum</h3><p>Dein Verlauf mit ihm bist weiter nur du, in diesem Kanal: bis zu 20 Turns, nach einer Woche verblassen sie, und die Datei hört bei 10.000 Einträgen auf. Er behält außerdem eine kurze aktuelle Zeile aus dem Kanal, damit ein Ping nicht blind ist. Die Person neben dir hat weiter ihren eigenen Thread und ihre eigene Persona.</p></div>
-<div class="piece"><h3>ein paar Stimmen</h3><p>Wähle <code>rudeish low</code>, <code>rudeish medium</code>, <code>rudeish high</code>, <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>femboy</code>, <code>cute</code> oder <code>normal</code> für dich. Die Stimme als Person im Raum ist standardmäßig aus; <code>!human on</code> schaltet sie dazu. Der Full-Modus ist ein separates Opt-in für freigegebene Leute.</p></div>
-<div class="piece"><h3>er kann in deiner Sprache antworten</h3><p>Admins setzen einen vollen Sprachnamen, zum Beispiel <code>!language hungarian</code>. Wenn passende Bilder da sind, kann owaua Avatar und Banner des Bots auf dem Server auch anpassen, damit er dazugehört.</p></div>
-<div class="piece"><h3>ein Lied in Voice, wenn du fragst</h3><p><code>!music</code> spielt ein einzelnes YouTube-Video oder einen Twitter/X-Post mit Video, oder einen unterstützten Audio-Anhang. Pause, resume, restart, skip, stop, now und leave. Keine Namenssuchen und keine Playlists.</p></div>
-<div class="piece"><h3>kurze Antworten</h3><p>Normale Hangout-Antworten bleiben kurz und machen den Satz fertig. Der Gemini-Hangout kann sich ein Bild ansehen. Freigegebene Leute können <code>!full mode on</code> in den dafür vorgesehenen Kanälen aufmachen. Der Full-Modus teilt sich dieselben Limits.</p></div>
+<p>Du redest mit ihm wie mit jemandem im Server. Stimme und Sprache gehören dir, nicht dem Raum.</p>
+<div class="piece"><h3>er wartet, bis du ihn ansprichst</h3><p>Er springt nicht in jede Nachricht. Ping ihn, antworte auf etwas von ihm, oder schreib eine DM. Eine Erwähnung, <code>/ask</code> oder <code>.ask</code> reicht. Andere Bots lässt er in Ruhe, und er führt kein Protokoll über den Rest des Kanals.</p></div><div class="piece"><h3>er merkt sich euer Gespräch</h3><p>In dem Kanal bleibt euer Chat deiner. Das Neue ist direkt da. Älteres kann er ungefähr sechs Monate lang wiederfinden. Wenn du ihm etwas zum Behalten sagst, kann er sich eine Notiz machen, bis du sie löschst. Die Person neben dir hat ein eigenes Gedächtnis.</p></div><div class="piece"><h3>er kann so klingen, wie du willst</h3><p>Von sich aus redet er wie ein Freund. Locker, und er flucht. Wenn das nicht die Stimmung ist, ändere es: Pirat, Roboter, Zauberer, Detektiv, Lehrer, oder eine kurze eigene Beschreibung. Die Wahl folgt dir. Sie ändert den Bot nicht für alle anderen.</p></div><div class="piece"><h3>deine Sprache, nicht die des Servers</h3><p>Versuch <code>.language Hungarian</code>. Danach sind Antworten an dich in der Sprache, auch in anderen Servern, in DMs und im nächsten Voice. <code>.language auto</code> richtet sich wieder nach dem, was du schreibst.</p></div><div class="piece"><h3>ein Song, wenn du einen willst</h3><p>Geh in einen Voice-Kanal und versuch <code>.music</code> mit einem Titel, oder füge einen SoundCloud-Link ein. Weitere Wünsche warten. Pause, weiter, skip, stop, aus demselben Kanal. Keine Playlists, keine Livestreams, keine YouTube-Links.</p></div><div class="piece"><h3>er kann nachschlagen und lesen, was du schickst</h3><p>Eine kleine Frage kann eine kleine Antwort bekommen. Eine größere eine richtige Erklärung. Er kann im Web und auf X suchen, ein Bild ansehen, ein PDF oder Code lesen und dir eine Datei oder ein einfaches Diagramm zurückgeben.</p></div><div class="piece"><h3>Bilder, Video und eine richtige Stimme</h3><p>Bitte um ein Bild oder ein kurzes Video, oder schick eins und sag, was sich ändern soll. Er zeigt dir den Prompt zuerst. Es wird nichts erzeugt, bevor du ja sagst. <code>/speak</code> liest Text vor. <code>/transcribe</code> schreibt eine Aufnahme auf. <code>/voice join</code> ist ein richtiges Gespräch im Voice.</p></div>
 </section>
 <section class="chapter" id="commands">
-<header class="chapter-h"><span class="num">02</span><h2>so redest du mit ihm</h2></header>
-<p>Jeder Befehl hat seinen eigenen 25-Sekunden-Cooldown pro Person. Server-Einstellungen ändern braucht „Server verwalten“. Musik-Steuerung geht nur, wenn du im selben Sprachkanal bist wie der Bot.</p>
+<header class="chapter-h"><span class="num">02</span><h2>wie du mit ihm redest</h2></header>
+<p>Jeder Slash-Befehl geht auch mit einem Punkt. Stimme, Sprache, Gedächtnis und Dateien gehören dir. Musik steuerst du nur aus demselben Voice-Kanal.</p>
 <div class="ledger">
-<div class="row"><div class="cmd"><code>!help</code></div><p>Die Liste, wenn du sie vergessen hast.</p></div>
-<div class="row"><div class="cmd"><code>!persona rudeish low|medium|high</code></div><p>Hör dir deine Stimme für ein allgemeines Publikum an oder ändere sie. Auch <code>nerdish</code>, <code>flirty</code>, <code>irritating</code>, <code>femboy</code>, <code>cute</code> und <code>normal</code>.</p></div>
-<div class="row"><div class="cmd"><code>!human on|off</code></div><p>Schalte die Stimme als Person im Raum ein oder geh zurück zur üblichen Hangout-Bot-Stimme. Sie ist standardmäßig aus.</p></div>
-<div class="row"><div class="cmd"><code>!language &lt;voller Name&gt;|reset</code></div><p>Die Antwortsprache des Servers setzen oder löschen, und das passende Profilbild, wenn es existiert.</p></div>
-<div class="row"><div class="cmd"><code>!music &lt;YouTube/X-URL oder Anhang&gt;</code></div><p>Einen unterstützten Track anmachen. Oder <code>pause</code>, <code>resume</code>, <code>restart</code>, <code>skip</code>, <code>stop</code>, <code>now</code> und <code>leave</code>.</p></div>
-<div class="row"><div class="cmd"><code>!memory erase</code> / <code>!memory erase mine</code></div><p>Admins können die gespeicherten Chats des Servers löschen. Jeder kann die eigenen löschen, inklusive DMs, wenn die an sind.</p></div>
-<div class="row"><div class="cmd"><code>!reset all</code></div><p>Server verwalten. Löscht die gespeicherten Chats dieses Servers, die Kanal-Zeilen, die Antwortsprache und das Profilbild und stoppt seine Musik.</p></div>
-<div class="row"><div class="cmd"><code>!security status|pause|resume</code></div><p>Nur der Owner. Wie beschäftigt er ist, und eine Notpause, wenn etwas schiefläuft.</p></div>
-<div class="row"><div class="cmd"><code>!shutdown</code> / <code>!pricing</code></div><p>Nur der Owner. Den Bot stoppen oder aktuelle Modellpreise anzeigen.</p></div>
-<div class="row"><div class="cmd"><code>!owner's note</code></div><p>Eine kurze Notiz von der Person, die ihn gemacht hat.</p></div>
+<div class="row"><div class="cmd"><code>/help</code></div><p>Die kurze Fassung, wenn du es vergisst.</p></div><div class="row"><div class="cmd"><code>/ask</code></div><p>Frag etwas. Du kannst ein Bild, ein Dokument, eine Aufnahme oder ein Video zum Ändern anhängen.</p></div><div class="row"><div class="cmd"><code>/persona set</code></div><p>Wähl eine Figur, oder beschreib die Stimme. <code>/persona reset</code> holt die übliche zurück.</p></div><div class="row"><div class="cmd"><code>.language Hungarian</code></div><p>Antworten an dich, in der Sprache. <code>.language auto</code> folgt wieder deiner Nachricht.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Leg einen Song auf. Danach queue, pause, resume, skip oder stop.</p></div><div class="row"><div class="cmd"><code>/memory view</code></div><p>Zeig deine Notizen. remember, forget, pause und resume machen den Rest. Pause löscht nichts.</p></div><div class="row"><div class="cmd"><code>/reset</code></div><p>Lösch deinen Verlauf und deine Notizen in diesem Kanal. Stimme, Sprache und Dokumente bleiben.</p></div><div class="row"><div class="cmd"><code>/knowledge add</code></div><p>Behalt ein Dokument für spätere Fragen hier. <code>/ask library:true</code> benutzt es.</p></div><div class="row"><div class="cmd"><code>/voice join</code></div><p>Redet im Voice. Er hört nur die Person, die angefangen hat. Alle im Kanal hören die Antworten.</p></div><div class="row"><div class="cmd"><code>/speak</code></div><p>Text zu Audio, oder eine Aufnahme zu Text.</p></div>
 </div>
 </section>
 <section class="chapter" id="limits">
 <header class="chapter-h"><span class="num">03</span><h2>die Grenzen</h2></header>
-<p>Die gibt es, damit eine Person ihn nicht schmelzen kann, und damit er günstig genug bleibt, um weiterzulaufen. Das sind Anfrage-Deckel, kein Versprechen auf kostenlose Nutzung.</p>
+<p>Die sind da, damit eine Person die Rechnung nicht sprengt, und damit ich ihn anlassen kann. Es sind Grenzen. Benutzen kostet mich trotzdem Geld.</p>
 <div class="limits">
-<article class="stat"><b>8</b><h3>acht KI-Versuche pro Minute, pro Person</h3><p>Dieser Zähler lebt im laufenden Prozess und wird beim Neustart zurückgesetzt. Es gibt kein separates gespeichertes Tages- oder Zehn-Minuten-Kontingent. Der Full-Modus teilt sich dieselben Limits.</p></article>
-<article class="stat"><b>3</b><h3>drei KI-Nutzer gleichzeitig</h3><p>Höchstens drei Personen können gleichzeitig einen KI-Antwort-Slot belegen. Ein Befehl hat einen eigenen 25-Sekunden-Cooldown pro Person.</p></article>
-<article class="stat"><b>15</b><h3>Musik bleibt klein</h3><p>Unterstützte YouTube- oder Twitter/X-Videolinks müssen sich zu einem einzelnen Track unter 15 Minuten auflösen. Audio-Anhänge und heruntergeladenes Audio sind auf 20 MiB begrenzt, mit höchstens zwei normalen Musik-Sitzungen. Native Wiedergabe braucht Linux und FFmpeg.</p></article>
+<article class="stat"><b>5s</b><h3>gib ihm eine Sekunde</h3><p>Ungefähr fünf Sekunden zwischen deinen Anfragen, und nur ein paar Gespräche gleichzeitig.</p></article><article class="stat"><b>2</b><h3>Bilder und Videos sind begrenzt</h3><p>Zwei Bilder und ein Video am Tag für dich. Ein Server teilt sich fünf Bilder und drei Videos. Das setzt sich um Mitternacht in Budapest zurück. Du bestätigst, bevor etwas ausgegeben wird.</p></article><article class="stat"><b>20</b><h3>Musik und Voice bleiben klein</h3><p>Ein Player pro Server, bis zu 20 Songs in der Warteschlange, SoundCloud-Tracks unter einer Stunde. Ein Voice-Gespräch dauert höchstens zehn Minuten. Stopp die Musik, bevor du redest.</p></article>
 </div>
-<p class="note">Er kann sich irren und dabei sicher klingen. Prüfe, was zählt.</p>
+<p class="note">Er liegt auch mal falsch. Wenn eine Antwort zählt, prüf sie, oder frag einen Menschen.</p>
 </section>
 <section class="chapter" id="data">
 <header class="chapter-h"><span class="num">04</span><h2>was er behält</h2></header>
-<div class="prose"><p>Er hält deinen Thread mit ihm und ein kurzes Log der letzten Zeilen in diesem Kanal, damit die nächste Antwort nicht aus dem Nichts kommt. Deine Persona bleibt deine. Das liegt in einer lokalen SQLite-Datei. Alte Turns fallen von selbst runter. <code>!memory erase</code> löscht die gespeicherten Unterhaltungen eines Servers und diese Zeilen. <code>!memory erase mine</code> löscht deine.</p>
-<p>Hangout-Anfragen gehen an das eingestellte Modell, mit Storage auf der Anbieterseite aus. Musik-Anfragen landen in einem kleinen Audit-Log für den Betreiber; es hält operative Metadaten fest und hasht das rohe Argument. Passwörter, signierte Medienlinks und Fehlertext vom Anbieter werden nicht aufgeschrieben.</p>
-<p>Die längere, sorgfältige Version ist die <a href="/kirk/privacy">Datenschutzerklärung</a>. Einladen heißt auch den <a href="/kirk/terms">Nutzungsbedingungen</a> zustimmen.</p></div>
+<div class="prose"><p>Eure Chats, Notizen, um die du gebeten hast, und Einstellungen wie Stimme und Sprache. Das liegt auf dem Rechner, der den Bot laufen lässt. Beim Antworten gehen die nötigen Teile an xAI. Ein Dokument, das du bewusst speicherst, bleibt dort, bis du es löschst. Nichts davon wird verkauft, und es gibt keine Werbung.</p><p>Die lange Fassung ist die <a href="/kirk/privacy">Datenschutzseite</a>. Wer ihn einlädt, stimmt auch den <a href="/kirk/terms">Bedingungen</a> zu.</p></div>
 </section>
 <section class="chapter" id="faq">
 <header class="chapter-h"><span class="num">05</span><h2>fragen</h2></header>
 <div class="faq">
-<details><summary>Antwortet er auf jede Nachricht?</summary><p>Nein. Erwähne ihn, wenn du eine Antwort willst. Er behält eine kurze aktuelle Zeile aus dem Kanal, damit er nicht blind ist, wenn du es tust. DMs nur, wenn der Betreiber sie eingeschaltet hat. Andere Bots kriegen nie eine Antwort.</p></details>
-<details><summary>Warum hat er nicht geantwortet?</summary><p>Schau, ob du ihn gepingt hast. Gib ihm eine Sekunde. Er zeigt Tippen an, während er arbeitet. Schau dir die Limits und Cooldowns oben an. Andere Bots werden ignoriert.</p></details>
-<details><summary>Kann ich ändern, wie er klingt?</summary><p>Ja. <code>!persona rudeish low</code>, <code>!persona rudeish medium</code>, <code>!persona rudeish high</code>, <code>!persona nerdish</code>, <code>!persona flirty</code>, <code>!persona irritating</code>, <code>!persona femboy</code>, <code>!persona cute</code> oder <code>!persona normal</code>. Die Stimme als Person im Raum ist standardmäßig aus; <code>!human on</code> holt sie zurück.</p></details>
-<details><summary>Spielt die Musik?</summary><p>Ja. Er joint deinen Sprachkanal und streamt den Track. Keine Playlists, keine Warteschlange der nächsten zehn Songs. Du musst in Voice sein, und er braucht dort Connect und Speak.</p></details>
-<details><summary>Kann ich jeder Antwort trauen?</summary><p>Nein. Er kann sicher sein und trotzdem falsch. Wenn etwas zählt, prüf es selbst oder frag einen Menschen.</p></details>
-<details><summary>Wo sag ich, dass etwas kaputt ist?</summary><p>Der <a href="https://discord.gg/CNbpwtE9HS">Discord-Server</a>, oder die Person, die ihn gemacht hat: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Sag, was du versucht hast und was passiert ist. Bitte keine Tokens oder privaten Chats in einen öffentlichen Kanal.</p></details>
+<details><summary>Antwortet er auf jede Nachricht?</summary><p>Nein. Ping ihn, antworte ihm, benutz einen Befehl, oder schreib eine DM. Den Rest der Zeit ist er still.</p></details><details><summary>Warum hat er nicht geantwortet?</summary><p>Schau, ob der Ping oder der Befehl wirklich raus ist, und gib ihm einen Moment. Ein Balken, der sich bewegt, heißt, er arbeitet. Wenn er danach still bleibt, schau oben bei den Grenzen.</p></details><details><summary>Kann ich ändern, wie er klingt?</summary><p>Ja. <code>/persona set description:Talk like a pirate</code>, oder eine fertige Figur. Das gilt nur für dich. <code>/persona reset</code> holt die übliche Stimme zurück.</p></details><details><summary>Spielt die Musik wirklich?</summary><p>Ja, bei einem SoundCloud-Track, den er erreichen kann. Geh in den Voice, dann <code>.music</code> und ein Titel oder ein Link. YouTube-Links und Playlists spielen nicht.</p></details><details><summary>Kann ich jeder Antwort trauen?</summary><p>Nein. Er kann sicher klingen und trotzdem falsch liegen. Wenn es zählt, prüf es, oder frag einen Menschen.</p></details><details><summary>Wo sage ich, dass etwas kaputt ist?</summary><p>Der <a href="https://discord.gg/CNbpwtE9HS">Discord-Server</a>, oder ich: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Sag, was du versucht hast und was passiert ist. Bitte keine Tokens oder private Chats in einen öffentlichen Kanal.</p></details>
 </div>
 </section>
 

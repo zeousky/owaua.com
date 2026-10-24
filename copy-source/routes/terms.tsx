@@ -20,7 +20,7 @@ function TermsPage() {
       <header className="page-head">
         <p className="kicker">terms</p>
         <h1>the agreement</h1>
-        <p>Last updated October 23, 2026. If you invite owaua, talk to it, or keep it in a server, you agree to this.</p>
+        <p>Last updated October 24, 2026. If you invite owaua, talk to it, or keep it in a server, you agree to this.</p>
       </header>
 
       <section className="section">
@@ -50,7 +50,7 @@ function TermsPage() {
             owaua is a Discord bot you can chat with, ask to look things up, or use for voice, documents, images, videos, and music. Ping it, reply to it, use /ask or .ask, or send a DM. Your style and language choices are personal. Memories are separate for each server, channel, and person.
           </p>
           <p>Use slash commands or the same commands with a dot. Music uses .music with a song name or supported SoundCloud track link. You review the prompt and settings before a paid image or video generation starts. A confirmation is permission for that request, not for later requests.</p>
-          <p>It isn’t a person, and it isn’t a moderator. Don’t treat what it says as advice. It can be wrong. It can help, but it doesn’t run your life.</p>
+          <p>It isn’t a person, and it isn’t a moderator. It can help, and it can be wrong. Don’t treat what it says as medical, legal, or financial advice, and don’t hand it a decision that matters.</p>
         </div>
       </section>
 
@@ -79,7 +79,7 @@ function TermsPage() {
           <p>
             Using it to waste that money is abuse. That includes looping it, farming it, pinging it for nothing, dumping huge pastes, jailbreak marathons, filler, scripts, extra accounts, and turning on expensive modes just to spam them. “I was just testing” doesn’t change that.
           </p>
-          <p>We can ignore you, wipe memory, remove the bot from the server, and stop answering, with no warning. The rate limit is not permission to keep doing it.</p>
+          <p>I can ignore you, wipe memory, remove the bot from the server, and stop answering, with no warning. A rate limit is not permission to keep doing it.</p>
         </div>
       </section>
 
@@ -129,7 +129,7 @@ function TermsPage() {
             <span>No malware, exploits, or instructions for hurting people or breaking systems in the real world.</span>
           </li>
         </ul>
-        <p className="note">We can ignore messages, reset memory, pull the bot from a server, or stop answering you.</p>
+        <p className="note">I can ignore messages, reset memory, pull the bot from a server, or stop answering you.</p>
       </section>
 
       <section className="section">
@@ -149,7 +149,7 @@ function TermsPage() {
         <h2>the official bot, and running it yourself</h2>
         <div className="body">
           <p>
-            If you self-host, you’re responsible for your keys, your database, your users, and your own terms. The official bot is the one invited from this site. We can change features, limits, models, and availability. We can turn the official bot off.
+            If you self-host, you’re responsible for your keys, your database, your users, and your own terms. The official bot is the one invited from this site. I can change features, limits, models, and availability. I can turn the official bot off.
           </p>
           <p>
             owaua runs on Discord and uses xAI for AI features. Music uses SoundCloud. Searches and integrations can involve other services. Their terms apply to what passes through them. Partnerships listed on this site are separate projects, with their own rules.
@@ -161,7 +161,7 @@ function TermsPage() {
         <h2>no warranty</h2>
         <div className="body">
           <p>
-            The bot is provided as it is. We don’t promise it will be up, correct, or a good fit for your server. To the extent the law allows, the person running it is not liable for what the bot says, stores, deletes, or fails to do, including lost messages, bad advice, or a command that did something you didn’t want.
+            The bot is provided as it is. I don’t promise it will be up, correct, or a good fit for your server. To the extent the law allows, I’m not liable for what the bot says, stores, deletes, or fails to do, including lost messages, bad advice, or a command that did something you didn’t want.
           </p>
           <p>If the place you live doesn’t allow some of that, those parts don’t apply there. The rest still does.</p>
         </div>

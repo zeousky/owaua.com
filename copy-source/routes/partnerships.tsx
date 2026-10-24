@@ -19,15 +19,15 @@ function PartnersPage() {
     <Site>
       <header className="page-head">
         <p className="kicker">partners</p>
-        <h1>other bots we like</h1>
-        <p>owaua is the one you ping when you want company. These are other projects we get along with. They have their own rules.</p>
+        <h1>other bots I like</h1>
+        <p>owaua is the bot you talk to on this site. These are other projects I get along with. They have their own rules.</p>
       </header>
 
       <article className="partner">
         <h2>E.R.G.O</h2>
         <p className="meta">the other bot · Discord</p>
         <p>
-          owaua hangs out. E.R.G.O does chores: a wallet, a shop, music, mods, fishing, news, and a little AI with its own memory. The long name is Executive Response & Governance Operator.
+          owaua is the bot you talk to. E.R.G.O does the chores: a wallet, a shop, music, mods, fishing, news, and a little AI of its own. The long name is Executive Response & Governance Operator.
         </p>
         <p>
           Type <code>!menu</code> in Discord for the live list. Some of it is staff-only. It isn’t us, and it doesn’t share memory with owaua. If this page and the bot ever disagree, believe the bot.
