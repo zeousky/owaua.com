@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<meta name="description" content="Menționează-l pe owaua, răspunde-i sau trimite-i un DM. Ține minte conversația voastră, poate căuta, face o imagine sau un video scurt, vorbi pe voice și pune o piesă.">
+<meta name="description" content="Menționează-l pe owaua când vrei un răspuns.">
 <meta name="theme-color" content="#12110f">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
 <link rel="canonical" href="https://owaua.com/kirk/romanian">
@@ -22,7 +22,7 @@
 <meta property="og:image" content="https://owaua.com/assets/pfp-romanian.png">
 <meta property="og:title" content="owaua">
 <meta property="og:description" content="un bot de Discord cu care poți vorbi">
-<title>owaua · un bot de Discord cu care poți vorbi</title>
+<title>owaua · un bot cu care vorbești</title>
 <link rel="icon" href="/assets/pfp-romanian-96.webp?v=20260918a" type="image/webp">
 <link rel="stylesheet" href="/kirk/assets/kirk.css?v=20261013a">
 </head>
@@ -44,7 +44,6 @@
 <a href="#commands">comenzi</a>
 <a href="#limits">limite</a>
 <a href="/kirk/privacy">confidențialitate</a>
-<a href="#data">ce păstrează</a>
 <a href="#faq">întrebări</a>
 
 <a href="/kirk/terms">termeni</a>
@@ -71,52 +70,43 @@
 </details>
 <main id="main" class="stage">
 <header class="opener">
-<p class="kicker">un bot de Discord cu care poți vorbi</p>
-<p class="epigraph">Site-ul e mic. Botul e partea care contează.</p>
-<h1>botul care stă pe serverul tău</h1>
-<p class="status">Tace până îi vorbești. Apoi chiar poate ajuta.</p>
-<p class="lede">Menționează-l, răspunde-i sau trimite-i un DM. Ține minte conversația voastră din canalul ăla, nu pe a celorlalți. Poate schimba felul în care sună, răspunde în limba ta, căuta ceva, face o imagine sau un video scurt, vorbi cu tine pe voice sau pune o piesă.</p>
+<p class="kicker">un bot cu care vorbești</p>
+<h1>menționează-l când vrei un răspuns</h1>
+<p class="lede">Ține minte chat-ul vostru, nu pe al altora. Poate căuta, face o imagine sau un video scurt, vorbi pe voice sau pune o piesă.</p>
 <div class="actions">
-<a class="btn" href="https://discord.gg/CNbpwtE9HS">vino pe Discord</a>
-<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invită-l pe owaua</a>
+<a class="btn" href="https://discord.gg/CNbpwtE9HS">Discord</a>
+<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invită</a>
 </div>
-<p class="note">Comenzile slash merg. Merge și un punct, de exemplu <code>.ask cât e ceasul</code>. Dacă o comandă e privată, răspunsul vine pe DM, așa că lasă-le deschise. Mesajul pe care l-ai scris pe server rămâne vizibil acolo.</p>
+<p class="note">Comenzi slash, sau un punct: <code>.ask</code>. Răspunsurile private vin pe DM.</p>
 <figure class="plate">
-<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua răspunde într-un canal Discord" loading="lazy">
-<figcaption>un răspuns, pe server</figcaption>
+<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua într-un canal Discord" loading="lazy">
 </figure>
 </header>
 <section class="chapter" id="what">
 <header class="chapter-h"><span class="num">01</span><h2>ce face</h2></header>
-<p>Îi vorbești cum ai vorbi cu cineva de pe server. Vocea și limba sunt ale tale, nu ale camerei.</p>
-<div class="piece"><h3>așteaptă să-i vorbești</h3><p>Nu sare în fiecare mesaj. Dă-i ping, răspunde la ceva ce a spus sau trimite un DM. O mențiune, <code>/ask</code> sau <code>.ask</code> merg. Lasă în pace alți boți și nu ține un jurnal cu restul canalului.</p></div><div class="piece"><h3>ține minte conversația voastră</h3><p>În canalul ăla, chat-ul cu el rămâne al tău. Mesajele recente sunt acolo. Pe cele mai vechi le poate căuta cam șase luni. Dacă îi spui ceva de păstrat, poate salva o notiță până o ștergi. Persoana de lângă tine are memoria ei.</p></div><div class="piece"><h3>poate suna cum vrei tu</h3><p>Din start vorbește ca un prieten. Relaxat, și înjură. Dacă nu e starea potrivită, schimb-o: pirat, robot, vrăjitor, detectiv, profesor, sau o descriere scurtă de-a ta. Alegerea te urmează. Nu schimbă botul pentru toți ceilalți.</p></div><div class="piece"><h3>limba ta, nu a întregului server</h3><p>Încearcă <code>.language Hungarian</code>. De atunci, răspunsurile pentru tine sunt în limba aia, și pe alte servere, în DM și la următorul voice. <code>.language auto</code> se întoarce la felul în care scrii.</p></div><div class="piece"><h3>o piesă, dacă vrei</h3><p>Intră pe voice și încearcă <code>.music</code> cu un titlu, sau lipește un link SoundCloud. Următoarele așteaptă. Pauză, continuă, skip, stop, din același canal. Fără playlisturi, livestreamuri sau linkuri YouTube.</p></div><div class="piece"><h3>poate căuta și poate citi ce trimiți</h3><p>O întrebare mică poate primi un răspuns scurt. Una mai mare, o explicație pe bune. Poate căuta pe web și pe X, se poate uita la o imagine, poate citi un PDF sau cod și îți poate da un fișier sau un grafic simplu.</p></div><div class="piece"><h3>imagini, video și o voce adevărată</h3><p>Cere o imagine sau un video scurt, sau trimite unul și spune ce să schimbe. Îți arată întâi promptul. Nu generează nimic până nu spui da. <code>/speak</code> citește un text. <code>/transcribe</code> scrie o înregistrare. <code>/voice join</code> e o conversație adevărată pe voice.</p></div>
+<div class="piece"><h3>tu începi</h3><p>Menționează-l, răspunde-i sau trimite un DM. Altfel tace.</p></div><div class="piece"><h3>te ține minte</h3><p>Chat-ul din canalul ăla e al tău. Notițele rămân până le ștergi.</p></div><div class="piece"><h3>vocea ta</h3><p>Relaxat, și înjură, dacă nu schimbi asta cu <code>/persona</code>. <code>.language</code> alege răspunsurile tale.</p></div><div class="piece"><h3>mai mult decât chat</h3><p>Căutare, citit un fișier, imagine sau video scurt după ce spui da, voice, sau o piesă SoundCloud.</p></div>
 </section>
 <section class="chapter" id="commands">
-<header class="chapter-h"><span class="num">02</span><h2>cum îi vorbești</h2></header>
-<p>Fiecare comandă slash merge și cu un punct. Vocea, limba, memoria și fișierele sunt ale tale. Muzica se controlează doar dacă ești în același voice.</p>
+<header class="chapter-h"><span class="num">02</span><h2>comenzi</h2></header>
+<p>Fiecare comandă slash merge și cu un punct.</p>
 <div class="ledger">
-<div class="row"><div class="cmd"><code>/help</code></div><p>Varianta scurtă, când uiți.</p></div><div class="row"><div class="cmd"><code>/ask</code></div><p>Întreabă ceva. Poți atașa o imagine, un document, o înregistrare sau un video de modificat.</p></div><div class="row"><div class="cmd"><code>/persona set</code></div><p>Alege un personaj sau descrie vocea. <code>/persona reset</code> aduce înapoi vocea obișnuită.</p></div><div class="row"><div class="cmd"><code>.language Hungarian</code></div><p>Răspunsuri pentru tine, în limba aia. <code>.language auto</code> urmărește din nou mesajul tău.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Pune o piesă. Apoi queue, pause, resume, skip sau stop.</p></div><div class="row"><div class="cmd"><code>/memory view</code></div><p>Vezi notițele tale. remember, forget, pause și resume fac restul. Pause nu șterge.</p></div><div class="row"><div class="cmd"><code>/reset</code></div><p>Șterge-ți istoricul și notițele din canalul ăsta. Vocea, limba și documentele rămân.</p></div><div class="row"><div class="cmd"><code>/knowledge add</code></div><p>Păstrează un document pentru mai târziu, aici. <code>/ask library:true</code> îl folosește.</p></div><div class="row"><div class="cmd"><code>/voice join</code></div><p>Vorbiți pe voice. Aude doar persoana care a început. Toți din canal aud răspunsurile.</p></div><div class="row"><div class="cmd"><code>/speak</code></div><p>Text în audio, sau o înregistrare în text.</p></div>
+<div class="row"><div class="cmd"><code>/ask</code></div><p>Întreabă. Atașează o imagine, un fișier, un sunet sau un video dacă vrei.</p></div><div class="row"><div class="cmd"><code>/persona</code></div><p>Cum îți vorbește. <code>.language</code> alege limba.</p></div><div class="row"><div class="cmd"><code>/memory</code></div><p>Notițele și istoricul tău aici. <code>/reset</code> le șterge.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Un titlu sau un link SoundCloud.</p></div><div class="row"><div class="cmd"><code>/voice</code></div><p>O conversație pe voice. <code>/speak</code> și <code>/transcribe</code> trec din text în audio și înapoi.</p></div>
 </div>
 </section>
 <section class="chapter" id="limits">
-<header class="chapter-h"><span class="num">03</span><h2>limitele</h2></header>
-<p>Sunt ca să nu umfle o singură persoană nota de plată, și ca să-l pot lăsa pornit. Sunt limite. Folosirea tot mă costă bani.</p>
+<header class="chapter-h"><span class="num">03</span><h2>limite</h2></header>
 <div class="limits">
-<article class="stat"><b>5s</b><h3>dă-i o secundă</h3><p>Cam cinci secunde între cererile tale, și doar câteva conversații deodată.</p></article><article class="stat"><b>2</b><h3>imaginile și videourile sunt limitate</h3><p>Două imagini și un video pe zi pentru tine. Un server împarte cinci imagini și trei videouri. Se resetează la miezul nopții, ora Budapestei. Confirmi înainte să plece.</p></article><article class="stat"><b>20</b><h3>muzica și voice-ul rămân mici</h3><p>Un player pe server, până la 20 de piese în așteptare, piese SoundCloud sub o oră. O conversație voice ține cel mult zece minute. Oprește muzica înainte să vorbești.</p></article>
+<article class="stat"><b>5s</b><h3>o pauză scurtă</h3><p>Cam cinci secunde între cereri. Doar câteva chat-uri deodată.</p></article><article class="stat"><b>2</b><h3>imagini și video</h3><p>Două imagini și un video pe zi pentru tine. Un server împarte cinci și trei. Miezul nopții la Budapesta. Confirmi întâi.</p></article><article class="stat"><b>10m</b><h3>muzică și voice</h3><p>Un player pe server. SoundCloud, sub o oră. Voice-ul ține cel mult zece minute.</p></article>
 </div>
-<p class="note">Greșește. Dacă un răspuns contează, verifică-l sau întreabă un om.</p>
-</section>
-<section class="chapter" id="data">
-<header class="chapter-h"><span class="num">04</span><h2>ce păstrează</h2></header>
-<div class="prose"><p>Chat-urile cu el, notițele pe care i-ai cerut să le țină și setări cum sunt vocea și limba. Stau pe mașina care rulează botul. Când răspunde, părțile utile merg la xAI. Un document pe care alegi să-l salvezi rămâne acolo până îl ștergi. Nimic din astea nu se vinde, și nu sunt reclame.</p><p>Varianta lungă e <a href="/kirk/privacy">politica de confidențialitate</a>. Dacă îl inviți, accepți și <a href="/kirk/terms">termenii</a>.</p></div>
+<p class="note">Poate greși. Dacă contează, verifică.</p>
 </section>
 <section class="chapter" id="faq">
-<header class="chapter-h"><span class="num">05</span><h2>întrebări</h2></header>
+<header class="chapter-h"><span class="num">04</span><h2>câteva răspunsuri</h2></header>
 <div class="faq">
-<details><summary>Răspunde la fiecare mesaj?</summary><p>Nu. Dă-i ping, răspunde-i, folosește o comandă sau trimite un DM. În rest tace.</p></details><details><summary>De ce n-a răspuns?</summary><p>Verifică că ping-ul sau comanda au plecat, apoi dă-i un moment. O bară care se mișcă înseamnă că lucrează. Dacă tot tace, uită-te la limitele de mai sus.</p></details><details><summary>Pot schimba cum sună?</summary><p>Da. <code>/persona set description:Talk like a pirate</code>, sau un personaj gata făcut. E doar pentru tine. <code>/persona reset</code> aduce înapoi vocea obișnuită.</p></details><details><summary>Muzica chiar cântă?</summary><p>Da, pentru o piesă SoundCloud la care poate ajunge. Intră pe voice, apoi <code>.music</code> și un titlu sau un link. Linkurile YouTube și playlisturile nu cântă.</p></details><details><summary>Pot avea încredere în fiecare răspuns?</summary><p>Nu. Poate suna sigur și tot să greșească. Dacă contează, verifică sau întreabă un om.</p></details><details><summary>Unde spun că ceva s-a stricat?</summary><p><a href="https://discord.gg/CNbpwtE9HS">Serverul de Discord</a>, sau eu: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Spune ce ai încercat și ce s-a întâmplat. Nu lipi tokenuri sau chat-uri private într-un canal public.</p></details>
+<details><summary>Răspunde la tot?</summary><p>Nu. Menționează-l, răspunde-i sau trimite un DM.</p></details><details><summary>Pot crede fiecare răspuns?</summary><p>Nu. Poate suna sigur și tot să greșească.</p></details><details><summary>Cine îl rulează?</summary><p>Eu, ckazros. <a href="https://discord.gg/CNbpwtE9HS">Discord</a> sau <a href="mailto:ckazros@owaua.com">email</a>.</p></details>
+<p>Storage: <a href="/kirk/privacy">privacy</a>. Invite means the <a href="/kirk/terms">terms</a>.</p>
 </div>
 </section>
-
 <footer class="colophon">
 <p>© 2026 owaua</p>
 <nav aria-label="Subsol">

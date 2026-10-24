@@ -5,7 +5,7 @@ export const DISCORD = 'https://discord.gg/CNbpwtE9HS';
 export const EMAIL = 'ckazros@owaua.com';
 
 export function LanguageRow() {
-  return <p className="langs-label">This site is in English. The bot can answer in your language. Try <code>.language</code> and the name, like Hungarian.</p>;
+  return <p className="langs-label">This site is in English. <code>.language</code> picks yours.</p>;
 }
 
 export function Site({ children, note }: { children: ReactNode; note?: string }) {

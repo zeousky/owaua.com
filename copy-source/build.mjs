@@ -12,7 +12,7 @@ const output = resolve(here, '.build');
 await mkdir(output, { recursive: true });
 const shell = await readFile(resolve(here, 'shell.html'), 'utf8');
 const escape = value => String(value).replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;');
-const homeDescription = 'Mention owaua, reply to it, or send a DM. It remembers your chat, can look things up, make a picture or a short video, talk in voice, and play a song.';
+const homeDescription = 'Mention owaua when you want a reply. It can remember, look things up, make a picture or a short video, talk in voice, and play a song.';
 for (const name of ['index', 'privacy', 'terms', 'partnerships']) {
   const bundle = resolve(output, name + '.mjs');
   await build({ entryPoints: [resolve(here, 'routes', name + '.tsx')], outfile: bundle, bundle: true, platform: 'node', format: 'esm', jsx: 'automatic',

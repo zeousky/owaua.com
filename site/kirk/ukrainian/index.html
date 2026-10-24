@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<meta name="description" content="Згадай owaua, відповідай йому або напиши в особисті. Він пам’ятає вашу розмову, може пошукати, зробити картинку чи коротке відео, поговорити в войсі й поставити пісню.">
+<meta name="description" content="Згадай owaua, коли хочеш відповідь.">
 <meta name="theme-color" content="#12110f">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
 <link rel="canonical" href="https://owaua.com/kirk/ukrainian">
@@ -22,7 +22,7 @@
 <meta property="og:image" content="https://owaua.com/assets/pfp-ukrainian.png">
 <meta property="og:title" content="owaua">
 <meta property="og:description" content="Discord-бот, з яким можна поговорити">
-<title>owaua · бот у Discord, з яким можна поговорити</title>
+<title>owaua · бот, з яким говориш</title>
 <link rel="icon" href="/assets/pfp-ukrainian-96.webp?v=20260918a" type="image/webp">
 <link rel="stylesheet" href="/kirk/assets/kirk.css?v=20261013a">
 </head>
@@ -44,7 +44,6 @@
 <a href="#commands">команди</a>
 <a href="#limits">межі</a>
 <a href="/kirk/privacy">приватність</a>
-<a href="#data">що він тримає</a>
 <a href="#faq">питання</a>
 
 <a href="/kirk/terms">умови</a>
@@ -71,52 +70,43 @@
 </details>
 <main id="main" class="stage">
 <header class="opener">
-<p class="kicker">бот у Discord, з яким можна поговорити</p>
-<p class="epigraph">Сайт маленький. Важливий бот.</p>
-<h1>бот, який тусується на твоєму сервері</h1>
-<p class="status">Мовчить, поки ти до нього не озвешся. А тоді справді може допомогти.</p>
-<p class="lede">Згадай його, відповідай йому або просто напиши в особисті. Він пам’ятає вашу розмову в цьому каналі, не чужу. Може змінити голос, відповідати твоєю мовою, щось пошукати, зробити картинку чи коротке відео, поговорити з тобою в войсі або поставити пісню.</p>
+<p class="kicker">бот, з яким говориш</p>
+<h1>згадай його, коли хочеш відповідь</h1>
+<p class="lede">Він пам’ятає вашу розмову, не чужу. Може пошукати, зробити картинку чи коротке відео, поговорити в войсі або поставити пісню.</p>
 <div class="actions">
-<a class="btn" href="https://discord.gg/CNbpwtE9HS">заходь у Discord</a>
-<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">запроси owaua</a>
+<a class="btn" href="https://discord.gg/CNbpwtE9HS">Discord</a>
+<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">запросити</a>
 </div>
-<p class="note">Слеш-команди працюють. Крапка теж, наприклад <code>.ask котра година</code>. Якщо команда приватна, відповідь прийде в особисті, тож залиш їх відкритими. Повідомлення, яке ти написав на сервері, лишається там видимим.</p>
+<p class="note">Слеш-команди або крапка: <code>.ask</code>. Приватні відповіді приходять в особисті.</p>
 <figure class="plate">
-<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua відповідає в каналі Discord" loading="lazy">
-<figcaption>відповідь, просто на сервері</figcaption>
+<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua в каналі Discord" loading="lazy">
 </figure>
 </header>
 <section class="chapter" id="what">
 <header class="chapter-h"><span class="num">01</span><h2>що він робить</h2></header>
-<p>Говори з ним так, як говорив би з кимось на сервері. Голос і мова твої, не всієї кімнати.</p>
-<div class="piece"><h3>чекає, поки ти озвешся</h3><p>Він не влізає в кожне повідомлення. Пінгани його, відповідай на те, що він сказав, або напиши в особисті. Згадка, <code>/ask</code> чи <code>.ask</code> підходять. Інших ботів він не чіпає і не веде журнал решти каналу.</p></div><div class="piece"><h3>пам’ятає вашу розмову</h3><p>У цьому каналі чат із ним лишається твоїм. Свіжі повідомлення під рукою. Старіші він може знайти приблизно за пів року. Якщо скажеш щось варте пам’яті, він може зберегти нотатку, поки ти її не видалиш. У людини поруч своя пам’ять.</p></div><div class="piece"><h3>може звучати так, як ти хочеш</h3><p>Сам собою він говорить як друг. Невимушено, і лається. Якщо це не той настрій, зміни: пірат, робот, чарівник, детектив, вчитель або короткий власний опис. Цей вибір ходить за тобою. Для всіх інших бот не змінюється.</p></div><div class="piece"><h3>твоя мова, не всього сервера</h3><p>Спробуй <code>.language Hungarian</code>. Далі відповіді тобі йдуть цією мовою, і на інших серверах, в особистих, і в наступному войсі. <code>.language auto</code> знову підлаштовується під те, як ти пишеш.</p></div><div class="piece"><h3>пісня, якщо хочеш</h3><p>Зайди в войс і спробуй <code>.music</code> з назвою або встав посилання SoundCloud. Наступні чекають. Пауза, продовжити, skip, stop, з того самого каналу. Без плейлистів, прямих ефірів і посилань YouTube.</p></div><div class="piece"><h3>може пошукати і прочитати те, що ти надіслав</h3><p>На маленьке питання може бути коротка відповідь. На більше — нормальне пояснення. Він може шукати в мережі й на X, подивитися картинку, прочитати PDF або код і віддати файл чи простий графік.</p></div><div class="piece"><h3>картинки, відео і справжній голос</h3><p>Попроси картинку або коротке відео, або надішли своє і скажи, що змінити. Спершу він показує запит. Нічого не створюється, поки ти не скажеш так. <code>/speak</code> читає текст. <code>/transcribe</code> записує аудіо текстом. <code>/voice join</code> — це справжня розмова в войсі.</p></div>
+<div class="piece"><h3>ти починаєш</h3><p>Згадай його, відповідай або напиши в особисті. Інакше він мовчить.</p></div><div class="piece"><h3>він тебе пам’ятає</h3><p>Чат у цьому каналі твій. Нотатки лишаються, поки ти їх не видалиш.</p></div><div class="piece"><h3>твій голос</h3><p>Невимушено, і лається, якщо не зміниш це через <code>/persona</code>. <code>.language</code> обирає відповіді тобі.</p></div><div class="piece"><h3>більше за чат</h3><p>Пошук, читання файла, картинка чи коротке відео після твого так, войс або трек SoundCloud.</p></div>
 </section>
 <section class="chapter" id="commands">
-<header class="chapter-h"><span class="num">02</span><h2>як із ним говорити</h2></header>
-<p>Кожна слеш-команда працює і з крапкою. Голос, мова, пам’ять і файли твої. Музикою керуєш лише з того самого войсу.</p>
+<header class="chapter-h"><span class="num">02</span><h2>команди</h2></header>
+<p>Кожна слеш-команда працює і з крапкою.</p>
 <div class="ledger">
-<div class="row"><div class="cmd"><code>/help</code></div><p>Коротка версія, коли забуваєш.</p></div><div class="row"><div class="cmd"><code>/ask</code></div><p>Запитай щось. Можна прикріпити картинку, документ, запис або відео, яке треба змінити.</p></div><div class="row"><div class="cmd"><code>/persona set</code></div><p>Обери персонажа або опиши голос. <code>/persona reset</code> повертає звичний.</p></div><div class="row"><div class="cmd"><code>.language Hungarian</code></div><p>Відповіді тобі, цією мовою. <code>.language auto</code> знову йде за твоїм повідомленням.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Постав пісню. Далі queue, pause, resume, skip або stop.</p></div><div class="row"><div class="cmd"><code>/memory view</code></div><p>Подивись свої нотатки. remember, forget, pause і resume роблять решту. Pause нічого не видаляє.</p></div><div class="row"><div class="cmd"><code>/reset</code></div><p>Зітри свою історію й нотатки в цьому каналі. Голос, мова й документи лишаються.</p></div><div class="row"><div class="cmd"><code>/knowledge add</code></div><p>Залиш документ на потім, у цьому каналі. <code>/ask library:true</code> ним користується.</p></div><div class="row"><div class="cmd"><code>/voice join</code></div><p>Поговоріть у войсі. Він чує лише того, хто почав. Усі в каналі чують відповіді.</p></div><div class="row"><div class="cmd"><code>/speak</code></div><p>Текст в аудіо або запис у текст.</p></div>
+<div class="row"><div class="cmd"><code>/ask</code></div><p>Запитай. Додай картинку, файл, запис або відео, якщо хочеш.</p></div><div class="row"><div class="cmd"><code>/persona</code></div><p>Як він із тобою говорить. <code>.language</code> обирає мову.</p></div><div class="row"><div class="cmd"><code>/memory</code></div><p>Твої нотатки й історія тут. <code>/reset</code> їх стирає.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Назва пісні або посилання SoundCloud.</p></div><div class="row"><div class="cmd"><code>/voice</code></div><p>Розмова в войсі. <code>/speak</code> і <code>/transcribe</code> перетворюють текст і аудіо.</p></div>
 </div>
 </section>
 <section class="chapter" id="limits">
 <header class="chapter-h"><span class="num">03</span><h2>межі</h2></header>
-<p>Вони є, щоб одна людина не роздувала рахунок і щоб я міг лишати його увімкненим. Це межі. Користування все одно коштує мені грошей.</p>
 <div class="limits">
-<article class="stat"><b>5s</b><h3>дай йому секунду</h3><p>Близько п’яти секунд між твоїми запитами, і лише кілька розмов водночас.</p></article><article class="stat"><b>2</b><h3>картинки й відео обмежені</h3><p>Дві картинки й одне відео на день для тебе. Сервер ділить п’ять картинок і три відео. Скидається опівночі за часом Будапешта. Ти підтверджуєш, перш ніж щось піде.</p></article><article class="stat"><b>20</b><h3>музика й войс лишаються невеликими</h3><p>Один плеєр на сервер, до 20 пісень у черзі, треки SoundCloud коротші за годину. Розмова в войсі триває щонайбільше десять хвилин. Зупини музику, перш ніж говорити.</p></article>
+<article class="stat"><b>5s</b><h3>коротка пауза</h3><p>Близько п’яти секунд між запитами. Лише кілька чатів водночас.</p></article><article class="stat"><b>2</b><h3>картинки й відео</h3><p>Дві картинки й одне відео на день для тебе. Сервер ділить п’ять і три. Північ у Будапешті. Спершу підтверджуєш.</p></article><article class="stat"><b>10m</b><h3>музика й войс</h3><p>Один плеєр на сервер. SoundCloud, коротше за годину. Войс триває щонайбільше десять хвилин.</p></article>
 </div>
-<p class="note">Він помиляється. Якщо відповідь важлива, перевір її або спитай людину.</p>
-</section>
-<section class="chapter" id="data">
-<header class="chapter-h"><span class="num">04</span><h2>що він зберігає</h2></header>
-<div class="prose"><p>Ваші чати, нотатки, які ти просив зберегти, і налаштування на кшталт голосу й мови. Це лежить на машині, яка запускає бота. Коли він відповідає, потрібні частини йдуть до xAI. Документ, який ти навмисно зберігаєш, лишається там, поки ти його не видалиш. Нічого з цього не продається, і реклами немає.</p><p>Довша версія — у <a href="/kirk/privacy">політиці конфіденційності</a>. Запрошення також означає згоду з <a href="/kirk/terms">умовами</a>.</p></div>
+<p class="note">Він може помилятися. Якщо це важливо, перевір.</p>
 </section>
 <section class="chapter" id="faq">
-<header class="chapter-h"><span class="num">05</span><h2>питання</h2></header>
+<header class="chapter-h"><span class="num">04</span><h2>кілька відповідей</h2></header>
 <div class="faq">
-<details><summary>Він відповідає на кожне повідомлення?</summary><p>Ні. Пінгани його, відповідай, використай команду або напиши в особисті. Решту часу він мовчить.</p></details><details><summary>Чому він не відповів?</summary><p>Перевір, що пінг або команда справді пішли, і дай йому хвилину. Смужка, що рухається, означає, що він працює. Якщо далі тихо, глянь межі вище.</p></details><details><summary>Можу змінити, як він говорить?</summary><p>Так. <code>/persona set description:Talk like a pirate</code> або готовий персонаж. Це лише для тебе. <code>/persona reset</code> повертає звичний голос.</p></details><details><summary>Музика справді грає?</summary><p>Так, якщо він дістає трек на SoundCloud. Зайди в войс, потім <code>.music</code> і назва або посилання. Посилання YouTube і плейлисти не грають.</p></details><details><summary>Можна вірити кожній відповіді?</summary><p>Ні. Він може звучати впевнено і все одно помилятися. Якщо це важливо, перевір або спитай людину.</p></details><details><summary>Куди писати, якщо щось зламалось?</summary><p><a href="https://discord.gg/CNbpwtE9HS">Сервер Discord</a> або я: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Напиши, що ти пробував і що сталося. Не вставляй токени чи приватні чати в публічний канал.</p></details>
+<details><summary>Він відповідає на все?</summary><p>Ні. Згадай його, відповідай або напиши в особисті.</p></details><details><summary>Можна вірити кожній відповіді?</summary><p>Ні. Він може звучати впевнено і все одно помилятися.</p></details><details><summary>Хто його запускає?</summary><p>Я, ckazros. <a href="https://discord.gg/CNbpwtE9HS">Discord</a> або <a href="mailto:ckazros@owaua.com">пошта</a>.</p></details>
+<p>Storage: <a href="/kirk/privacy">privacy</a>. Invite means the <a href="/kirk/terms">terms</a>.</p>
 </div>
 </section>
-
 <footer class="colophon">
 <p>© 2026 owaua</p>
 <nav aria-label="Підвал">

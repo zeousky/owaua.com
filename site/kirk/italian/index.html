@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<meta name="description" content="Menziona owaua, rispondigli, o mandagli un DM. Si ricorda la vostra chat, può cercare, fare un'immagine o un video breve, parlare in vocale e mettere una canzone.">
+<meta name="description" content="Menziona owaua quando vuoi una risposta.">
 <meta name="theme-color" content="#12110f">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
 <link rel="canonical" href="https://owaua.com/kirk/italian">
@@ -22,7 +22,7 @@
 <meta property="og:image" content="https://owaua.com/assets/pfp-italian.png">
 <meta property="og:title" content="owaua">
 <meta property="og:description" content="un bot Discord con cui puoi parlare">
-<title>owaua · un bot Discord con cui puoi parlare</title>
+<title>owaua · un bot con cui parli</title>
 <link rel="icon" href="/assets/pfp-italian-96.webp?v=20260918a" type="image/webp">
 <link rel="stylesheet" href="/kirk/assets/kirk.css?v=20261013a">
 </head>
@@ -44,7 +44,6 @@
 <a href="#commands">comandi</a>
 <a href="#limits">limiti</a>
 <a href="/kirk/privacy">privacy</a>
-<a href="#data">cosa tiene</a>
 <a href="#faq">domande</a>
 
 <a href="/kirk/terms">termini</a>
@@ -71,52 +70,43 @@
 </details>
 <main id="main" class="stage">
 <header class="opener">
-<p class="kicker">un bot Discord con cui puoi parlare</p>
-<p class="epigraph">Il sito è piccolo. Il bot è la parte che conta.</p>
-<h1>il bot che sta nel tuo server</h1>
-<p class="status">Sta zitto finché non gli parli. Poi può davvero aiutare.</p>
-<p class="lede">Menzionalo, rispondigli, o mandagli un DM. Si ricorda la vostra conversazione in quel canale, non quella degli altri. Può cambiare voce, rispondere nella tua lingua, cercare qualcosa, fare un'immagine o un video breve, parlare con te in vocale, o mettere una canzone.</p>
+<p class="kicker">un bot con cui parli</p>
+<h1>menzionalo quando vuoi una risposta</h1>
+<p class="lede">Si ricorda la vostra chat, non quella degli altri. Può cercare, fare un'immagine o un video breve, parlare in vocale o mettere una canzone.</p>
 <div class="actions">
-<a class="btn" href="https://discord.gg/CNbpwtE9HS">vieni sul Discord</a>
-<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invita owaua</a>
+<a class="btn" href="https://discord.gg/CNbpwtE9HS">Discord</a>
+<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">invita</a>
 </div>
-<p class="note">I comandi slash funzionano. Anche un punto, tipo <code>.ask che ore sono</code>. Se un comando è privato, la risposta arriva in DM, quindi lasciali aperti. Il messaggio che hai scritto nel server resta visibile.</p>
+<p class="note">Comandi slash, o un punto: <code>.ask</code>. Le risposte private arrivano in DM.</p>
 <figure class="plate">
-<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua che risponde in un canale Discord" loading="lazy">
-<figcaption>una risposta, dal vivo</figcaption>
+<img src="/image.webp?v=20260919a" width="738" height="408" alt="owaua in un canale Discord" loading="lazy">
 </figure>
 </header>
 <section class="chapter" id="what">
 <header class="chapter-h"><span class="num">01</span><h2>cosa fa</h2></header>
-<p>Gli parli come parleresti a qualcuno nel server. La voce e la lingua sono tue, non della stanza.</p>
-<div class="piece"><h3>aspetta che gli parli</h3><p>Non si infila in ogni messaggio. Pingalo, rispondi a qualcosa che ha detto, o manda un DM. Una menzione, <code>/ask</code> o <code>.ask</code> vanno bene. Lascia in pace gli altri bot e non tiene un registro del resto del canale.</p></div><div class="piece"><h3>si ricorda la vostra conversazione</h3><p>In quel canale, la chat con lui resta tua. I messaggi recenti sono lì. Quelli più vecchi li può ritrovare, per circa sei mesi. Se gli dici una cosa da tenere, può salvarsi una nota finché non la cancelli. La persona accanto ha una memoria sua.</p></div><div class="piece"><h3>può parlare come vuoi tu</h3><p>Di base parla come un amico. Informale, e dice parolacce. Se non è l'aria giusta, cambiala: pirata, robot, mago, detective, insegnante, o una breve descrizione tua. La scelta ti segue. Non cambia il bot per tutti gli altri.</p></div><div class="piece"><h3>la tua lingua, non quella del server</h3><p>Prova <code>.language Hungarian</code>. Da lì le risposte per te sono in quella lingua, anche in altri server, nei DM e nella prossima vocale. <code>.language auto</code> torna a seguire come scrivi.</p></div><div class="piece"><h3>una canzone, se la vuoi</h3><p>Entra in vocale e prova <code>.music</code> con un titolo, o incolla un link SoundCloud. Le altre aspettano. Pausa, riprendi, skip, stop, dallo stesso canale. Niente playlist, live o link YouTube.</p></div><div class="piece"><h3>può cercare, e leggere quello che mandi</h3><p>Una domanda piccola può avere una risposta piccola. Una più grande, una spiegazione vera. Può cercare sul web e su X, guardare un'immagine, leggere un PDF o del codice, e restituirti un file o un grafico semplice.</p></div><div class="piece"><h3>immagini, video e una voce vera</h3><p>Chiedi un'immagine o un video breve, oppure mandane uno e di' cosa cambiare. Prima ti mostra il prompt. Non genera niente finché non dici sì. <code>/speak</code> legge un testo. <code>/transcribe</code> trascrive una registrazione. <code>/voice join</code> è una conversazione vera in vocale.</p></div>
+<div class="piece"><h3>parti tu</h3><p>Menzionalo, rispondigli o manda un DM. Altrimenti sta zitto.</p></div><div class="piece"><h3>si ricorda di te</h3><p>La chat in quel canale è tua. Le note restano finché non le cancelli.</p></div><div class="piece"><h3>la tua voce</h3><p>Informale, e dice parolacce, a meno che non lo cambi con <code>/persona</code>. <code>.language</code> sceglie le tue risposte.</p></div><div class="piece"><h3>più di una chat</h3><p>Cercare, leggere un file, fare un'immagine o un video breve dopo il tuo sì, parlare in vocale o suonare SoundCloud.</p></div>
 </section>
 <section class="chapter" id="commands">
-<header class="chapter-h"><span class="num">02</span><h2>come gli parli</h2></header>
-<p>Ogni comando slash funziona anche con un punto. Voce, lingua, memoria e file sono tuoi. I controlli della musica funzionano solo se sei nello stesso vocale.</p>
+<header class="chapter-h"><span class="num">02</span><h2>comandi</h2></header>
+<p>Ogni comando slash funziona anche con un punto.</p>
 <div class="ledger">
-<div class="row"><div class="cmd"><code>/help</code></div><p>La versione corta, quando te lo dimentichi.</p></div><div class="row"><div class="cmd"><code>/ask</code></div><p>Chiedi qualcosa. Puoi allegare un'immagine, un documento, una registrazione o un video da modificare.</p></div><div class="row"><div class="cmd"><code>/persona set</code></div><p>Scegli un personaggio, o descrivi la voce. <code>/persona reset</code> riporta quella solita.</p></div><div class="row"><div class="cmd"><code>.language Hungarian</code></div><p>Le risposte per te, in quella lingua. <code>.language auto</code> segue di nuovo il tuo messaggio.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Metti una canzone. Poi queue, pause, resume, skip o stop.</p></div><div class="row"><div class="cmd"><code>/memory view</code></div><p>Vedi le tue note. remember, forget, pause e resume fanno il resto. Pause non cancella.</p></div><div class="row"><div class="cmd"><code>/reset</code></div><p>Cancella la tua cronologia e le note in questo canale. Voce, lingua e documenti restano.</p></div><div class="row"><div class="cmd"><code>/knowledge add</code></div><p>Tieni un documento per dopo, in questo canale. <code>/ask library:true</code> lo usa.</p></div><div class="row"><div class="cmd"><code>/voice join</code></div><p>Parlate in vocale. Sente solo chi ha iniziato. Tutti nel canale sentono le risposte.</p></div><div class="row"><div class="cmd"><code>/speak</code></div><p>Testo in audio, o una registrazione in testo.</p></div>
+<div class="row"><div class="cmd"><code>/ask</code></div><p>Chiedi. Allega un'immagine, un file, un audio o un video se vuoi.</p></div><div class="row"><div class="cmd"><code>/persona</code></div><p>Come ti parla. <code>.language</code> sceglie la lingua.</p></div><div class="row"><div class="cmd"><code>/memory</code></div><p>Le tue note e la cronologia qui. <code>/reset</code> le cancella.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Un titolo o un link SoundCloud.</p></div><div class="row"><div class="cmd"><code>/voice</code></div><p>Una vocale. <code>/speak</code> e <code>/transcribe</code> passano da testo ad audio e viceversa.</p></div>
 </div>
 </section>
 <section class="chapter" id="limits">
-<header class="chapter-h"><span class="num">03</span><h2>i limiti</h2></header>
-<p>Ci sono perché una persona non faccia salire il conto, e perché io possa lasciarlo acceso. Sono limiti. Usarlo mi costa comunque dei soldi.</p>
+<header class="chapter-h"><span class="num">03</span><h2>limiti</h2></header>
 <div class="limits">
-<article class="stat"><b>5s</b><h3>dagli un secondo</h3><p>Circa cinque secondi tra le tue richieste, e solo poche conversazioni alla volta.</p></article><article class="stat"><b>2</b><h3>immagini e video sono limitati</h3><p>Due immagini e un video al giorno per te. Un server ne condivide cinque e tre. Si azzera a mezzanotte, ora di Budapest. Confermi prima che parta.</p></article><article class="stat"><b>20</b><h3>musica e vocale restano piccoli</h3><p>Un player per server, fino a 20 canzoni in coda, tracce SoundCloud sotto un'ora. Una vocale dura al massimo dieci minuti. Ferma la musica prima di parlare.</p></article>
+<article class="stat"><b>5s</b><h3>una breve pausa</h3><p>Circa cinque secondi tra le richieste. Poche chat alla volta.</p></article><article class="stat"><b>2</b><h3>immagini e video</h3><p>Due immagini e un video al giorno per te. Un server ne condivide cinque e tre. Mezzanotte a Budapest. Confermi prima.</p></article><article class="stat"><b>10m</b><h3>musica e vocale</h3><p>Un player per server. SoundCloud, sotto un'ora. La vocale dura al massimo dieci minuti.</p></article>
 </div>
-<p class="note">Sbaglia. Se una risposta conta, controllala, o chiedi a una persona.</p>
-</section>
-<section class="chapter" id="data">
-<header class="chapter-h"><span class="num">04</span><h2>cosa tiene</h2></header>
-<div class="prose"><p>Le chat con lui, le note che gli hai chiesto di tenere, e impostazioni come voce e lingua. Sta sulla macchina che fa girare il bot. Quando risponde, le parti utili vanno a xAI. Un documento che scegli di salvare resta lì finché non lo cancelli. Niente di questo viene venduto, e non ci sono annunci.</p><p>La versione lunga è l'<a href="/kirk/privacy">informativa privacy</a>. Invitarlo significa anche accettare i <a href="/kirk/terms">termini</a>.</p></div>
+<p class="note">Può sbagliare. Se conta, controlla.</p>
 </section>
 <section class="chapter" id="faq">
-<header class="chapter-h"><span class="num">05</span><h2>domande</h2></header>
+<header class="chapter-h"><span class="num">04</span><h2>qualche risposta</h2></header>
 <div class="faq">
-<details><summary>Risponde a ogni messaggio?</summary><p>No. Pingalo, rispondigli, usa un comando, o mandagli un DM. Il resto del tempo sta zitto.</p></details><details><summary>Perché non ha risposto?</summary><p>Controlla di averlo pingato davvero, o di aver usato un comando, poi dagli un momento. Una barra che si muove vuol dire che sta lavorando. Se resta zitto, guarda i limiti sopra.</p></details><details><summary>Posso cambiare come parla?</summary><p>Sì. <code>/persona set description:Talk like a pirate</code>, o un personaggio già pronto. Vale solo per te. <code>/persona reset</code> riporta la voce solita.</p></details><details><summary>La musica suona davvero?</summary><p>Sì, per una traccia SoundCloud che riesce a raggiungere. Entra in vocale, poi <code>.music</code> e un titolo o un link. I link YouTube e le playlist non suonano.</p></details><details><summary>Posso fidarmi di ogni risposta?</summary><p>No. Può sembrare sicuro e sbagliare lo stesso. Se conta, controlla, o chiedi a una persona.</p></details><details><summary>Dove dico che qualcosa è rotto?</summary><p>Il <a href="https://discord.gg/CNbpwtE9HS">server Discord</a>, o io: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Dimmi cosa hai provato e cosa è successo. Non incollare token o chat private in un canale pubblico.</p></details>
+<details><summary>Risponde a tutto?</summary><p>No. Menzionalo, rispondi o manda un DM.</p></details><details><summary>Posso fidarmi di tutto?</summary><p>No. Può sembrare sicuro e sbagliare.</p></details><details><summary>Chi lo fa girare?</summary><p>Io, ckazros. Il <a href="https://discord.gg/CNbpwtE9HS">Discord</a> o una <a href="mailto:ckazros@owaua.com">mail</a>.</p></details>
+<p>Storage: <a href="/kirk/privacy">privacy</a>. Invite means the <a href="/kirk/terms">terms</a>.</p>
 </div>
 </section>
-
 <footer class="colophon">
 <p>© 2026 owaua</p>
 <nav aria-label="Piè di pagina">

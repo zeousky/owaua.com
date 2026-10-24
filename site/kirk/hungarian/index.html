@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
-<meta name="description" content="Említsd meg az owauát, válaszolj neki, vagy írj DM-et. Megjegyzi a beszélgetéseteket, tud keresni, képet vagy rövid videót csinálni, voice-ban beszélni, és zenét tenni.">
+<meta name="description" content="Említsd meg az owauát, ha választ akarsz.">
 <meta name="theme-color" content="#12110f">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
 <link rel="canonical" href="https://owaua.com/kirk/hungarian">
@@ -22,7 +22,7 @@
 <meta property="og:image" content="https://owaua.com/assets/pfp-hungarian.png">
 <meta property="og:title" content="owaua">
 <meta property="og:description" content="egy Discord bot, akivel lehet beszélgetni">
-<title>owaua · egy Discord bot, akivel beszélgethetsz</title>
+<title>owaua · egy bot, akivel beszélsz</title>
 <link rel="icon" href="/assets/pfp-hungarian-96.webp?v=20260918a" type="image/webp">
 <link rel="stylesheet" href="/kirk/assets/kirk.css?v=20261013a">
 </head>
@@ -44,7 +44,6 @@
 <a href="#commands">parancsok</a>
 <a href="#limits">korlátok</a>
 <a href="/kirk/privacy">adatvédelem</a>
-<a href="#data">amit megtart</a>
 <a href="#faq">kérdések</a>
 
 <a href="/kirk/terms">feltételek</a>
@@ -71,52 +70,43 @@
 </details>
 <main id="main" class="stage">
 <header class="opener">
-<p class="kicker">egy Discord bot, akivel beszélgethetsz</p>
-<p class="epigraph">Az oldal kicsi. A bot a lényeg.</p>
-<h1>a bot, aki a szervereden lóg</h1>
-<p class="status">Addig hallgat, amíg nem szólsz hozzá. Utána tud segíteni.</p>
-<p class="lede">Említsd meg, válaszolj neki, vagy írj neki DM-et. A ti beszélgetéseteket jegyzi meg abban a csatornában, nem a többiekét. Meg tudja változtatni a hangját, a te nyelveden válaszol, utánanéz valaminek, képet vagy rövid videót csinál, voice-ban beszél veled, vagy feltesz egy számot.</p>
+<p class="kicker">egy bot, akivel beszélsz</p>
+<h1>említsd meg, ha választ akarsz</h1>
+<p class="lede">A ti beszélgetéseteket jegyzi meg, nem a többiekét. Tud keresni, képet vagy rövid videót csinálni, voice-ban beszélni, vagy zenét tenni.</p>
 <div class="actions">
-<a class="btn" href="https://discord.gg/CNbpwtE9HS">gyere a Discordra</a>
-<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">hívd meg az owauát</a>
+<a class="btn" href="https://discord.gg/CNbpwtE9HS">Discord</a>
+<a class="btn ghost" href="https://discord.com/oauth2/authorize?client_id=1442127404607737999&amp;permissions=4503599630609408&amp;integration_type=0&amp;scope=bot%20applications.commands">meghívás</a>
 </div>
-<p class="note">A slash parancsok mennek. A pont is, például <code>.ask hány óra</code>. Ha egy parancs privát, a válasz DM-ben jön, úgyhogy hagyd nyitva. Amit a szerveren írtál, az ott marad látható.</p>
+<p class="note">Slash parancsok, vagy egy pont: <code>.ask</code>. A privát válaszok DM-ben jönnek.</p>
 <figure class="plate">
-<img src="/image.webp?v=20260919a" width="738" height="408" alt="az owaua válaszol egy Discord-csatornában" loading="lazy">
-<figcaption>egy válasz, a szerveren</figcaption>
+<img src="/image.webp?v=20260919a" width="738" height="408" alt="az owaua egy Discord-csatornában" loading="lazy">
 </figure>
 </header>
 <section class="chapter" id="what">
 <header class="chapter-h"><span class="num">01</span><h2>mit csinál</h2></header>
-<p>Úgy beszélsz vele, mint valakivel a szerveren. A hang és a nyelv a tiéd, nem a szobáé.</p>
-<div class="piece"><h3>megvárja, míg szólsz hozzá</h3><p>Nem ugrik bele minden üzenetbe. Pingeld, válaszolj valamire, amit mondott, vagy írj DM-et. A mention, a <code>/ask</code> és a <code>.ask</code> is jó. A többi botot békén hagyja, és nem vezet naplót a csatorna többi részéről.</p></div><div class="piece"><h3>megjegyzi a beszélgetéseteket</h3><p>Abban a csatornában a veled folytatott chat a tiéd marad. A friss üzenetek ott vannak. A régebbieket körülbelül fél évig vissza tudja keresni. Ha mondasz neki valamit, amit érdemes megtartani, feljegyezheti, amíg ki nem törlöd. A melletted ülőnek saját memóriája van.</p></div><div class="piece"><h3>úgy szólhat, ahogy szeretnéd</h3><p>Alapból úgy beszél, mint egy barát. Lazán, és káromkodik. Ha nem ez a hangulat, válts: kalóz, robot, varázsló, nyomozó, tanár, vagy egy rövid saját leírás. A választás követ téged. A többieknél nem változtatja meg a botot.</p></div><div class="piece"><h3>a te nyelved, nem az egész szerveré</h3><p>Próbáld a <code>.language Hungarian</code> parancsot. Onnantól a neked szóló válaszok azon a nyelven mennek, más szervereken, DM-ben, és a következő voice-ban is. A <code>.language auto</code> megint ahhoz igazodik, ahogy írsz.</p></div><div class="piece"><h3>egy szám, ha kéred</h3><p>Menj voice-ba, és próbáld a <code>.music</code> parancsot egy címmel, vagy illessz be egy SoundCloud-linket. A következők várnak. Szünet, folytatás, skip, stop, ugyanabból a csatornából. Nincs lejátszási lista, livestream, se YouTube-link.</p></div><div class="piece"><h3>utána tud nézni, és elolvassa, amit küldesz</h3><p>Egy kis kérdésre jöhet rövid válasz. Egy nagyobbra rendes magyarázat. Kereshet a weben és az X-en, megnézhet egy képet, elolvashat egy PDF-et vagy kódot, és visszaadhat egy fájlt vagy egy egyszerű grafikont.</p></div><div class="piece"><h3>képek, videó, és egy igazi hang</h3><p>Kérj egy képet vagy egy rövid videót, vagy küldj egyet, és mondd meg, min változtasson. Előbb megmutatja a promptot. Addig nem készít semmit, amíg nem mondasz igent. A <code>/speak</code> felolvas. A <code>/transcribe</code> leír egy felvételt. A <code>/voice join</code> igazi beszélgetés voice-ban.</p></div>
+<div class="piece"><h3>te kezded</h3><p>Említsd meg, válaszolj, vagy írj DM-et. Különben hallgat.</p></div><div class="piece"><h3>megjegyez téged</h3><p>A chatetek abban a csatornában a tiéd. A jegyzetek megmaradnak, amíg ki nem törlöd őket.</p></div><div class="piece"><h3>a hangod</h3><p>Lazán beszél, és káromkodik, hacsak nem változtatod meg a <code>/persona</code> paranccsal. A <code>.language</code> a te válaszaidat állítja.</p></div><div class="piece"><h3>több, mint chat</h3><p>Keresés, fájl olvasása, kép vagy rövid videó, miután igent mondasz, voice, vagy egy SoundCloud-szám.</p></div>
 </section>
 <section class="chapter" id="commands">
-<header class="chapter-h"><span class="num">02</span><h2>hogyan szólsz hozzá</h2></header>
-<p>Minden slash parancs működik ponttal is. A hangod, a nyelved, a memóriád és a fájljaid a tieid. A zenét csak ugyanabból a voice-ból lehet irányítani.</p>
+<header class="chapter-h"><span class="num">02</span><h2>parancsok</h2></header>
+<p>Minden slash parancs működik ponttal is.</p>
 <div class="ledger">
-<div class="row"><div class="cmd"><code>/help</code></div><p>A rövid változat, ha elfelejted.</p></div><div class="row"><div class="cmd"><code>/ask</code></div><p>Kérdezz valamit. Csatolhatsz képet, dokumentumot, felvételt, vagy egy videót, amin változtatni kell.</p></div><div class="row"><div class="cmd"><code>/persona set</code></div><p>Válassz egy karaktert, vagy írd le a hangot. A <code>/persona reset</code> visszahozza a szokásost.</p></div><div class="row"><div class="cmd"><code>.language Hungarian</code></div><p>A neked szóló válaszok, azon a nyelven. A <code>.language auto</code> megint a te üzenetedhez igazodik.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Tegyél fel egy számot. Utána queue, pause, resume, skip vagy stop.</p></div><div class="row"><div class="cmd"><code>/memory view</code></div><p>Nézd meg a jegyzeteidet. A remember, forget, pause és resume a többi. A pause nem töröl.</p></div><div class="row"><div class="cmd"><code>/reset</code></div><p>Töröld a saját előzményeidet és jegyzeteidet ebben a csatornában. A hang, a nyelv és a dokumentumok megmaradnak.</p></div><div class="row"><div class="cmd"><code>/knowledge add</code></div><p>Tarts meg egy dokumentumot a későbbi kérdésekhez itt. A <code>/ask library:true</code> használja.</p></div><div class="row"><div class="cmd"><code>/voice join</code></div><p>Beszéljetek voice-ban. Csak azt hallja, aki elkezdte. A csatornában mindenki hallja a válaszokat.</p></div><div class="row"><div class="cmd"><code>/speak</code></div><p>Szövegből hang, vagy felvételből szöveg.</p></div>
+<div class="row"><div class="cmd"><code>/ask</code></div><p>Kérdezz. Csatolj képet, fájlt, hangot vagy videót, ha akarod.</p></div><div class="row"><div class="cmd"><code>/persona</code></div><p>Hogyan beszél veled. A <code>.language</code> választ nyelvet.</p></div><div class="row"><div class="cmd"><code>/memory</code></div><p>A jegyzeteid és az előzményeid itt. A <code>/reset</code> törli őket.</p></div><div class="row"><div class="cmd"><code>.music</code></div><p>Egy szám címe vagy SoundCloud-link.</p></div><div class="row"><div class="cmd"><code>/voice</code></div><p>Voice-beszélgetés. A <code>/speak</code> és a <code>/transcribe</code> szöveget és hangot vált.</p></div>
 </div>
 </section>
 <section class="chapter" id="limits">
-<header class="chapter-h"><span class="num">03</span><h2>a határok</h2></header>
-<p>Azért vannak, hogy egy ember ne futtassa fel a számlát, és hogy bekapcsolva hagyhassam. Határok. A használata így is pénzbe kerül nekem.</p>
+<header class="chapter-h"><span class="num">03</span><h2>határok</h2></header>
 <div class="limits">
-<article class="stat"><b>5s</b><h3>adj neki egy másodpercet</h3><p>Kb. öt másodperc a kéréseid között, és egyszerre csak néhány beszélgetés mehet.</p></article><article class="stat"><b>2</b><h3>a képek és a videók korlátozottak</h3><p>Napi két kép és egy videó neked. Egy szerver öt képet és három videót oszt. Éjfélkor nullázódik, budapesti idő szerint. Megerősíted, mielőtt elmegy.</p></article><article class="stat"><b>20</b><h3>a zene és a voice kicsi marad</h3><p>Szerverenként egy lejátszó, legfeljebb 20 várakozó szám, egy óránál rövidebb SoundCloud-számok. Egy voice-beszélgetés legfeljebb tíz perc. Állítsd le a zenét, mielőtt beszélni kezdesz.</p></article>
+<article class="stat"><b>5s</b><h3>rövid szünet</h3><p>Kb. öt másodperc a kérések között. Egyszerre csak néhány chat.</p></article><article class="stat"><b>2</b><h3>képek és videó</h3><p>Napi két kép és egy videó neked. Egy szerver ötöt és hármat oszt. Éjfél Budapesten. Előbb megerősíted.</p></article><article class="stat"><b>10m</b><h3>zene és voice</h3><p>Szerverenként egy lejátszó. SoundCloud, egy órán belül. A voice legfeljebb tíz perc.</p></article>
 </div>
-<p class="note">Téved. Ha egy válasz számít, ellenőrizd, vagy kérdezz meg egy embert.</p>
-</section>
-<section class="chapter" id="data">
-<header class="chapter-h"><span class="num">04</span><h2>mit tart meg</h2></header>
-<div class="prose"><p>A veled folytatott chatek, a jegyzetek, amiket megkértél, hogy tartson meg, és a beállítások, mint a hang és a nyelv. Ez azon a gépen van, ami a botot futtatja. Amikor válaszol, a hasznos részek az xAI-hoz mennek. Egy dokumentum, amit szándékosan elmentesz, ott marad, amíg ki nem törlöd. Ebből semmit nem adok el, és nincs reklám.</p><p>A hosszabb változat az <a href="/kirk/privacy">adatvédelmi oldal</a>. Ha meghívod, a <a href="/kirk/terms">feltételeket</a> is elfogadod.</p></div>
+<p class="note">Tévedhet. Ha számít, ellenőrizd.</p>
 </section>
 <section class="chapter" id="faq">
-<header class="chapter-h"><span class="num">05</span><h2>kérdések</h2></header>
+<header class="chapter-h"><span class="num">04</span><h2>néhány válasz</h2></header>
 <div class="faq">
-<details><summary>Minden üzenetre válaszol?</summary><p>Nem. Pingeld, válaszolj neki, használj parancsot, vagy írj DM-et. A többi időben hallgat.</p></details><details><summary>Miért nem válaszolt?</summary><p>Nézd meg, hogy a ping vagy a parancs tényleg elment-e, aztán adj neki egy pillanatot. A mozgó csík azt jelenti, hogy dolgozik. Ha utána is csend van, nézd a határokat fent.</p></details><details><summary>Megváltoztathatom, hogyan beszél?</summary><p>Igen. <code>/persona set description:Talk like a pirate</code>, vagy egy kész karakter. Csak neked szól. A <code>/persona reset</code> visszahozza a szokásos hangot.</p></details><details><summary>A zene tényleg szól?</summary><p>Igen, ha eléri a SoundCloud-számot. Menj voice-ba, aztán <code>.music</code> és egy cím vagy link. A YouTube-linkek és a lejátszási listák nem szólnak.</p></details><details><summary>Minden válaszban megbízhatok?</summary><p>Nem. Magabiztosnak tűnhet, és mégis tévedhet. Ha számít, ellenőrizd, vagy kérdezz meg egy embert.</p></details><details><summary>Hol szólok, ha valami elromlott?</summary><p>A <a href="https://discord.gg/CNbpwtE9HS">Discord-szerveren</a>, vagy nálam: Discord <code>ckazros</code> · <a href="mailto:ckazros@owaua.com">ckazros@owaua.com</a>. Mondd el, mit próbáltál, és mi történt. Tokent vagy privát chatet ne illessz nyilvános csatornába.</p></details>
+<details><summary>Mindenre válaszol?</summary><p>Nem. Említsd meg, válaszolj, vagy írj DM-et.</p></details><details><summary>Minden válaszban hihetek?</summary><p>Nem. Magabiztosnak tűnhet, és mégis tévedhet.</p></details><details><summary>Ki futtatja?</summary><p>Én, ckazros. A <a href="https://discord.gg/CNbpwtE9HS">Discord</a>, vagy <a href="mailto:ckazros@owaua.com">email</a>.</p></details>
+<p>Storage: <a href="/kirk/privacy">privacy</a>. Invite means the <a href="/kirk/terms">terms</a>.</p>
 </div>
 </section>
-
 <footer class="colophon">
 <p>© 2026 owaua</p>
 <nav aria-label="Lábléc">

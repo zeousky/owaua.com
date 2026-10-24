@@ -20,7 +20,7 @@ function PartnersPage() {
       <header className="page-head">
         <p className="kicker">partners</p>
         <h1>other bots I like</h1>
-        <p>owaua is the bot you talk to on this site. These are other projects I get along with. They have their own rules.</p>
+        <p>Other projects I get along with. They have their own rules.</p>
       </header>
 
       <article className="partner">
@@ -37,7 +37,7 @@ function PartnersPage() {
       <article className="partner open-slot">
         <h2>maybe yours</h2>
         <p className="meta">four things, then write</p>
-        <p>If you want a spot here, send all of this. A one-liner and a Discord invite isn’t enough. Missing one means it waits.</p>
+        <p>Want a spot? Send all four. A one-liner isn’t enough.</p>
         <ul className="list">
           <li>
             <strong>a clear README</strong>
