@@ -40,25 +40,43 @@ function Home() {
   return (
     <Site>
       <header className="hero">
-        <div className="hero-id">
-          <img src="/pfp.webp" width={52} height={52} alt="" />
-          <div>
-            <strong>owaua</strong>
-            <span>a discord bot you can talk to</span>
+        <div className="hero-copy">
+          <div className="hero-id">
+            <img src="/pfp.webp" width={52} height={52} alt="" />
+            <div>
+              <strong>owaua</strong>
+              <span>a discord bot you can talk to</span>
+            </div>
           </div>
+          <h1>mention it when you want a <em>reply.</em></h1>
+          <p className="lede">
+            It remembers your chat, not everyone else’s. It can look something up, make a picture or a short video, talk in voice, or put a song on.
+          </p>
+          <div className="actions">
+            <a className="button" href={DISCORD}>Discord</a>
+            <a className="button ghost" href={INVITE}>invite owaua</a>
+          </div>
+          <p className="note">
+            Slash commands, or a dot: <code>.ask</code>. Private answers come by DM.
+          </p>
+          <LanguageRow />
         </div>
-        <h1>mention it when you want a reply</h1>
-        <p className="lede">
-          It remembers your chat, not everyone else’s. It can look something up, make a picture or a short video, talk in voice, or put a song on.
-        </p>
-        <div className="actions">
-          <a className="button" href={DISCORD}>Discord</a>
-          <a className="button ghost" href={INVITE}>invite owaua</a>
-        </div>
-        <p className="note">
-          Slash commands, or a dot: <code>.ask</code>. Private answers come by DM.
-        </p>
-        <LanguageRow />
+
+        <aside className="command-deck" aria-labelledby="deck-title">
+          <div className="deck-titlebar"><h2 id="deck-title">OWAUA / COMMAND GUIDE</h2><span className="deck-lamp" aria-hidden="true" /></div>
+          <div className="deck-screen">
+            <div className="deck-portrait" aria-hidden="true"><img src="/assets/pfp.png" width="730" height="730" alt="" /></div>
+            <div className="deck-reference">
+              {commands.slice(0, 3).map(([command, help], index) => (
+                <details key={command} name="command-guide" open={index === 0}>
+                  <summary><code>{command}</code></summary>
+                  <p>{help}</p>
+                </details>
+              ))}
+            </div>
+          </div>
+          <div className="deck-status"><a href="#commands">All commands <span aria-hidden="true">↘</span></a></div>
+        </aside>
       </header>
 
       <section className="section" id="what">

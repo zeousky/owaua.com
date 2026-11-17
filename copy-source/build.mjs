@@ -25,7 +25,8 @@ for (const name of ['index', 'privacy', 'terms', 'partnerships']) {
   let body = renderToStaticMarkup(createElement(Route.component));
   body = body.replaceAll('/pfp.webp', '/assets/pfp-96.webp?v=20260918a').replaceAll('/shot.webp', '/image.webp?v=20260919a');
   if (name === 'partnerships') body = body.replace('<article class="partner">', '<article class="partner" id="ergo">');
-  const html = shell.replaceAll('__TITLE__', escape(title)).replaceAll('__DESCRIPTION__', escape(description)).replaceAll('__CANONICAL__', 'https://owaua.com' + route).replace('__CONTENT__', body);
+  const homeStyles = name === 'index' ? '<link rel="stylesheet" href="/assets/signal.css">\n' : '';
+  const html = shell.replaceAll('__TITLE__', escape(title)).replaceAll('__DESCRIPTION__', escape(description)).replaceAll('__CANONICAL__', 'https://owaua.com' + route).replace('__HOME_STYLES__', homeStyles).replace('__CONTENT__', body);
   const target = resolve(root, 'site', name === 'index' ? 'index.html' : name + '/index.html');
   await mkdir(dirname(target), { recursive: true });
   await writeFile(target, html);
