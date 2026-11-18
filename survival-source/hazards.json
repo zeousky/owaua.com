@@ -1,0 +1,902 @@
+{
+  "en": [
+    {
+      "id": "fire-wildfire",
+      "title": "Home fires and wildfires",
+      "blocks": [
+        "If a smoke alarm sounds in your home or you see fire there, get out immediately. Stay low beneath smoke, use stairs and close doors behind you. Leave hot doors closed and use another exit. Meet outside and call the fire service from safety. Tell responders if anyone is missing. Stay out.",
+        "If you cannot leave, shut the door between you and the fire, block gaps around it with cloth if available, call for help and signal at a window. Practise two ways out of each room where possible.",
+        "For a wildfire, leave promptly when ordered. If officials advise sheltering from smoke, shut windows and doors and use filtered recirculated air if possible. If your home gets too hot or smoky, seek a designated cleaner-air shelter if safe."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Floods and severe storms",
+      "blocks": [
+        "When water starts to rise, move to higher ground. Keep out of floodwater on foot or in a vehicle. It can conceal damaged roads, sharp debris and live wires. If trapped in a building, move to the highest safe level and call for rescue. Avoid a closed attic with no usable exit.",
+        "If a tropical storm threatens, follow evacuation orders early, especially in coastal flood zones. For a tornado, use a designated shelter or a small windowless room on the lowest safe level of a sturdy building. Protect your head and neck. If flooding also threatens, avoid basements and follow local instructions.",
+        "When you hear thunder, go into a substantial building or a fully enclosed vehicle with a hard metal roof. Wait 30 minutes after the last thunder before going back out."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Earthquakes and tsunamis",
+      "blocks": [
+        "Indoors during shaking, get down on your hands and knees, take cover under a sturdy table and hold on. If no cover is nearby, get low beside an interior wall and shield your head and neck. If you use a wheelchair, lock its wheels and cover your head and neck. Stay inside while shaking continues.",
+        "If outdoors, move away from buildings, trees and power lines. Once shaking stops, watch for aftershocks and keep away from damaged buildings.",
+        "Near the coast, strong or prolonged shaking, an abrupt change in sea level or a loud roar from the sea can signal a tsunami. As soon as you can move safely, head uphill or inland without waiting for an alert. Return only when officials say it is safe."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Extreme heat and cold",
+      "blocks": [
+        "In extreme heat, take breaks in a cool place, drink water regularly and avoid heavy activity at the hottest time. Check on people who live alone or need help. Never leave a person or pet alone in a parked vehicle.",
+        "Confusion, a seizure or loss of consciousness in the heat may mean heatstroke. Call emergency services and begin cooling immediately. Move the person to shade, remove outer layers and cool the skin with wet cloths or cool water. Give the person nothing to drink.",
+        "In severe cold, shelter from wind and wear dry layers. Shivering with confusion, slurred speech or drowsiness can signal hypothermia. Call emergency services. Handle the person gently, move them to warmth, remove wet clothes and wrap their body in dry layers."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Getting lost outdoors",
+      "blocks": [
+        "Before leaving, check weather and trail conditions. Tell someone your route and when to call for help if you are late. Carry an offline map, a headlamp, a whistle, water and clothing for changing weather. Stay with your group.",
+        "If you lose your way, stop and check the map and landmarks. Retrace your steps only if you know the route and it is safe. If you cannot do that, call emergency services. Share your coordinates if available, your last known location, nearby landmarks and any injuries.",
+        "After calling for rescue, stay put unless your life is in immediate danger. Protect yourself from the weather, save your energy and phone battery, and use a whistle or light to signal."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "id": "fire-wildfire",
+      "title": "Incendios en viviendas e incendios forestales",
+      "blocks": [
+        "Si suena una alarma de humo en casa o ves fuego en ella, sal de inmediato. Agáchate para pasar por debajo del humo, usa las escaleras y cierra las puertas al salir. Si una puerta está caliente, déjala cerrada y usa otra salida. Reúnete fuera con los demás y llama a los bomberos desde un lugar seguro. Avisa si falta alguien. Quédate fuera.",
+        "Si no puedes salir, cierra la puerta entre tú y el fuego, tapa las rendijas con tela si tienes, llama para pedir ayuda y haz señales desde una ventana. Practica dos rutas de salida por habitación, si es posible.",
+        "Si hay un incendio forestal, evacúa en cuanto te lo indiquen. Si las autoridades recomiendan refugiarse del humo, cierra puertas y ventanas y, si puedes, recircula el aire con un filtro. Si en casa hace demasiado calor o entra mucho humo, dirígete a un refugio habilitado con aire más limpio si es seguro hacerlo."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Inundaciones y tormentas intensas",
+      "blocks": [
+        "Si el agua empieza a subir, ve a un lugar elevado. Evita el agua de la inundación tanto a pie como en vehículo. Puede ocultar daños en la calzada, escombros cortantes y cables con corriente. Si quedas atrapado en un edificio, sube al nivel seguro más alto y pide auxilio. Evita los áticos cerrados sin una salida utilizable.",
+        "Ante una tormenta tropical, evacúa pronto si así se ordena, sobre todo en zonas costeras inundables. Si hay un tornado, usa un refugio habilitado o una habitación pequeña sin ventanas en el nivel seguro más bajo de un edificio sólido. Protégete la cabeza y el cuello. Si también hay riesgo de inundación, evita los sótanos y sigue las instrucciones locales.",
+        "Si oyes truenos, entra en un edificio sólido o en un vehículo cerrado con techo metálico rígido. Espera 30 minutos desde el último trueno antes de salir."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Terremotos y tsunamis",
+      "blocks": [
+        "Si estás dentro cuando empieza a temblar, ponte a cuatro patas, métete debajo de una mesa resistente y sujétala. Si no hay protección cerca, agáchate junto a una pared interior y cúbrete la cabeza y el cuello. Si usas silla de ruedas, ponle el freno y cúbrete la cabeza y el cuello. Quédate dentro mientras dure el temblor.",
+        "Si estás fuera, aléjate de edificios, árboles y líneas eléctricas. Cuando deje de temblar, mantente alerta ante posibles réplicas y evita los edificios dañados.",
+        "Cerca de la costa, un temblor fuerte o prolongado, una subida o bajada repentina del mar o un estruendo procedente del agua pueden anunciar un tsunami. En cuanto puedas moverte con seguridad, sube a un lugar elevado o aléjate de la costa sin esperar una alerta. Regresa solo cuando las autoridades indiquen que es seguro."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Calor y frío extremos",
+      "blocks": [
+        "Con calor extremo, descansa en un lugar fresco, bebe agua con frecuencia y evita el esfuerzo en las horas más calurosas. Comprueba cómo están quienes viven solos o necesitan ayuda. Nunca dejes a nadie ni a una mascota a solas en un vehículo estacionado.",
+        "La confusión, una convulsión o la pérdida de conocimiento con mucho calor pueden indicar un golpe de calor. Llama a emergencias y empieza a enfriar a la persona de inmediato. Llévala a la sombra, quítale las capas exteriores de ropa y enfríale la piel con paños mojados o agua fresca. No le des nada de beber.",
+        "Si hace mucho frío, protégete del viento y lleva varias capas secas. Los temblores acompañados de confusión, habla arrastrada o somnolencia pueden indicar hipotermia. Llama a emergencias. Mueve a la persona con cuidado a un lugar cálido, quítale la ropa mojada y envuélvela en capas secas."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Si te pierdes al aire libre",
+      "blocks": [
+        "Antes de salir, consulta el tiempo y el estado de los senderos. Dile a alguien qué ruta seguirás y cuándo debe pedir ayuda si te retrasas. Lleva un mapa sin conexión, una linterna frontal, un silbato, agua y ropa para los cambios de tiempo. Permanece con tu grupo.",
+        "Si te desorientas, detente y revisa el mapa y los puntos de referencia. Vuelve sobre tus pasos solo si conoces el camino y es seguro. Si no puedes hacerlo, llama a emergencias. Da tus coordenadas si las tienes, tu última ubicación conocida, los puntos de referencia cercanos y detalles de cualquier lesión.",
+        "Después de pedir rescate, quédate donde estás, salvo que corra peligro inmediato tu vida. Protégete del tiempo, conserva fuerzas y batería, y usa un silbato o una luz para hacer señales."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "id": "fire-wildfire",
+      "title": "Incendies domestiques et feux de végétation",
+      "blocks": [
+        "Si un détecteur de fumée se déclenche chez vous ou si vous y voyez des flammes, sortez immédiatement. Restez près du sol sous la fumée, prenez l’escalier et refermez les portes derrière vous. Laissez fermée toute porte chaude et prenez une autre sortie. Retrouvez les autres dehors et appelez les pompiers depuis un endroit sûr. Signalez toute personne manquante. Restez dehors.",
+        "Si vous ne pouvez pas sortir, fermez la porte qui vous sépare du feu, bouchez les interstices avec du tissu si possible, appelez les secours et signalez-vous à une fenêtre. Entraînez-vous à sortir de chaque pièce par deux voies si possible.",
+        "En cas de feu de végétation, partez dès que l’évacuation est ordonnée. Si les autorités conseillent de vous abriter de la fumée, fermez portes et fenêtres et utilisez si possible un système qui filtre et recycle l’air intérieur. Si le logement devient trop chaud ou enfumé, rejoignez un abri désigné où l’air est plus sain, si le trajet est sûr."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Inondations et fortes tempêtes",
+      "blocks": [
+        "Si l’eau monte, gagnez un point haut. Évitez les zones inondées à pied comme en véhicule. L’eau peut masquer une chaussée endommagée, des objets coupants et des câbles sous tension. Si vous êtes bloqué dans un bâtiment, montez au niveau sûr le plus élevé et appelez les secours. Évitez les combles fermés sans issue utilisable.",
+        "Si une tempête tropicale menace, évacuez sans tarder sur ordre des autorités, surtout sur le littoral inondable. En cas de tornade, gagnez un abri prévu à cet effet ou une petite pièce sans fenêtre au niveau sûr le plus bas d’un bâtiment solide. Protégez votre tête et votre cou. S’il y a aussi un risque d’inondation, évitez les sous-sols et suivez les consignes locales.",
+        "Au premier coup de tonnerre, entrez dans un bâtiment solide ou un véhicule fermé à toit métallique rigide. Attendez 30 minutes après le dernier coup de tonnerre pour ressortir."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Séismes et tsunamis",
+      "blocks": [
+        "À l’intérieur pendant une secousse, mettez-vous à quatre pattes, abritez-vous sous une table solide et tenez-la. À défaut d’abri proche, baissez-vous près d’un mur intérieur et protégez votre tête et votre cou. Si vous êtes en fauteuil roulant, bloquez les roues et protégez votre tête et votre cou. Restez à l’intérieur tant que le sol tremble.",
+        "Dehors, éloignez-vous des bâtiments, des arbres et des lignes électriques. Après la secousse, attendez-vous à des répliques et restez à distance des bâtiments endommagés.",
+        "Près du littoral, une secousse forte ou prolongée, une variation soudaine du niveau de la mer ou un grondement venant du large peuvent annoncer un tsunami. Dès que vous pouvez vous déplacer sans danger, gagnez les hauteurs ou l’intérieur des terres sans attendre une alerte. Revenez seulement après le feu vert des autorités."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Chaleur et froid extrêmes",
+      "blocks": [
+        "Par forte chaleur, faites des pauses au frais, buvez régulièrement de l’eau et évitez les efforts aux heures les plus chaudes. Prenez des nouvelles des personnes isolées ou qui ont besoin d’aide. Ne laissez jamais une personne ou un animal seul dans un véhicule stationné.",
+        "Confusion, convulsions ou perte de connaissance par forte chaleur peuvent signaler un coup de chaleur. Appelez les secours et commencez aussitôt à rafraîchir la personne. Mettez-la à l’ombre, retirez les vêtements extérieurs et refroidissez sa peau avec du linge humide ou de l’eau fraîche. Ne lui donnez rien à boire.",
+        "Par grand froid, abritez-vous du vent et portez plusieurs couches sèches. Des frissons accompagnés de confusion, de difficultés à articuler ou de somnolence peuvent signaler une hypothermie. Appelez les secours. Manipulez la personne avec douceur, mettez-la au chaud, retirez ses vêtements mouillés et enveloppez-la dans des couches sèches."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Se perdre en pleine nature",
+      "blocks": [
+        "Avant de partir, vérifiez la météo et l’état des sentiers. Communiquez à quelqu’un votre itinéraire et l’heure à laquelle appeler les secours si vous êtes en retard. Emportez une carte utilisable hors ligne, une lampe frontale, un sifflet, de l’eau et des vêtements adaptés aux changements de temps. Restez avec votre groupe.",
+        "Si vous ne savez plus où vous êtes, arrêtez-vous et examinez la carte et les repères alentour. Revenez sur vos pas uniquement si vous connaissez le chemin et pouvez le prendre sans danger. Sinon, appelez les secours. Donnez vos coordonnées si vous les avez, votre dernière position connue, les repères proches et les éventuelles blessures.",
+        "Après avoir appelé les secours, restez sur place sauf danger de mort immédiat. Protégez-vous des intempéries, économisez vos forces et la batterie de votre téléphone, et signalez-vous avec un sifflet ou une lumière."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "id": "fire-wildfire",
+      "title": "Brände in Gebäuden und in der Natur",
+      "blocks": [
+        "Wenn bei Ihnen zu Hause ein Rauchmelder auslöst oder Sie dort Feuer sehen, verlassen Sie sofort das Gebäude. Bleiben Sie unter dem Rauch möglichst nah am Boden, nutzen Sie die Treppe und schließen Sie Türen hinter sich. Lassen Sie heiße Türen zu und nehmen Sie einen anderen Ausgang. Treffen Sie sich draußen und rufen Sie von einem sicheren Ort die Feuerwehr. Melden Sie, wenn jemand fehlt. Bleiben Sie draußen.",
+        "Wenn Sie nicht herauskommen, schließen Sie die Tür zum Feuer, dichten Sie die Spalten mit Stoff ab, sofern verfügbar, rufen Sie Hilfe und machen Sie sich am Fenster bemerkbar. Üben Sie möglichst zwei Fluchtwege aus jedem Raum.",
+        "Verlassen Sie bei einem Vegetationsbrand das Gebiet umgehend, wenn die Behörden dazu auffordern. Raten sie zum Schutz vor Rauch zum Aufenthalt drinnen, schließen Sie Fenster und Türen. Nutzen Sie möglichst gefilterte Umluft. Wird Ihre Wohnung zu heiß oder rauchig, suchen Sie eine ausgewiesene Unterkunft mit sauberer Luft auf, sofern der Weg sicher ist."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Überschwemmungen und schwere Unwetter",
+      "blocks": [
+        "Steigt das Wasser, begeben Sie sich auf höher gelegenes Gelände. Betreten und befahren Sie Überschwemmungswasser nicht. Es kann beschädigte Straßen, scharfkantige Trümmer und stromführende Leitungen verdecken. Sind Sie in einem Gebäude eingeschlossen, gehen Sie in das höchste sichere Stockwerk und rufen Sie Hilfe. Meiden Sie geschlossene Dachböden ohne nutzbaren Ausgang.",
+        "Bei einem drohenden Tropensturm folgen Sie einer Evakuierungsanordnung frühzeitig, besonders in überflutungsgefährdeten Küstengebieten. Suchen Sie bei einem Tornado einen Schutzraum oder einen kleinen fensterlosen Raum auf der niedrigsten sicheren Etage eines stabilen Gebäudes auf. Schützen Sie Kopf und Nacken. Droht zugleich eine Überschwemmung, meiden Sie Keller und befolgen Sie die örtlichen Anweisungen.",
+        "Wenn Sie Donner hören, gehen Sie in ein solides Gebäude oder ein vollständig geschlossenes Fahrzeug mit festem Metalldach. Gehen Sie erst 30 Minuten nach dem letzten Donner wieder hinaus."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Erdbeben und Tsunamis",
+      "blocks": [
+        "Gehen Sie in Innenräumen bei einem Erdbeben auf Hände und Knie, suchen Sie unter einem stabilen Tisch Schutz und halten Sie sich daran fest. Gibt es keinen Schutz in Ihrer Nähe, bleiben Sie dicht am Boden neben einer Innenwand und schützen Sie Kopf und Nacken. Wenn Sie einen Rollstuhl nutzen, stellen Sie die Bremsen fest und schützen Sie Kopf und Nacken. Bleiben Sie drinnen, solange es bebt.",
+        "Gehen Sie im Freien von Gebäuden, Bäumen und Stromleitungen weg. Rechnen Sie nach dem Beben mit Nachbeben und halten Sie Abstand zu beschädigten Gebäuden.",
+        "An der Küste können ein starkes oder langes Beben, ein plötzlicher Anstieg oder Rückgang des Meeresspiegels oder ein lautes Dröhnen vom Meer auf einen Tsunami hindeuten. Gehen Sie auf höheres Gelände oder landeinwärts, sobald Sie sich sicher bewegen können. Warten Sie nicht auf eine Warnung. Kehren Sie erst nach der Entwarnung zurück."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Extreme Hitze und Kälte",
+      "blocks": [
+        "Machen Sie bei extremer Hitze Pausen an kühlen Orten, trinken Sie regelmäßig Wasser und meiden Sie Anstrengung während der heißesten Stunden. Sehen Sie nach Menschen, die allein leben oder Hilfe brauchen. Lassen Sie niemals eine Person oder ein Tier allein in einem geparkten Fahrzeug zurück.",
+        "Verwirrtheit, ein Krampfanfall oder Bewusstlosigkeit bei Hitze können auf einen Hitzschlag hindeuten. Rufen Sie den Rettungsdienst und beginnen Sie sofort mit der Kühlung. Bringen Sie die Person in den Schatten, ziehen Sie die äußeren Kleidungsschichten aus und kühlen Sie die Haut mit nassen Tüchern oder kühlem Wasser. Geben Sie der Person nichts zu trinken.",
+        "Suchen Sie bei starker Kälte Schutz vor Wind und tragen Sie trockene Kleidung in mehreren Schichten. Zittern mit Verwirrtheit, undeutlicher Sprache oder Schläfrigkeit kann auf Unterkühlung hindeuten. Rufen Sie den Rettungsdienst. Bewegen Sie die Person vorsichtig, bringen Sie sie ins Warme, entfernen Sie nasse Kleidung und wickeln Sie sie in trockene Schichten ein."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Wenn Sie sich draußen verirren",
+      "blocks": [
+        "Informieren Sie sich vor dem Aufbruch über Wetter und Wegezustand. Hinterlassen Sie bei einer anderen Person Ihre Route und eine Uhrzeit, zu der sie bei Verspätung Hilfe holen soll. Nehmen Sie eine Offline-Karte, eine Stirnlampe, eine Pfeife, Wasser und Kleidung für Wetterwechsel mit. Bleiben Sie mit Ihrer Gruppe zusammen.",
+        "Wenn Sie sich verirren, bleiben Sie stehen und prüfen Sie die Karte und sichtbare Orientierungspunkte. Gehen Sie nur zurück, wenn Sie den Weg kennen und er sicher ist. Rufen Sie andernfalls den Rettungsdienst. Nennen Sie, falls verfügbar, Ihre Koordinaten, den letzten bekannten Standort, nahe Orientierungspunkte und etwaige Verletzungen.",
+        "Warten Sie nach dem Notruf vor Ort, sofern keine unmittelbare Lebensgefahr besteht. Schützen Sie sich vor dem Wetter, schonen Sie Ihre Kräfte und den Handyakku und machen Sie mit einer Pfeife oder einem Licht auf sich aufmerksam."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "it": [
+    {
+      "id": "fire-wildfire",
+      "title": "Incendi domestici e incendi boschivi",
+      "blocks": [
+        "Se suona un rilevatore di fumo in casa o vedi fiamme al suo interno, esci subito. Resta vicino al pavimento per passare sotto il fumo, usa le scale e richiudi le porte alle tue spalle. Se una porta è calda, lasciala chiusa e usa un’altra uscita. Radunatevi fuori e chiama i vigili del fuoco da un luogo sicuro. Segnala se manca qualcuno. Resta fuori.",
+        "Se non riesci a uscire, chiudi la porta che ti separa dal fuoco, copri le fessure con un tessuto se disponibile, chiama i soccorsi e fatti vedere da una finestra. Quando possibile, esercitati a uscire da ogni stanza per due vie diverse.",
+        "In caso di incendio boschivo, evacua appena viene dato l’ordine. Se le autorità consigliano di ripararsi dal fumo, chiudi porte e finestre e, se possibile, usa un sistema che filtra e ricircola l’aria interna. Se in casa fa troppo caldo o entra troppo fumo, raggiungi un rifugio indicato dalle autorità con aria più pulita, se puoi farlo in sicurezza."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Alluvioni e forti tempeste",
+      "blocks": [
+        "Se l’acqua inizia a salire, raggiungi un punto più alto. Evita le zone allagate sia a piedi sia in auto. L’acqua può nascondere strade danneggiate, detriti taglienti e cavi sotto tensione. Se sei bloccato in un edificio, sali al piano sicuro più alto e chiama i soccorsi. Evita le soffitte chiuse senza una via d’uscita praticabile.",
+        "Se si avvicina una tempesta tropicale, rispetta subito gli ordini di evacuazione, soprattutto nelle zone costiere a rischio. In caso di tornado, cerca un rifugio apposito o una piccola stanza senza finestre al piano sicuro più basso di un edificio solido. Proteggi la testa e il collo. Se c’è anche rischio di alluvione, evita i seminterrati e segui le indicazioni locali.",
+        "Quando senti tuonare, entra in un edificio solido o in un veicolo completamente chiuso con il tetto metallico rigido. Aspetta 30 minuti dall’ultimo tuono prima di uscire."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Terremoti e tsunami",
+      "blocks": [
+        "Se sei al chiuso quando iniziano le scosse, mettiti a terra sulle mani e sulle ginocchia, riparati sotto un tavolo robusto e tieniti al tavolo. Se non c’è un riparo vicino, abbassati accanto a un muro interno e proteggi testa e collo. Se sei in sedia a rotelle, blocca le ruote e copri testa e collo. Resta dentro finché le scosse continuano.",
+        "Se sei all’aperto, allontanati da edifici, alberi e cavi elettrici. Dopo le scosse, fai attenzione alle repliche e tieniti lontano dagli edifici danneggiati.",
+        "Vicino alla costa, scosse forti o prolungate, un cambiamento improvviso del livello del mare o un fragore proveniente dal mare possono annunciare uno tsunami. Appena puoi muoverti in sicurezza, dirigiti verso un punto alto o verso l’entroterra senza aspettare un avviso. Torna solo quando le autorità danno il via libera."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Caldo e freddo estremi",
+      "blocks": [
+        "Con il caldo estremo, fai pause in un luogo fresco, bevi acqua regolarmente ed evita gli sforzi nelle ore più calde. Controlla come stanno le persone che vivono sole o hanno bisogno di aiuto. Non lasciare mai una persona o un animale da solo in un veicolo parcheggiato.",
+        "Confusione, convulsioni o perdita di coscienza in condizioni di caldo possono indicare un colpo di calore. Chiama i soccorsi e inizia subito a raffreddare la persona. Portala all’ombra, togli gli strati esterni di vestiti e raffredda la pelle con panni bagnati o acqua fresca. Non dare da bere alla persona.",
+        "Con il freddo intenso, riparati dal vento e indossa più strati asciutti. Brividi accompagnati da confusione, difficoltà a parlare o sonnolenza possono indicare ipotermia. Chiama i soccorsi. Muovi la persona con delicatezza, portala al caldo, togli i vestiti bagnati e avvolgila in strati asciutti."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Se ti perdi all’aperto",
+      "blocks": [
+        "Prima di partire, controlla le previsioni e le condizioni dei sentieri. Comunica a qualcuno il tuo percorso e quando chiamare aiuto se ritardi. Porta una mappa consultabile senza connessione, una lampada frontale, un fischietto, acqua e vestiti adatti ai cambiamenti del tempo. Resta con il tuo gruppo.",
+        "Se perdi l’orientamento, fermati e controlla la mappa e i punti di riferimento. Torna sui tuoi passi soltanto se conosci il percorso e puoi seguirlo in sicurezza. Altrimenti chiama i soccorsi. Comunica le coordinate se le hai, l’ultima posizione nota, i punti di riferimento vicini ed eventuali ferite.",
+        "Dopo aver chiamato i soccorsi, resta sul posto a meno di un pericolo di vita immediato. Riparati dalle intemperie, risparmia energie e batteria del telefono e usa un fischietto o una luce per segnalare la tua presenza."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "id": "fire-wildfire",
+      "title": "Incêndios em casa e incêndios florestais",
+      "blocks": [
+        "Se o alarme de fumaça disparar em casa ou se você vir fogo dentro dela, saia imediatamente. Mantenha-se abaixo da fumaça, perto do chão, use as escadas e feche as portas ao passar. Se uma porta estiver quente, deixe-a fechada e procure outra saída. Encontre os demais do lado de fora e chame os bombeiros de um local seguro. Avise se alguém estiver faltando. Fique do lado de fora.",
+        "Se não puder sair, feche a porta entre você e o fogo. Se tiver um pano, cubra as frestas. Peça ajuda e sinalize pela janela. Sempre que possível, pratique duas rotas de saída de cada cômodo.",
+        "Se houver um incêndio florestal, saia assim que receber ordem de evacuação. Se as autoridades recomendarem ficar abrigado da fumaça, feche portas e janelas e, se possível, use um sistema que filtre e recircule o ar interno. Se a casa ficar quente demais ou cheia de fumaça, procure um abrigo indicado com ar mais limpo, se o trajeto for seguro."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Enchentes e tempestades fortes",
+      "blocks": [
+        "Se a água começar a subir, vá para um ponto mais alto. Evite áreas alagadas a pé ou de carro. A água pode esconder vias danificadas, objetos cortantes e fios energizados. Se ficar preso em um prédio, suba ao nível seguro mais alto e chame o resgate. Evite sótãos fechados sem uma saída utilizável.",
+        "Se houver ameaça de tempestade tropical, cumpra logo as ordens de evacuação, especialmente em áreas costeiras inundáveis. Se houver um tornado, vá para um abrigo designado ou um cômodo pequeno sem janelas no nível seguro mais baixo de um prédio resistente. Proteja a cabeça e o pescoço. Se também houver risco de inundação, evite os porões e siga as orientações locais.",
+        "Ao ouvir trovões, entre em um prédio resistente ou em um veículo totalmente fechado e com teto metálico rígido. Aguarde 30 minutos após o último trovão antes de sair."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Terremotos e tsunamis",
+      "blocks": [
+        "Se estiver dentro de um prédio quando começar o tremor, apoie-se nas mãos e nos joelhos, abrigue-se sob uma mesa resistente e segure-a. Sem abrigo próximo, abaixe-se junto a uma parede interna e proteja a cabeça e o pescoço. Se usar cadeira de rodas, trave as rodas e cubra a cabeça e o pescoço. Fique dentro enquanto durar o tremor.",
+        "Ao ar livre, afaste-se de prédios, árvores e fios elétricos. Quando parar de tremer, fique atento a novos abalos e evite prédios danificados.",
+        "Perto do litoral, um tremor forte ou prolongado, uma mudança súbita no nível do mar ou um estrondo vindo do mar podem indicar um tsunami. Assim que puder se deslocar com segurança, vá para um local alto ou para o interior sem esperar um alerta. Só volte quando as autoridades disserem que é seguro."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Calor e frio extremos",
+      "blocks": [
+        "Em dias de calor extremo, faça pausas em um lugar fresco, beba água com frequência e evite esforço nas horas mais quentes. Veja como estão as pessoas que moram sozinhas ou precisam de ajuda. Nunca deixe uma pessoa ou um animal sozinho em um veículo estacionado.",
+        "Confusão, convulsão ou perda de consciência no calor podem indicar golpe de calor. Chame o serviço de emergência e comece a resfriar a pessoa imediatamente. Leve-a para a sombra, retire as camadas externas de roupa e resfrie a pele com panos molhados ou água fresca. Não dê nada para a pessoa beber.",
+        "Em frio intenso, proteja-se do vento e use várias camadas de roupa seca. Tremores com confusão, fala arrastada ou sonolência podem indicar hipotermia. Chame o serviço de emergência. Movimente a pessoa com cuidado, leve-a para um local aquecido, remova roupas molhadas e envolva-a em camadas secas."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Se você se perder ao ar livre",
+      "blocks": [
+        "Antes de sair, verifique a previsão do tempo e as condições da trilha. Diga a alguém qual é a rota e quando deve pedir ajuda se você se atrasar. Leve um mapa que funcione sem internet, lanterna de cabeça, apito, água e roupas para mudanças no tempo. Fique com o grupo.",
+        "Se perder o rumo, pare e verifique o mapa e os pontos de referência. Só volte pelo mesmo caminho se souber a rota e for seguro. Caso contrário, chame o resgate. Informe as coordenadas, se tiver, a última localização conhecida, pontos de referência próximos e se há ferimentos.",
+        "Depois de chamar o resgate, permaneça onde está, salvo em caso de risco imediato à vida. Proteja-se do tempo, poupe energia e bateria do celular e sinalize com um apito ou uma luz."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "id": "fire-wildfire",
+      "title": "Lakástűz és erdőtűz",
+      "blocks": [
+        "Ha otthonában megszólal a füstjelző, vagy tüzet lát bent, azonnal menjen ki. A füst alatt, a padló közelében haladjon, használja a lépcsőt, és csukja be maga mögött az ajtókat. A forró ajtót hagyja csukva, és használjon másik kijáratot. Találkozzanak odakint, és biztonságos helyről hívja a tűzoltókat. Mondja meg, ha valaki hiányzik. Maradjon kint.",
+        "Ha nem tud kijutni, csukja be a tűztől elválasztó ajtót. Ha van kéznél textil, tömje be vele a réseket. Hívjon segítséget, és jelezzen az ablaknál. Lehetőség szerint minden helyiségből két menekülési útvonalat gyakoroljanak be.",
+        "Erdőtűz esetén azonnal induljon el, ha elrendelik a kitelepítést. Ha a hatóságok azt tanácsolják, hogy a füst elől maradjon beltérben, csukja be az ablakokat és az ajtókat, és ha lehet, használjon szűrt belső levegőkeringetést. Ha otthona túl meleg vagy füstös lesz, menjen kijelölt, tisztább levegőjű menedékhelyre, ha az út biztonságos."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Árvizek és heves viharok",
+      "blocks": [
+        "Ha emelkedni kezd a víz, menjen magasabb területre. Gyalog és járművel is kerülje az elöntött területeket. A víz megrongálódott utat, éles törmeléket és feszültség alatt álló vezetékeket rejthet. Ha épületben reked, menjen a legmagasabb biztonságos szintre, és hívjon segítséget. Kerülje a zárt, használható kijárat nélküli padlásteret.",
+        "Közeledő trópusi vihar esetén időben kövesse a kitelepítési utasítást, különösen az árvízveszélyes partvidéken. Tornádó esetén menjen kijelölt óvóhelyre vagy egy erős épület legalsó biztonságos szintjén lévő kis, ablaktalan helyiségbe. Védje a fejét és a nyakát. Ha árvíz is fenyeget, kerülje a pincét, és kövesse a helyi utasításokat.",
+        "Mennydörgéskor menjen masszív épületbe vagy teljesen zárt, merev fémtetős járműbe. Az utolsó mennydörgés után várjon 30 percet, mielőtt újra kimegy."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Földrengések és cunamik",
+      "blocks": [
+        "Ha épületben van, amikor rengeni kezd a talaj, ereszkedjen négykézlábra, bújjon erős asztal alá, és kapaszkodjon meg benne. Ha nincs közel ilyen fedezék, húzódjon le egy belső fal mellett, és védje a fejét és a nyakát. Kerekesszékben rögzítse a kerekeket, és takarja a fejét és a nyakát. A rengés végéig maradjon bent.",
+        "Ha a szabadban van, távolodjon el az épületektől, fáktól és villamos vezetékektől. A rengés után számítson utórengésekre, és kerülje a sérült épületeket.",
+        "A part közelében az erős vagy hosszan tartó rengés, a tengerszint hirtelen változása vagy a tenger felől érkező hangos morajlás cunamit jelezhet. Amint biztonságosan mozoghat, menjen magasabbra vagy távolabb a parttól. Ne várjon riasztásra. Akkor térjen vissza, ha a hatóságok szerint már biztonságos."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Rendkívüli hőség és hideg",
+      "blocks": [
+        "Nagy hőségben tartson szüneteket hűvös helyen, igyon rendszeresen vizet, és a legmelegebb órákban kerülje a megerőltetést. Nézzen rá az egyedül élő vagy segítségre szoruló emberekre. Soha ne hagyjon embert vagy állatot egyedül parkoló járműben.",
+        "A hőségben jelentkező zavartság, görcsroham vagy eszméletvesztés hőgutát jelezhet. Hívja a mentőket, és azonnal kezdje hűteni az érintettet. Vigye árnyékba, vegye le róla a felső ruharétegeket, és nedves kendőkkel vagy hűvös vízzel hűtse a bőrét. Ne adjon neki inni.",
+        "Nagy hidegben húzódjon szélvédett helyre, és viseljen több réteg száraz ruhát. A reszketés zavartsággal, elmosódott beszéddel vagy álmossággal együtt kihűlésre utalhat. Hívja a mentőket. Óvatosan mozgassa és vigye meleg helyre az érintettet, vegye le a vizes ruháját, és bugyolálja száraz rétegekbe."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Ha eltéved a szabadban",
+      "blocks": [
+        "Indulás előtt nézze meg az időjárást és a túraútvonal állapotát. Mondja el valakinek, merre megy, és mikor hívjon segítséget, ha késik. Vigyen internet nélkül használható térképet, fejlámpát, sípot, vizet és változó időjárásra alkalmas ruházatot. Maradjon együtt a csoportjával.",
+        "Ha eltéved, álljon meg, és ellenőrizze a térképet és a tájékozódási pontokat. Csak akkor forduljon vissza, ha ismeri az utat és biztonságos visszamenni. Máskülönben hívja a segélyszolgálatot. Adja meg a koordinátáit, ha tudja, az utolsó ismert helyét, a közeli tájékozódási pontokat és az esetleges sérüléseket.",
+        "Miután segítséget hívott, maradjon a helyén, kivéve közvetlen életveszély esetén. Védekezzen az időjárás ellen, kímélje az erejét és a telefon akkumulátorát, és jelezzen síppal vagy fénnyel."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "id": "fire-wildfire",
+      "title": "Pożary budynków i lasów",
+      "blocks": [
+        "Gdy w domu włączy się czujnik dymu lub zauważysz w nim ogień, natychmiast wyjdź. Trzymaj się nisko pod dymem, korzystaj ze schodów i zamykaj za sobą drzwi. Gorących drzwi nie otwieraj, tylko skorzystaj z innego wyjścia. Spotkajcie się na zewnątrz i z bezpiecznego miejsca wezwij straż pożarną. Powiedz, jeśli kogoś brakuje. Zostań na zewnątrz.",
+        "Jeśli nie możesz wyjść, zamknij drzwi oddzielające cię od ognia i zatkaj szczeliny tkaniną, jeśli masz ją pod ręką. Wezwij pomoc i daj znak przy oknie. W miarę możliwości przećwicz dwie drogi wyjścia z każdego pomieszczenia.",
+        "Podczas pożaru lasu opuść zagrożony teren od razu po zarządzeniu ewakuacji. Jeśli służby zalecą schronienie przed dymem, zamknij drzwi i okna oraz w miarę możliwości włącz obieg wewnętrzny z filtrowaniem powietrza. Jeśli w domu jest zbyt gorąco lub dym przenika do środka, udaj się do wskazanego schronienia z czystszym powietrzem, o ile droga jest bezpieczna."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Powodzie i gwałtowne burze",
+      "blocks": [
+        "Gdy woda zaczyna się podnosić, przejdź na wyżej położony teren. Omijaj zalane miejsca zarówno pieszo, jak i pojazdem. Woda może zasłaniać uszkodzoną drogę, ostre odłamki i przewody pod napięciem. Jeśli utkniesz w budynku, wejdź na najwyższe bezpieczne piętro i wezwij pomoc. Unikaj zamkniętego strychu bez dostępnego wyjścia.",
+        "Gdy zbliża się burza tropikalna, nie zwlekaj z nakazaną ewakuacją, szczególnie na terenach nadmorskich zagrożonych zalaniem. Podczas trąby powietrznej schroń się w wyznaczonym schronie lub małym pomieszczeniu bez okien na najniższym bezpiecznym poziomie solidnego budynku. Chroń głowę i szyję. Jeśli grozi również powódź, unikaj piwnic i stosuj się do lokalnych wskazówek.",
+        "Gdy usłyszysz grzmot, wejdź do solidnego budynku lub całkowicie zamkniętego pojazdu z twardym metalowym dachem. Wyjdź dopiero 30 minut po ostatnim grzmocie."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Trzęsienia ziemi i tsunami",
+      "blocks": [
+        "Podczas wstrząsów w budynku oprzyj się na dłoniach i kolanach, schowaj się pod solidnym stołem i chwyć się go. Jeśli w pobliżu nie ma osłony, przycupnij przy ścianie wewnętrznej i osłoń głowę oraz szyję. Jeśli korzystasz z wózka, zablokuj koła i osłoń głowę i szyję. Zostań w środku do ustania wstrząsów.",
+        "Na zewnątrz odsuń się od budynków, drzew i linii energetycznych. Po ustaniu wstrząsów uważaj na wstrząsy wtórne i trzymaj się z dala od uszkodzonych budynków.",
+        "Na wybrzeżu silne lub długie wstrząsy, nagła zmiana poziomu morza lub głośny huk od strony morza mogą zapowiadać tsunami. Gdy tylko da się bezpiecznie przemieścić, udaj się na wyżej położony teren lub w głąb lądu bez czekania na ostrzeżenie. Wróć tylko wtedy, gdy służby uznają to za bezpieczne."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Skrajne upały i mrozy",
+      "blocks": [
+        "W upał odpoczywaj w chłodnym miejscu, regularnie pij wodę i unikaj wysiłku w najgorętszej porze dnia. Sprawdź, jak czują się osoby mieszkające samotnie lub potrzebujące pomocy. Nigdy nie zostawiaj osoby ani zwierzęcia samego w zaparkowanym pojeździe.",
+        "Dezorientacja, drgawki lub utrata przytomności podczas upału mogą oznaczać udar cieplny. Wezwij pogotowie i natychmiast rozpocznij chłodzenie. Przenieś osobę w cień, zdejmij zewnętrzne warstwy odzieży i chłodź skórę mokrymi tkaninami lub chłodną wodą. Nie podawaj tej osobie niczego do picia.",
+        "Na mrozie osłoń się od wiatru i załóż kilka suchych warstw ubrania. Dreszcze wraz z dezorientacją, niewyraźną mową lub sennością mogą wskazywać na hipotermię. Wezwij pogotowie. Ostrożnie przenieś osobę do ciepłego miejsca, zdejmij mokrą odzież i okryj ją suchymi warstwami."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Gdy zgubisz się w terenie",
+      "blocks": [
+        "Przed wyjściem sprawdź pogodę i stan szlaków. Powiedz komuś, którędy idziesz i kiedy ma wezwać pomoc w razie twojego spóźnienia. Zabierz mapę działającą bez internetu, latarkę czołową, gwizdek, wodę i ubrania na zmianę pogody. Trzymaj się grupy.",
+        "Jeśli zgubisz drogę, zatrzymaj się i sprawdź mapę oraz punkty orientacyjne. Wracaj po własnych śladach jedynie wtedy, gdy znasz drogę i jest bezpieczna. W przeciwnym razie wezwij pomoc. Podaj dostępne współrzędne, ostatnie znane położenie, pobliskie punkty orientacyjne i informacje o ewentualnych urazach.",
+        "Po wezwaniu pomocy zostań w miejscu, chyba że grozi ci bezpośrednie niebezpieczeństwo utraty życia. Osłoń się przed pogodą, oszczędzaj siły i baterię telefonu, a swoją obecność sygnalizuj gwizdkiem lub światłem."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "id": "fire-wildfire",
+      "title": "Incendii în locuințe și incendii de vegetație",
+      "blocks": [
+        "Dacă pornește alarma de fum în locuință sau vezi foc înăuntru, ieși imediat. Mergi cât mai aproape de podea, pe sub fum, folosește scările și închide ușile în urma ta. Lasă închisă orice ușă fierbinte și caută altă ieșire. Întâlnește-te cu ceilalți afară și cheamă pompierii dintr-un loc sigur. Spune-le dacă lipsește cineva. Rămâi afară.",
+        "Dacă nu poți ieși, închide ușa dintre tine și foc, astupă crăpăturile cu o bucată de material textil dacă ai la îndemână, cheamă ajutor și fă semne la fereastră. Exersează două ieșiri din fiecare cameră, acolo unde este posibil.",
+        "La un incendiu de vegetație, pleacă imediat dacă este ordonată evacuarea. Dacă autoritățile recomandă adăpostirea de fum, închide ușile și ferestrele și, dacă se poate, folosește un sistem care filtrează și recirculă aerul interior. Dacă în locuință este prea cald sau intră mult fum, mergi la un adăpost desemnat cu aer mai curat, dacă drumul este sigur."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Inundații și furtuni puternice",
+      "blocks": [
+        "Dacă apa începe să crească, mergi pe un teren mai înalt. Evită zonele inundate, atât pe jos, cât și cu mașina. Apa poate ascunde drumuri deteriorate, moloz ascuțit și cabluri sub tensiune. Dacă rămâi blocat într-o clădire, urcă la cel mai înalt nivel sigur și cere ajutor. Nu urca în podul clădirii dacă este închis și nu are o ieșire utilizabilă.",
+        "Dacă se apropie o furtună tropicală, respectă din timp ordinele de evacuare, mai ales în zonele de coastă inundabile. În caz de tornadă, mergi într-un adăpost desemnat sau într-o cameră mică, fără ferestre, la cel mai jos nivel sigur al unei clădiri solide. Protejează-ți capul și gâtul. Dacă există și pericol de inundație, evită subsolurile și urmează instrucțiunile locale.",
+        "Când auzi tunete, intră într-o clădire solidă sau într-un vehicul complet închis, cu plafon metalic rigid. Așteaptă 30 de minute după ultimul tunet înainte să ieși."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Cutremure și tsunami",
+      "blocks": [
+        "Dacă ești înăuntru când începe cutremurul, așază-te pe mâini și genunchi, adăpostește-te sub o masă solidă și ține-te de ea. Dacă nu ai un adăpost apropiat, stai ghemuit lângă un perete interior și protejează-ți capul și gâtul. Dacă folosești un scaun rulant, blochează roțile și acoperă-ți capul și gâtul. Rămâi înăuntru cât timp se zguduie clădirea.",
+        "Dacă ești afară, îndepărtează-te de clădiri, copaci și linii electrice. După ce se oprește mișcarea, pregătește-te pentru replici și stai departe de clădirile avariate.",
+        "Lângă coastă, un cutremur puternic sau prelungit, o schimbare bruscă a nivelului mării sau un zgomot puternic dinspre mare pot semnala un tsunami. Când te poți deplasa în siguranță, mergi pe teren înalt sau spre interiorul uscatului fără să aștepți o alertă. Întoarce-te doar după ce autoritățile confirmă că este sigur."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Căldură și frig extreme",
+      "blocks": [
+        "Pe caniculă, ia pauze la răcoare, bea apă regulat și evită efortul în orele cele mai fierbinți. Verifică ce fac persoanele care locuiesc singure sau au nevoie de ajutor. Nu lăsa niciodată nicio persoană și niciun animal singur într-un vehicul parcat.",
+        "Confuzia, convulsiile sau pierderea cunoștinței în căldură pot indica un șoc hipertermic. Sună la urgențe și începe imediat răcirea persoanei. Mut-o la umbră, îndepărtează straturile exterioare de haine și răcorește-i pielea cu cârpe ude sau apă răcoroasă. Nu-i da nimic de băut.",
+        "Când este foarte frig, adăpostește-te de vânt și poartă mai multe straturi de haine uscate. Tremuratul însoțit de confuzie, vorbire neclară sau somnolență poate indica hipotermie. Sună la urgențe. Mișcă persoana cu grijă, du-o la căldură, scoate-i hainele ude și acoper-o cu straturi uscate."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Dacă te rătăcești în natură",
+      "blocks": [
+        "Înainte de plecare, verifică prognoza și starea traseului. Spune-i cuiva pe unde mergi și la ce oră să ceară ajutor dacă întârzii. Ia o hartă utilizabilă fără internet, o lanternă frontală, un fluier, apă și haine potrivite pentru schimbări ale vremii. Rămâi cu grupul.",
+        "Dacă te rătăcești, oprește-te și verifică harta și reperele. Întoarce-te pe același drum doar dacă îl cunoști și este sigur. Altfel, sună la urgențe. Comunică coordonatele dacă le ai, ultima poziție cunoscută, reperele din apropiere și eventualele răni.",
+        "După ce chemi ajutor, rămâi pe loc, cu excepția situațiilor care îți pun viața în pericol imediat. Adăpostește-te de intemperii, economisește-ți energia și bateria telefonului și semnalizează cu un fluier sau o lumină."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "uk": [
+    {
+      "id": "fire-wildfire",
+      "title": "Пожежі в оселях і природні пожежі",
+      "blocks": [
+        "Якщо вдома спрацював датчик диму або ви побачили вогонь у помешканні, негайно виходьте. Рухайтеся низько під шаром диму, користуйтеся сходами й зачиняйте за собою двері. Не відчиняйте гарячих дверей. Скористайтеся іншим виходом. Зберіться надворі й викличте пожежників із безпечного місця. Скажіть, якщо когось бракує. Залишайтеся надворі.",
+        "Якщо вийти не вдається, зачиніть двері між вами й вогнем, за можливості затуліть щілини тканиною, покличте на допомогу та подайте сигнал у вікні. За можливості потренуйтеся виходити з кожної кімнати двома шляхами.",
+        "У разі природної пожежі вирушайте одразу, якщо оголосили евакуацію. Якщо служби радять укритися від диму, зачиніть вікна й двері та, за можливості, увімкніть рециркуляцію повітря з фільтрацією. Якщо в помешканні надто спекотно або задимлено, вирушайте до визначеного укриття з чистішим повітрям, якщо шлях безпечний."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Повені й сильні бурі",
+      "blocks": [
+        "Якщо вода починає підніматися, перейдіть на височину. Оминайте затоплені місця пішки й на транспорті. Під водою можуть бути пошкоджена дорога, гострі уламки та дроти під напругою. Якщо ви опинилися в пастці в будівлі, підніміться на найвищий безпечний рівень і викличте рятувальників. Уникайте замкненого горища без придатного виходу.",
+        "Якщо наближається тропічний шторм, виконуйте розпорядження про евакуацію без зволікань, особливо на узбережжі, де можливе затоплення. У разі смерчу перейдіть до визначеного укриття або невеликої кімнати без вікон на найнижчому безпечному рівні міцної будівлі. Захистіть голову й шию. Якщо є й загроза повені, уникайте підвалів і дотримуйтеся місцевих вказівок.",
+        "Почувши грім, зайдіть у міцну будівлю або повністю закритий транспортний засіб із жорстким металевим дахом. Виходьте лише через 30 хвилин після останнього удару грому."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Землетруси й цунамі",
+      "blocks": [
+        "Якщо поштовхи застали вас у приміщенні, опустіться на руки й коліна, сховайтеся під міцним столом і тримайтеся за нього. Якщо поруч немає укриття, пригніться біля внутрішньої стіни й захистіть голову та шию. Якщо користуєтеся кріслом колісним, заблокуйте колеса й прикрийте голову та шию. Залишайтеся всередині, доки поштовхи не припиняться.",
+        "Надворі відійдіть від будівель, дерев і ліній електропередач. Після поштовхів будьте готові до повторних поштовхів і тримайтеся подалі від пошкоджених будівель.",
+        "На узбережжі сильний або тривалий землетрус, раптова зміна рівня води чи гучний гуркіт із моря можуть свідчити про цунамі. Щойно рухатися стане безпечно, піднімайтеся на височину або йдіть углиб суходолу, не чекаючи оповіщення. Повертайтеся, лише коли місцева влада повідомить, що це безпечно."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Сильна спека й холод",
+      "blocks": [
+        "У сильну спеку відпочивайте в прохолодному місці, регулярно пийте воду й у найспекотніші години уникайте значних навантажень. Дізнавайтеся, як почуваються люди, які живуть самі або потребують допомоги. Ніколи не залишайте людину чи домашню тварину саму в припаркованому транспорті.",
+        "Сплутаність свідомості, судоми або непритомність у спеку можуть свідчити про тепловий удар. Викличте екстрену допомогу й негайно почніть охолодження. Перенесіть людину в затінок, зніміть верхні шари одягу й охолоджуйте шкіру мокрою тканиною або прохолодною водою. Не давайте людині нічого пити.",
+        "У сильний холод сховайтеся від вітру й одягніть кілька шарів сухого одягу. Тремтіння разом зі сплутаністю свідомості, нечітким мовленням чи сонливістю може свідчити про переохолодження. Викличте екстрену допомогу. Поводьтеся з людиною обережно, перемістіть її в тепло, зніміть мокрий одяг і вкрийте сухими шарами."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Якщо заблукали на природі",
+      "blocks": [
+        "Перед виходом перевірте прогноз погоди й стан стежок. Повідомте комусь свій маршрут і коли викликати допомогу, якщо ви запізнитеся. Візьміть карту, доступну без інтернету, налобний ліхтар, свисток, воду й одяг на випадок зміни погоди. Тримайтеся своєї групи.",
+        "Якщо заблукали, зупиніться та звірте карту й орієнтири. Повертайтеся своїм маршрутом лише тоді, коли знаєте шлях і він безпечний. Інакше викличте рятувальників. Повідомте свої координати, якщо вони доступні, останнє відоме місце перебування, орієнтири поблизу та відомості про травми.",
+        "Після виклику рятувальників залишайтеся на місці, якщо немає безпосередньої загрози життю. Захистіться від негоди, бережіть сили й заряд телефону та подавайте сигнали свистком або світлом."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "el": [
+    {
+      "id": "fire-wildfire",
+      "title": "Πυρκαγιές σε κατοικίες και στη βλάστηση",
+      "blocks": [
+        "Αν ηχήσει ανιχνευτής καπνού στο σπίτι σας ή δείτε φωτιά μέσα σε αυτό, βγείτε αμέσως. Κινηθείτε χαμηλά κάτω από τον καπνό, χρησιμοποιήστε τις σκάλες και κλείστε τις πόρτες πίσω σας. Αν μια πόρτα είναι ζεστή, κρατήστε την κλειστή και χρησιμοποιήστε άλλη έξοδο. Συναντηθείτε έξω και καλέστε την πυροσβεστική από ασφαλές σημείο. Αναφέρετε αν λείπει κάποιος. Μείνετε έξω.",
+        "Αν δεν μπορείτε να βγείτε, κλείστε την πόρτα ανάμεσα σε εσάς και τη φωτιά, φράξτε τα κενά με ύφασμα αν υπάρχει, καλέστε βοήθεια και κάντε σήμα από παράθυρο. Όπου γίνεται, εξασκηθείτε σε δύο διαδρομές διαφυγής από κάθε δωμάτιο.",
+        "Σε πυρκαγιά στη βλάστηση, φύγετε αμέσως μόλις δοθεί εντολή εκκένωσης. Αν οι αρχές συστήσουν να προφυλαχθείτε από τον καπνό, κλείστε πόρτες και παράθυρα και, αν μπορείτε, χρησιμοποιήστε σύστημα που φιλτράρει και ανακυκλώνει τον εσωτερικό αέρα. Αν το σπίτι γίνει πολύ ζεστό ή γεμίσει καπνό, πηγαίνετε σε καθορισμένο καταφύγιο με καθαρότερο αέρα, εφόσον η διαδρομή είναι ασφαλής."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "Πλημμύρες και ισχυρές καταιγίδες",
+      "blocks": [
+        "Μόλις αρχίσει να ανεβαίνει το νερό, πηγαίνετε σε ψηλότερο έδαφος. Αποφύγετε τις πλημμυρισμένες περιοχές με τα πόδια ή με όχημα. Το νερό μπορεί να κρύβει ζημιές στον δρόμο, αιχμηρά συντρίμμια και καλώδια υπό τάση. Αν παγιδευτείτε σε κτίριο, ανεβείτε στο ψηλότερο ασφαλές επίπεδο και καλέστε βοήθεια. Αποφύγετε κλειστές σοφίτες χωρίς προσβάσιμη έξοδο.",
+        "Αν πλησιάζει τροπική καταιγίδα, ακολουθήστε έγκαιρα τις εντολές εκκένωσης, ιδίως σε παράκτιες ζώνες που κινδυνεύουν να πλημμυρίσουν. Σε ανεμοστρόβιλο, πηγαίνετε σε καθορισμένο καταφύγιο ή σε μικρό δωμάτιο χωρίς παράθυρα στο χαμηλότερο ασφαλές επίπεδο ανθεκτικού κτιρίου. Προστατέψτε το κεφάλι και τον αυχένα σας. Αν υπάρχει και κίνδυνος πλημμύρας, αποφύγετε τα υπόγεια και τηρήστε τις τοπικές οδηγίες.",
+        "Αν ακούσετε βροντή, μπείτε σε ανθεκτικό κτίριο ή σε τελείως κλειστό όχημα με άκαμπτη μεταλλική οροφή. Περιμένετε 30 λεπτά μετά την τελευταία βροντή πριν ξαναβγείτε έξω."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "Σεισμοί και τσουνάμι",
+      "blocks": [
+        "Αν βρίσκεστε μέσα όταν αρχίσει η δόνηση, στηριχθείτε στο έδαφος με τα χέρια και τα γόνατα, καλυφθείτε κάτω από γερό τραπέζι και κρατηθείτε από αυτό. Αν δεν υπάρχει κάλυψη κοντά, σκύψτε δίπλα σε εσωτερικό τοίχο και καλύψτε το κεφάλι και τον αυχένα. Αν χρησιμοποιείτε αναπηρικό αμαξίδιο, ασφαλίστε τους τροχούς και καλύψτε το κεφάλι και τον αυχένα. Μείνετε μέσα ώσπου να σταματήσει η δόνηση.",
+        "Αν είστε έξω, απομακρυνθείτε από κτίρια, δέντρα και καλώδια ηλεκτρικού ρεύματος. Μετά τη δόνηση, προσέχετε για μετασεισμούς και μείνετε μακριά από κτίρια που έχουν υποστεί ζημιές.",
+        "Κοντά στην ακτή, ένας ισχυρός ή παρατεταμένος σεισμός, μια απότομη αλλαγή της στάθμης της θάλασσας ή ένας δυνατός βόμβος από τη θάλασσα μπορεί να σημαίνουν τσουνάμι. Μόλις είναι ασφαλές να κινηθείτε, πηγαίνετε σε ύψωμα ή προς την ενδοχώρα χωρίς να περιμένετε ειδοποίηση. Επιστρέψτε μόνο όταν οι αρχές πουν ότι είναι ασφαλές."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "Ακραία ζέστη και κρύο",
+      "blocks": [
+        "Σε ακραία ζέστη, κάντε διαλείμματα σε δροσερό μέρος, πίνετε νερό τακτικά και αποφύγετε την έντονη δραστηριότητα τις πιο ζεστές ώρες. Ελέγχετε αν είναι καλά όσοι ζουν μόνοι ή χρειάζονται βοήθεια. Μην αφήνετε ποτέ άνθρωπο ή ζώο μόνο σε σταθμευμένο όχημα.",
+        "Σύγχυση, σπασμοί ή απώλεια συνείδησης στη ζέστη μπορεί να υποδηλώνουν θερμοπληξία. Καλέστε τις υπηρεσίες έκτακτης ανάγκης και αρχίστε αμέσως την ψύξη. Μεταφέρετε το άτομο στη σκιά, αφαιρέστε τα εξωτερικά στρώματα ρούχων και δροσίστε το δέρμα με βρεγμένα πανιά ή δροσερό νερό. Μη δώσετε στο άτομο τίποτα να πιει.",
+        "Σε έντονο κρύο, προστατευτείτε από τον άνεμο και φορέστε στρώσεις στεγνών ρούχων. Ρίγος μαζί με σύγχυση, δυσκολία στην ομιλία ή υπνηλία μπορεί να δηλώνει υποθερμία. Καλέστε τις υπηρεσίες έκτακτης ανάγκης. Μετακινήστε το άτομο προσεκτικά σε ζεστό χώρο, αφαιρέστε τα βρεγμένα ρούχα και τυλίξτε το με στεγνά καλύμματα."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "Αν χαθείτε στην ύπαιθρο",
+      "blocks": [
+        "Πριν ξεκινήσετε, ελέγξτε τον καιρό και την κατάσταση της διαδρομής. Πείτε σε κάποιον ποια διαδρομή θα ακολουθήσετε και πότε να καλέσει βοήθεια αν αργήσετε. Πάρτε χάρτη που λειτουργεί χωρίς σύνδεση, φακό κεφαλής, σφυρίχτρα, νερό και ρούχα για αλλαγές του καιρού. Μείνετε με την ομάδα σας.",
+        "Αν χαθείτε, σταματήστε και ελέγξτε τον χάρτη και τα σημεία αναφοράς. Γυρίστε από τον ίδιο δρόμο μόνο αν τον γνωρίζετε και είναι ασφαλής. Διαφορετικά, καλέστε βοήθεια. Δώστε τις συντεταγμένες σας αν τις έχετε, την τελευταία γνωστή θέση σας, κοντινά σημεία αναφοράς και πληροφορίες για τυχόν τραυματισμούς.",
+        "Αφού καλέσετε για διάσωση, μείνετε εκεί εκτός αν η ζωή σας κινδυνεύει άμεσα. Προστατευτείτε από τις καιρικές συνθήκες, κρατήστε δυνάμεις και εξοικονομήστε μπαταρία τηλεφώνου. Χρησιμοποιήστε σφυρίχτρα ή φως για να δώσετε σήμα."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "id": "fire-wildfire",
+      "title": "حرائق المنازل وحرائق الغابات",
+      "blocks": [
+        "إذا انطلق إنذار الدخان في منزلك أو رأيت حريقًا فيه، فاخرج فورًا. تحرّك قريبًا من الأرض تحت طبقة الدخان، واستخدم الدرج وأغلق الأبواب خلفك. إذا كان أحد الأبواب ساخنًا، فاتركه مغلقًا واسلك مخرجًا آخر. اجتمعوا في الخارج واتصل بالإطفاء من مكان آمن. أخبر فرق الإنقاذ إذا كان أحد مفقودًا. ابق في الخارج.",
+        "إذا تعذّر الخروج، فأغلق الباب الذي يفصلك عن الحريق، وسدّ الفراغات حوله بقطعة قماش إن توفّرت، واطلب النجدة وأشر من النافذة. تدرّب على طريقَي خروج من كل غرفة متى أمكن.",
+        "عند اندلاع حريق في الغابات، غادر فور صدور أمر الإخلاء. إذا نصحت السلطات بالبقاء في الداخل اتقاءً للدخان، فأغلق الأبواب والنوافذ واستخدم، إن أمكن، نظامًا ينقّي الهواء الداخلي ويعيد تدويره. إذا أصبح المنزل شديد الحرارة أو تسرب إليه الكثير من الدخان، فتوجّه إلى مأوى مخصّص به هواء أنظف إذا كان الطريق آمنًا."
+      ],
+      "sources": [
+        "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/",
+        "https://www.usfa.fema.gov/gallery/pictographs/escape-planning.html",
+        "https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html",
+        "https://www.readyforwildfire.org/prepare-for-wildfire/go-evacuation-guide/",
+        "https://www.epa.gov/emergencies-iaq/create-clean-room-protect-indoor-air-quality-during-wildfire"
+      ]
+    },
+    {
+      "id": "floods-storms",
+      "title": "الفيضانات والعواصف الشديدة",
+      "blocks": [
+        "عندما تبدأ المياه بالارتفاع، انتقل إلى أرض أعلى. تجنّب المناطق المغمورة سيرًا أو بالمركبة. قد تخفي المياه طرقًا متضررة وحطامًا حادًا وأسلاكًا تحت الجهد الكهربائي. إذا علقت في مبنى، فاصعد إلى أعلى مستوى آمن واتصل بالإنقاذ. تجنّب العلية المغلقة التي لا مخرج صالحًا منها.",
+        "إذا اقتربت عاصفة مدارية، فاتبع أوامر الإخلاء مبكرًا، خصوصًا على السواحل المعرّضة للفيضان. عند حدوث إعصار قمعي، الجأ إلى مأوى مخصّص أو غرفة صغيرة بلا نوافذ في أدنى طابق آمن من مبنى متين. احمِ رأسك ورقبتك. إذا كان هناك خطر فيضان أيضًا، فتجنّب الأقبية واتبع التعليمات المحلية.",
+        "إذا سمعت الرعد، فادخل مبنى متينًا أو مركبة مغلقة بالكامل ذات سقف معدني صلب. انتظر 30 دقيقة بعد آخر دويّ للرعد قبل الخروج مجددًا."
+      ],
+      "sources": [
+        "https://www.weather.gov/safety/flood-during",
+        "https://www.weather.gov/mhx/hurricaneprep",
+        "https://www.weather.gov/safety/tornado-during",
+        "https://www.weather.gov/safety/lightning-sports",
+        "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-flooding.pdf"
+      ]
+    },
+    {
+      "id": "earthquakes-tsunamis",
+      "title": "الزلازل والتسونامي",
+      "blocks": [
+        "إذا كنت داخل مبنى عند بدء الاهتزاز، فانزل على يديك وركبتيك، واحتمِ تحت طاولة متينة وتمسّك بها. إذا لم تجد ساترًا قريبًا، فانخفض بجانب جدار داخلي واحمِ رأسك ورقبتك. إذا كنت تستخدم كرسيًا متحركًا، فثبّت عجلاته وغطّ رأسك ورقبتك. ابق في الداخل حتى يتوقف الاهتزاز.",
+        "إذا كنت في الخارج، فابتعد عن المباني والأشجار وخطوط الكهرباء. بعد توقف الاهتزاز، توقّع هزات ارتدادية وابتعد عن المباني المتضررة.",
+        "بالقرب من الساحل، قد يشير اهتزاز قوي أو طويل، أو تغيّر مفاجئ في مستوى البحر، أو هدير شديد من جهة البحر إلى تسونامي. توجّه إلى أرض مرتفعة أو إلى الداخل بعيدًا عن الساحل حالما يصبح التحرك آمنًا، دون انتظار إنذار. لا تعد إلا عندما تؤكد السلطات أن العودة آمنة."
+      ],
+      "sources": [
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.weather.gov/safety/tsunami-during"
+      ]
+    },
+    {
+      "id": "heat-cold",
+      "title": "الحرّ الشديد والبرد القارس",
+      "blocks": [
+        "في الحر الشديد، خذ فترات راحة في مكان بارد، واشرب الماء بانتظام وتجنّب الإجهاد في أشدّ ساعات الحر. اطمئن على من يعيشون وحدهم أو يحتاجون إلى مساعدة. لا تترك أبدًا شخصًا أو حيوانًا أليفًا وحده في مركبة متوقفة.",
+        "قد يدل الارتباك أو التشنّج أو فقدان الوعي في الحر على ضربة حرارية. اتصل بخدمات الطوارئ وابدأ التبريد فورًا. انقل المصاب إلى الظل، وانزع الطبقات الخارجية من ملابسه وبرّد جلده بقطع قماش مبللة أو بماء بارد. لا تعطِ المصاب شيئًا ليشربه.",
+        "في البرد القارس، احتمِ من الرياح وارتدِ طبقات جافة من الملابس. قد تشير الرعشة المصحوبة بارتباك أو كلام متثاقل أو نعاس إلى انخفاض حرارة الجسم. اتصل بخدمات الطوارئ. تعامل مع المصاب برفق، وانقله إلى مكان دافئ، وانزع الملابس المبتلّة ولفّه بطبقات جافة."
+      ],
+      "sources": [
+        "https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat",
+        "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+        "https://www.cdc.gov/winter-weather/prevention/index.html",
+        "https://www.cdc.gov/extreme-heat/media/pdf/Heat_Related_Illness.pdf"
+      ]
+    },
+    {
+      "id": "lost-outdoors",
+      "title": "عند الضياع في الأماكن المفتوحة",
+      "blocks": [
+        "قبل الانطلاق، تحقّق من الطقس وحالة المسار. أخبر شخصًا بمسارك وبالوقت الذي ينبغي فيه طلب النجدة إذا تأخرت. احمل خريطة تعمل دون اتصال بالإنترنت، ومصباحًا للرأس، وصفّارة، وماءً، وملابس تناسب تغيّر الطقس. ابق مع مجموعتك.",
+        "إذا ضللت الطريق، فتوقّف وراجع الخريطة والمعالم. لا تعُد أدراجك إلا إذا كنت تعرف الطريق وكان آمنًا. وإلا فاتصل بخدمات الطوارئ. أعطهم إحداثياتك إذا كانت متاحة، وآخر موقع معروف لك، والمعالم القريبة وأي إصابات.",
+        "بعد طلب الإنقاذ، ابق في مكانك ما لم تكن حياتك في خطر مباشر. احتمِ من الطقس ووفّر طاقتك وشحن هاتفك، واستخدم صفّارة أو ضوءًا للإشارة إلى موقعك."
+      ],
+      "sources": [
+        "https://www.nps.gov/articles/gtgemergencyplan.htm"
+      ]
+    }
+  ]
+}

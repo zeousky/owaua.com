@@ -1,0 +1,818 @@
+{
+  "en": [
+    {
+      "id": "nuclear-blast",
+      "title": "Nuclear explosion and the first 24 hours",
+      "blocks": [
+        "If you see the flash of a suspected nuclear blast, look away immediately. Drop face down and protect your eyes. Stay down until the blast waves pass. As soon as you can move safely, go inside the nearest building. A sturdy brick or concrete building is preferable if you can reach it quickly.",
+        "Go to the basement or the middle of the building, away from windows, outside walls and the roof. Close doors and windows. If possible, switch off ventilation that draws in outside air. A car gives little protection from radioactive fallout. Bring pets in with you if you can do so safely.",
+        "Plan to stay in shelter for at least the first 24 hours unless officials give other instructions or there is an immediate threat such as fire or collapse. Listen for local updates. If the shelter becomes unsafe, move to another safe building. After 24 hours, keep following instructions about when and where to leave."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Remove radioactive dust",
+      "blocks": [
+        "Get indoors quickly. If you were outside, carefully remove your outer layer of clothing without shaking it. Seal it in a bag or other container away from people and pets. Take a lukewarm shower with soap and shampoo. Skip hair conditioner, wash gently and keep cuts covered. Put on clean clothing stored indoors.",
+        "If you cannot shower, wash exposed skin at a tap or wipe it with a clean damp cloth, focusing on your face and hands. Seal used wipes or cloths with the clothing. If a pet was outside, gently wash it with soap or pet shampoo, rinse thoroughly and wash your hands and face afterward. Use waterproof gloves if you have them."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Food, water and iodine after a radiation emergency",
+      "blocks": [
+        "Use sealed bottled drinks and packaged food, or unspoiled food already stored inside away from fallout. Wipe potentially dusty packaging with a damp cloth before opening it. Seal the cloth away from people and pets, then wash your hands. Wait for officials to clear garden produce and local water sources. Boiling water leaves radioactive material behind. Tap water can generally still be used for washing in a radiation emergency. Follow any separate restrictions from your water supplier.",
+        "Take potassium iodide (KI) only if public-health authorities instruct you to, and follow their directions for timing and dose. It helps protect only the thyroid from radioactive iodine. Keep sheltering as directed. Iodized salt and iodine supplements cannot replace KI tablets."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Chemical release",
+      "blocks": [
+        "Move away from the release. If the chemical was released indoors and you were exposed, go outside to fresh air. For an outdoor release, follow local alerts about sheltering or evacuating. If told to shelter, close windows and doors and turn off the ventilation that brings in outside air. Use the room and sealing measures officials direct.",
+        "After contact with the chemical, remove contaminated clothing promptly and shower with lukewarm water and mild soap if you can, ideally within 10 minutes. Wash gently. If you cannot shower, blot the chemical off without rubbing. Keep contaminated items sealed away from others and follow disposal directions. If your eyes burn or your vision changes, rinse your eyes with clean water for 10 to 15 minutes.",
+        "Call emergency services for difficulty breathing or other severe symptoms. Contact your local poison centre or a healthcare provider for exposure advice. If a chemical was swallowed, do not induce vomiting or drink anything unless a professional tells you to."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Communication outages and safe return",
+      "blocks": [
+        "Keep a battery-powered radio, spare batteries, a charged power bank and a paper list of essential numbers. Note which local station and official channels carry alerts. If mobile service is overloaded, send a short text with your location, status and needs to your household contact. Use emergency lines for urgent help. Check the time, area and issuer on alerts before acting on forwarded messages.",
+        "After a radiation release, use the routes and reception sites named by officials when they direct you to leave. Return home only after authorities say the area is safe. Keep away from visibly damaged buildings and fallen power lines. If you smell gas, leave without using switches or flames and contact emergency services from a safe place."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "id": "nuclear-blast",
+      "title": "Explosión nuclear y primeras 24 horas",
+      "blocks": [
+        "Si ves el destello de una posible explosión nuclear, aparta la vista de inmediato. Túmbate boca abajo y protégete los ojos. Permanece en el suelo hasta que pasen las ondas de choque. En cuanto puedas moverte con seguridad, entra en el edificio más cercano. Si puedes llegar rápido, elige uno sólido de ladrillo u hormigón.",
+        "Ve al sótano o al centro del edificio, lejos de ventanas, paredes exteriores y tejado. Cierra puertas y ventanas. Si es posible, apaga la ventilación que introduce aire exterior. Un coche ofrece poca protección contra la lluvia radiactiva. Mete a tus mascotas si puedes hacerlo con seguridad.",
+        "Prepárate para permanecer a cubierto al menos las primeras 24 horas, salvo que las autoridades indiquen otra cosa o exista un peligro inmediato, como un incendio o un derrumbe. Escucha las alertas locales. Si el refugio deja de ser seguro, ve a otro edificio seguro. Pasadas 24 horas, sigue las indicaciones sobre cuándo y adónde salir."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Retira el polvo radiactivo",
+      "blocks": [
+        "Entra rápidamente. Si estabas fuera, quítate con cuidado la capa exterior de ropa sin sacudirla. Guárdala en una bolsa o un recipiente cerrado, lejos de otras personas y mascotas. Dúchate con agua tibia, jabón y champú. Evita el acondicionador, lávate sin frotar y mantén cubiertos los cortes. Ponte ropa limpia que estuviera guardada dentro.",
+        "Si no puedes ducharte, lava la piel expuesta en un grifo o límpiala con un paño limpio y húmedo. Presta especial atención a la cara y las manos. Guarda los paños usados en un recipiente cerrado junto con la ropa. Si una mascota estuvo fuera, lávala con cuidado con jabón o champú para mascotas, aclárala bien y lávate después las manos y la cara. Usa guantes impermeables si tienes."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Alimentos, agua y yodo tras una emergencia radiológica",
+      "blocks": [
+        "Consume bebidas y alimentos en envases cerrados o alimentos en buen estado que ya estaban guardados dentro y protegidos de la lluvia radiactiva. Limpia los envases que puedan tener polvo con un paño húmedo antes de abrirlos. Sella el paño y déjalo lejos de personas y mascotas. Lávate las manos. Espera la autorización oficial para consumir productos de huertos locales o agua de fuentes locales. Hervir el agua no elimina el material radiactivo. En general, puedes usar el agua del grifo para lavarte, respetando las restricciones de tu proveedor.",
+        "Toma yoduro de potasio (KI) solo si lo indican las autoridades sanitarias. Respeta el momento y la dosis que indiquen. Solo ayuda a proteger la tiroides del yodo radiactivo. Sigue a cubierto según las instrucciones. La sal yodada y los suplementos de yodo no sustituyen las pastillas de KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Liberación de sustancias químicas",
+      "blocks": [
+        "Aléjate de la zona de la fuga. Si la sustancia se liberó dentro de un edificio y estuviste expuesto, sal al aire libre. Si se liberó fuera, sigue las alertas locales para refugiarte o evacuar. Si debes refugiarte, cierra puertas y ventanas y apaga la ventilación que introduce aire exterior. Sigue las indicaciones sobre dónde resguardarte y qué sellar.",
+        "Tras el contacto con la sustancia, quítate enseguida la ropa contaminada y dúchate con agua tibia y jabón suave si puedes, idealmente en los primeros 10 minutos. Lávate suavemente. Si no puedes ducharte, retira la sustancia con toques suaves, sin frotar. Aísla los objetos contaminados en un recipiente cerrado y sigue las instrucciones para desecharlos. Si te arden los ojos o cambia tu visión, enjuágatelos con agua limpia durante 10 a 15 minutos.",
+        "Si tienes dificultad para respirar u otros síntomas graves, llama a emergencias. Consulta a un centro de toxicología o a un profesional sanitario. Si tragaste la sustancia, no te provoques el vómito ni bebas nada salvo indicación profesional."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Cortes de comunicación y regreso seguro",
+      "blocks": [
+        "Ten una radio a pilas, pilas de repuesto, una batería externa cargada y una lista de teléfonos en papel. Anota la emisora local y los canales oficiales que emiten alertas. Si la red móvil está saturada, envía un mensaje breve al contacto familiar con tu ubicación, tu estado y lo que necesitas. Usa las líneas de emergencia si necesitas ayuda urgente. Comprueba la hora, la zona y el emisor de una alerta reenviada antes de actuar.",
+        "Tras una liberación radiactiva, sigue las rutas y acude a los centros de acogida que indiquen las autoridades cuando ordenen salir. Regresa a casa cuando confirmen que la zona es segura. Aléjate de edificios dañados y cables eléctricos caídos. Si hueles a gas, sal sin accionar interruptores ni encender llamas y llama a emergencias desde un lugar seguro."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "id": "nuclear-blast",
+      "title": "Explosion nucléaire et premières 24 heures",
+      "blocks": [
+        "Si vous voyez l’éclair d’une explosion qui pourrait être nucléaire, détournez aussitôt le regard. Allongez-vous face contre terre et protégez vos yeux. Restez au sol jusqu’au passage des ondes de choc. Dès que vous pouvez vous déplacer sans danger, entrez dans le bâtiment le plus proche. Privilégiez un bâtiment solide en brique ou en béton s’il est rapidement accessible.",
+        "Allez au sous-sol ou au centre du bâtiment, loin des fenêtres, des murs extérieurs et du toit. Fermez les portes et fenêtres. Si possible, arrêtez la ventilation qui aspire l’air extérieur. Une voiture protège peu des retombées radioactives. Faites entrer vos animaux si vous pouvez le faire sans danger.",
+        "Prévoyez de rester à l’abri pendant au moins les 24 premières heures, sauf consigne contraire des autorités ou danger immédiat, comme un incendie ou un effondrement. Écoutez les informations locales. Si l’abri devient dangereux, rejoignez un autre bâtiment sûr. Après 24 heures, continuez à suivre les consignes sur le moment et la destination de votre départ."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Éliminer les poussières radioactives",
+      "blocks": [
+        "Rentrez rapidement. Si vous étiez dehors, retirez délicatement vos vêtements de dessus sans les secouer. Enfermez-les dans un sac ou un récipient, à l’écart des personnes et des animaux. Douchez-vous à l’eau tiède avec du savon et du shampoing. Évitez l’après-shampoing, lavez-vous sans frotter et gardez les coupures couvertes. Enfilez des vêtements propres conservés à l’intérieur.",
+        "À défaut de douche, lavez la peau exposée au robinet ou essuyez-la avec un linge propre et humide, surtout le visage et les mains. Enfermez les linges utilisés avec les vêtements. Si un animal est sorti, lavez-le délicatement avec du savon ou un shampoing pour animaux, rincez-le bien, puis lavez-vous les mains et le visage. Portez des gants imperméables si vous en avez."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Aliments, eau et iode après un accident radiologique",
+      "blocks": [
+        "Consommez des boissons et des aliments en emballages fermés, ou des aliments non avariés déjà conservés à l’intérieur à l’abri des retombées. Essuyez les emballages poussiéreux avec un linge humide avant de les ouvrir. Enfermez le linge à l’écart des personnes et des animaux, puis lavez-vous les mains. Attendez l’autorisation officielle pour consommer les produits du jardin ou l’eau de sources locales. Faire bouillir l’eau n’enlève pas les substances radioactives. L’eau du robinet convient en général pour se laver. Respectez toute restriction du distributeur.",
+        "Prenez de l’iodure de potassium (KI) uniquement sur instruction des autorités sanitaires, à l’heure et à la dose indiquées. Il protège uniquement la thyroïde contre l’iode radioactif. Continuez à vous abriter comme indiqué. Le sel iodé et les compléments d’iode ne remplacent pas les comprimés de KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Rejet de produits chimiques",
+      "blocks": [
+        "Éloignez-vous de la zone du rejet. Si le produit s’est répandu à l’intérieur et que vous y avez été exposé, sortez respirer de l’air frais. Pour un rejet à l’extérieur, suivez les alertes locales pour vous abriter ou évacuer. Si l’on vous demande de vous abriter, fermez portes et fenêtres et arrêtez la ventilation qui aspire l’air extérieur. Suivez les indications sur la pièce à utiliser et les ouvertures à colmater.",
+        "Après un contact, enlevez rapidement les vêtements contaminés. Si possible, douchez-vous à l’eau tiède avec du savon doux, idéalement dans les 10 minutes. Lavez-vous sans frotter. Sans douche, retirez le produit en tamponnant. Enfermez les objets contaminés à l’écart des autres et suivez les instructions pour leur élimination. Si vos yeux brûlent ou si votre vision change, rincez vos yeux à l’eau propre pendant 10 à 15 minutes.",
+        "Appelez les secours en cas de difficulté à respirer ou d’autres symptômes graves. Demandez conseil à un centre antipoison ou à un professionnel de santé. Si vous avez avalé le produit, ne vous faites pas vomir et ne buvez rien sans avis professionnel."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Coupures de communication et retour à domicile",
+      "blocks": [
+        "Gardez une radio à piles, des piles de rechange, une batterie externe chargée et les numéros essentiels sur papier. Notez la station locale et les canaux officiels qui diffusent les alertes. Si le réseau mobile est saturé, envoyez un court SMS à votre contact familial avec votre emplacement, votre état et vos besoins. Réservez les appels aux secours aux urgences. Vérifiez l’heure, la zone et l’émetteur des alertes relayées avant d’agir.",
+        "Après un rejet radioactif, empruntez les itinéraires et rejoignez les centres d’accueil indiqués par les autorités lorsqu’elles ordonnent de partir. Rentrez chez vous après leur feu vert. Restez loin des bâtiments endommagés et des lignes électriques tombées. Si vous sentez le gaz, sortez sans actionner d’interrupteur ni allumer de flamme et appelez les secours depuis un endroit sûr."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "id": "nuclear-blast",
+      "title": "Kernwaffenexplosion und die ersten 24 Stunden",
+      "blocks": [
+        "Wenn du den Lichtblitz einer möglichen Kernwaffenexplosion siehst, wende den Blick sofort ab. Lege dich mit dem Gesicht nach unten auf den Boden und schütze deine Augen. Bleibe liegen, bis die Druckwellen vorüber sind. Sobald du dich sicher bewegen kannst, gehe in das nächstgelegene Gebäude. Ein massiver Ziegel- oder Betonbau ist vorzuziehen, wenn du ihn schnell erreichst.",
+        "Suche den Keller oder die Mitte des Gebäudes auf, fern von Fenstern, Außenwänden und Dach. Schließe Türen und Fenster. Schalte nach Möglichkeit die Lüftung aus, die Außenluft ansaugt. Ein Auto schützt kaum vor radioaktivem Niederschlag. Hole Haustiere nach drinnen, wenn das gefahrlos möglich ist.",
+        "Stelle dich darauf ein, mindestens die ersten 24 Stunden im Schutzraum zu bleiben. Befolge abweichende Anweisungen der Behörden. Verlasse den Schutzraum bei unmittelbarer Gefahr wie Feuer oder Einsturz und suche ein anderes sicheres Gebäude. Höre lokale Meldungen. Befolge auch nach 24 Stunden die Anweisungen dazu, wann und wohin du gehen kannst."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Radioaktiven Staub entfernen",
+      "blocks": [
+        "Gehe schnell hinein. Wenn du draußen warst, ziehe deine äußerste Kleidungsschicht vorsichtig aus, ohne sie auszuschütteln. Verschließe sie in einem Beutel oder Behälter und halte ihn von Menschen und Tieren fern. Dusche lauwarm mit Seife und Shampoo. Verwende keine Haarspülung, wasche dich sanft und decke Wunden ab. Ziehe saubere Kleidung an, die drinnen gelagert wurde.",
+        "Wenn du nicht duschen kannst, wasche unbedeckte Haut am Wasserhahn oder wische sie mit einem sauberen feuchten Tuch ab. Achte besonders auf Hände und Gesicht. Verschließe benutzte Tücher zusammen mit der Kleidung. War ein Haustier draußen, wasche es vorsichtig mit Seife oder Tiershampoo und spüle es gründlich ab. Wasche danach Hände und Gesicht. Trage nach Möglichkeit wasserdichte Handschuhe."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Lebensmittel, Wasser und Jod nach einem Strahlennotfall",
+      "blocks": [
+        "Verwende versiegelte Getränke und Lebensmittel oder unverdorbene Lebensmittel, die bereits drinnen vor radioaktivem Niederschlag geschützt waren. Wische verstaubte Verpackungen vor dem Öffnen feucht ab. Verschließe das Tuch und halte es von Menschen und Tieren fern. Wasche dir die Hände. Warte auf die Freigabe für Gartenerzeugnisse und örtliche Wasserquellen. Abkochen entfernt keine radioaktiven Stoffe. Zum Waschen eignet sich Leitungswasser bei einem Strahlennotfall in der Regel weiterhin. Beachte Einschränkungen des Wasserversorgers.",
+        "Nimm Kaliumiodid (KI) nur auf Anweisung der Gesundheitsbehörden ein und halte Zeitpunkt und Dosis ein. Es schützt lediglich die Schilddrüse vor radioaktivem Jod. Bleibe wie angewiesen im Schutzraum. Jodsalz und Jodpräparate ersetzen keine KI-Tabletten."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Freisetzung gefährlicher Chemikalien",
+      "blocks": [
+        "Entferne dich vom Ort der Freisetzung. Wenn Chemikalien in einem Gebäude ausgetreten sind und du ihnen ausgesetzt warst, gehe an die frische Luft. Bei einem Austritt im Freien beachte örtliche Warnungen zum Schutz im Gebäude oder zur Evakuierung. Wenn du drinnen bleiben sollst, schließe Türen und Fenster und schalte die Lüftung mit Außenluftzufuhr ab. Befolge Anweisungen zur Wahl und Abdichtung des Raums.",
+        "Ziehe nach Kontakt verunreinigte Kleidung zügig aus und dusche, wenn möglich, mit lauwarmem Wasser und milder Seife, idealerweise innerhalb von 10 Minuten. Wasche dich sanft. Ohne Dusche tupfe die Substanz ab, ohne zu reiben. Verschließe verunreinigte Gegenstände getrennt von anderen und beachte die Entsorgungshinweise. Wenn deine Augen brennen oder du anders siehst als sonst, spüle die Augen 10 bis 15 Minuten lang mit sauberem Wasser.",
+        "Rufe bei Atemnot oder anderen schweren Beschwerden den Notruf. Wende dich zur Beratung an den Giftnotruf oder medizinisches Fachpersonal. Wenn du die Substanz verschluckt hast, löse kein Erbrechen aus und trinke nichts ohne fachliche Anweisung."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Kommunikationsausfall und sichere Rückkehr",
+      "blocks": [
+        "Halte ein Batterieradio, Ersatzbatterien, eine geladene Powerbank und eine Papierliste wichtiger Nummern bereit. Notiere lokale Radiosender und offizielle Warnkanäle. Bei überlastetem Mobilfunk schicke deiner vereinbarten Kontaktperson eine kurze SMS mit Standort, deinem Zustand und dem, was du brauchst. Nutze den Notruf für dringende Hilfe. Prüfe bei weitergeleiteten Warnungen Zeitpunkt, Geltungsbereich und Absender.",
+        "Wenn Behörden nach einem Strahlennotfall zur Evakuierung auffordern, nutze die genannten Wege und Anlaufstellen. Kehre erst nach behördlicher Freigabe nach Hause zurück. Meide sichtbar beschädigte Gebäude und herabgefallene Stromleitungen. Riechst du Gas, geh hinaus, ohne Schalter zu betätigen oder Flammen zu entzünden. Rufe von einem sicheren Ort aus den Notruf."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "it": [
+    {
+      "id": "nuclear-blast",
+      "title": "Esplosione nucleare e prime 24 ore",
+      "blocks": [
+        "Se vedi il lampo di una possibile esplosione nucleare, distogli subito lo sguardo. Sdraiati a faccia in giù e proteggi gli occhi. Resta a terra finché non sono passate le onde d’urto. Appena puoi muoverti in sicurezza, entra nell’edificio più vicino. Preferisci un edificio solido in mattoni o cemento se puoi raggiungerlo in fretta.",
+        "Vai nel seminterrato o al centro dell’edificio, lontano da finestre, muri esterni e tetto. Chiudi porte e finestre. Se puoi, spegni la ventilazione che aspira aria dall’esterno. Un’auto protegge poco dalla ricaduta radioattiva. Porta al chiuso gli animali domestici, se puoi farlo in sicurezza.",
+        "Preparati a restare al riparo almeno per le prime 24 ore, salvo diverse istruzioni delle autorità o un pericolo immediato come un incendio o un crollo. Ascolta gli aggiornamenti locali. Se il rifugio diventa pericoloso, raggiungi un altro edificio sicuro. Anche dopo 24 ore, segui le indicazioni su quando e dove spostarti."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Rimuovere la polvere radioattiva",
+      "blocks": [
+        "Entra subito. Se eri all’aperto, togli con cautela lo strato esterno dei vestiti, senza scuoterlo. Chiudilo in un sacchetto o un contenitore e tienilo lontano da persone e animali. Fai una doccia tiepida con sapone e shampoo. Evita il balsamo, lavati senza strofinare e tieni coperti i tagli. Indossa vestiti puliti conservati al chiuso.",
+        "Se non puoi fare la doccia, lava la pelle esposta al rubinetto o puliscila con un panno pulito e umido, soprattutto mani e viso. Chiudi i panni usati insieme ai vestiti. Se un animale domestico era fuori, lavalo delicatamente con sapone o shampoo per animali e sciacqualo bene. Poi lavati mani e viso. Se li hai, usa guanti impermeabili."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Cibo, acqua e iodio dopo un’emergenza radiologica",
+      "blocks": [
+        "Usa bevande e cibi in confezioni sigillate o alimenti ancora in buono stato già tenuti al chiuso al riparo dalle ricadute. Pulisci con un panno umido i contenitori che potrebbero essere impolverati prima di aprirli. Chiudi il panno in un sacchetto lontano da persone e animali e lavati le mani. Aspetta il via libera delle autorità prima di consumare prodotti dell’orto o acqua da fonti locali. Bollire l’acqua non elimina le sostanze radioattive. Di solito puoi usare l’acqua del rubinetto per lavarti. Rispetta eventuali limitazioni del gestore idrico.",
+        "Prendi ioduro di potassio (KI) solo su indicazione delle autorità sanitarie, rispettando orari e dosi. Protegge solo la tiroide dallo iodio radioattivo. Resta al riparo come indicato. Il sale iodato e gli integratori di iodio non sostituiscono le compresse di KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Rilascio di sostanze chimiche",
+      "blocks": [
+        "Allontanati dalla zona del rilascio. Se la sostanza è stata rilasciata al chiuso e sei stato esposto, esci all’aria aperta. Per un rilascio all’aperto, segui gli avvisi locali per capire se ripararti al chiuso o evacuare. Se devi restare dentro, chiudi porte e finestre e spegni la ventilazione che aspira aria esterna. Segui le indicazioni sulla stanza da usare e sulle aperture da sigillare.",
+        "Dopo il contatto, togli subito gli indumenti contaminati. Se puoi, fai una doccia con acqua tiepida e sapone delicato, idealmente entro 10 minuti. Lavati con delicatezza. Senza doccia, rimuovi la sostanza tamponando, senza strofinare. Chiudi gli oggetti contaminati in un contenitore separato e segui le indicazioni per smaltirli. Se gli occhi bruciano o la vista cambia, sciacqua gli occhi con acqua pulita per 10-15 minuti.",
+        "Chiama i soccorsi in caso di difficoltà respiratorie o altri sintomi gravi. Chiedi consiglio a un centro antiveleni o a un professionista sanitario. Se hai ingerito la sostanza, non provocare il vomito e non bere nulla senza indicazioni professionali."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Comunicazioni interrotte e rientro sicuro",
+      "blocks": [
+        "Tieni pronta una radio a pile, pile di ricambio, una batteria esterna carica e una lista cartacea dei numeri essenziali. Annota l’emittente locale e i canali ufficiali che diffondono gli avvisi. Se la rete mobile è congestionata, invia al contatto concordato un breve SMS con la tua posizione, come stai e cosa ti serve. Usa le linee di emergenza per richieste urgenti. Verifica orario, area e mittente degli avvisi inoltrati prima di agire.",
+        "Dopo un rilascio radioattivo, segui i percorsi e raggiungi i centri di accoglienza indicati dalle autorità quando ordinano di uscire. Rientra quando confermano che la zona è sicura. Evita gli edifici danneggiati e i cavi elettrici caduti. Se senti odore di gas, esci senza toccare interruttori o accendere fiamme. Chiama i soccorsi da un luogo sicuro."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "id": "nuclear-blast",
+      "title": "Explosão nuclear e primeiras 24 horas",
+      "blocks": [
+        "Se vir o clarão de uma possível explosão nuclear, desvie o olhar imediatamente. Deite-se de bruços e proteja os olhos. Fique no chão até as ondas de choque passarem. Assim que for seguro mover-se, entre no prédio mais próximo. Prefira uma construção sólida de tijolo ou concreto se conseguir chegar lá rapidamente.",
+        "Vá para o subsolo ou o centro do prédio, longe das janelas, paredes externas e telhado. Feche portas e janelas. Se puder, desligue a ventilação que puxa ar de fora. Um carro oferece pouca proteção contra a precipitação radioativa. Leve os animais de estimação para dentro se for seguro.",
+        "Prepare-se para ficar no abrigo pelo menos durante as primeiras 24 horas, exceto se as autoridades orientarem de outra forma ou se houver perigo imediato, como incêndio ou desabamento. Acompanhe os avisos locais. Se o abrigo ficar perigoso, procure outro prédio seguro. Depois de 24 horas, continue seguindo as orientações sobre quando e para onde sair."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Como remover poeira radioativa",
+      "blocks": [
+        "Entre rapidamente. Se estava ao ar livre, retire com cuidado a camada externa de roupa, sem sacudir. Feche-a em um saco ou recipiente longe de pessoas e animais. Tome um banho morno com sabonete e xampu. Não use condicionador nem esfregue a pele. Mantenha os cortes cobertos. Vista roupas limpas guardadas dentro de casa.",
+        "Se não puder tomar banho, lave a pele exposta em uma torneira ou limpe-a com um pano limpo e úmido, especialmente o rosto e as mãos. Feche os panos usados junto com as roupas. Se um animal de estimação ficou fora, lave-o com cuidado usando sabonete ou xampu para animais. Enxágue bem e depois lave as mãos e o rosto. Use luvas impermeáveis se tiver."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Alimentos, água e iodo após uma emergência radiológica",
+      "blocks": [
+        "Consuma bebidas e alimentos em embalagens lacradas ou alimentos em bom estado que já estavam guardados em local fechado, protegidos da precipitação radioativa. Limpe embalagens possivelmente empoeiradas com um pano úmido antes de abrir. Feche o pano em um saco longe de pessoas e animais e lave as mãos. Aguarde a autorização das autoridades para consumir produtos da horta ou água de fontes locais. Ferver não elimina material radioativo. Em geral, a água da torneira ainda pode ser usada para lavar-se. Respeite quaisquer restrições do fornecedor.",
+        "Tome iodeto de potássio (KI) somente se as autoridades de saúde orientarem. Siga o horário e a dose indicados. Ele protege apenas a tireoide contra o iodo radioativo. Permaneça abrigado conforme as orientações. Sal iodado e suplementos de iodo não substituem comprimidos de KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Liberação de substâncias químicas",
+      "blocks": [
+        "Afaste-se da área da liberação. Se a substância foi liberada em um local fechado e você foi exposto, saia para respirar ar fresco. Se a liberação foi ao ar livre, siga os alertas locais sobre abrigar-se ou evacuar. Se orientarem que fique dentro, feche portas e janelas e desligue a ventilação que puxa ar de fora. Siga as instruções sobre qual cômodo usar e o que vedar.",
+        "Após o contato, tire logo as roupas contaminadas. Se puder, tome banho com água morna e sabonete suave, de preferência nos primeiros 10 minutos. Lave-se com cuidado. Sem chuveiro, retire a substância com leves toques, sem esfregar. Feche os itens contaminados em um recipiente separado e siga as orientações de descarte. Se os olhos arderem ou se houver alteração na visão, enxágue-os com água limpa durante 10 a 15 minutos.",
+        "Ligue para o serviço de emergência se houver dificuldade para respirar ou outros sintomas graves. Consulte um centro de informação toxicológica ou profissional de saúde. Se engoliu a substância, não provoque vômito nem beba nada sem orientação profissional."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Falhas de comunicação e retorno seguro",
+      "blocks": [
+        "Mantenha um rádio a pilhas, pilhas extras, um carregador portátil carregado e números essenciais anotados em papel. Anote a emissora local e os canais oficiais de alerta. Se a rede móvel estiver congestionada, envie uma mensagem curta ao contato familiar informando onde você está, como está e do que precisa. Use as linhas de emergência para ajuda urgente. Confira o horário, a área e quem emitiu os alertas encaminhados antes de agir.",
+        "Após uma liberação radioativa, use as rotas e os pontos de acolhimento indicados quando as autoridades mandarem sair. Volte para casa só após a liberação da área. Mantenha distância de construções danificadas e fios elétricos caídos. Se sentir cheiro de gás, saia sem acionar interruptores ou acender chamas. Chame o serviço de emergência de um local seguro."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "id": "nuclear-blast",
+      "title": "Nukleáris robbanás és az első 24 óra",
+      "blocks": [
+        "Ha egy feltételezett nukleáris robbanás villanását látod, azonnal fordítsd el a tekinteted. Feküdj hasra, védd a szemed, és maradj a földön, amíg a lökéshullámok elvonulnak. Amint biztonságosan mozoghatsz, menj be a legközelebbi épületbe. Ha gyorsan elérhető, válassz masszív tégla- vagy betonépületet.",
+        "Menj a pincébe vagy az épület középső részébe, távol az ablakoktól, a külső falaktól és a tetőtől. Csukd be az ajtókat és az ablakokat. Ha lehet, kapcsold ki a külső levegőt beszívó szellőzést. Az autó alig véd a radioaktív kihullástól. Ha biztonságos, vidd be a háziállatokat is.",
+        "Készülj fel arra, hogy legalább az első 24 órát a menedékben töltöd, kivéve, ha a hatóságok mást mondanak, vagy közvetlen veszély, például tűz vagy omlás fenyeget. Figyeld a helyi tájékoztatást. Ha az épület veszélyessé válik, menj egy másik biztonságos épületbe. A 24 óra után is kövesd az utasításokat arról, mikor és hová mehetsz."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "A radioaktív por eltávolítása",
+      "blocks": [
+        "Menj gyorsan fedett helyre. Ha kint voltál, óvatosan, rázás nélkül vedd le a legkülső ruharéteget. Zárd zacskóba vagy tárolóedénybe, és tartsd távol emberektől, állatoktól. Langyos vízzel, szappannal és samponnal zuhanyozz le. Ne használj hajbalzsamot. Mosakodj dörzsölés nélkül, a vágásokat tartsd lefedve. Vegyél fel bent tárolt tiszta ruhát.",
+        "Ha nincs zuhany, csapnál mosd meg a fedetlen bőrt, vagy töröld át tiszta, nedves kendővel. Az arcodra és a kezedre különösen figyelj. Zárd el a használt kendőket a ruhával együtt. A kint járt háziállatot óvatosan mosd meg szappannal vagy állatsamponnal, majd alaposan öblítsd le. Utána mosd meg a kezed és az arcod. Ha van, használj vízhatlan kesztyűt."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Élelmiszer, víz és jód sugárveszély esetén",
+      "blocks": [
+        "Zárt palackból igyál. Fogyassz zárt csomagolású vagy olyan, sértetlen élelmiszert, amelyet már előtte bent, a kihullástól védve tároltál. A poros csomagolást felnyitás előtt töröld le nedves kendővel. Zárd el a kendőt emberektől és állatoktól távol, majd moss kezet. Kerti termést és helyi forrásból származó vizet csak hatósági engedély után fogyassz. A forralás nem távolítja el a radioaktív anyagokat. A csapvíz általában használható mosakodásra. Tartsd be a vízszolgáltató külön korlátozásait.",
+        "Kálium-jodidot (KI) kizárólag az egészségügyi hatóság utasítására vegyél be, az előírt időpontban és adagban. Csak a pajzsmirigyet védi a radioaktív jódtól. Maradj a menedékben az utasítás szerint. A jódozott só vagy jódtartalmú étrend-kiegészítő nem helyettesíti a KI-tablettát."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Veszélyes vegyi anyag kiszabadulása",
+      "blocks": [
+        "Távolodj el a kibocsátás helyétől. Ha az anyag zárt térben szabadult ki és érintett, menj ki a friss levegőre. Kültéri kibocsátásnál a helyi riasztás alapján maradj fedett helyen vagy hagyd el a területet. Ha bent kell maradnod, csukd be az ajtókat és ablakokat, és állítsd le a külső levegőt beszívó szellőzést. A kijelölt helyiségbe menj, és az előírás szerint zárd le a nyílásokat.",
+        "Érintkezés után gyorsan vedd le a szennyezett ruhát. Ha tudsz, zuhanyozz le langyos vízzel és enyhe szappannal, lehetőleg 10 percen belül. Mosakodj gyengéden. Zuhany híján itasd fel az anyagot, ne dörzsöld. Zárd el a szennyezett tárgyakat másoktól, és kövesd az ártalmatlanítási utasításokat. Ha ég a szemed vagy megváltozik a látásod, öblítsd a szemed tiszta vízzel 10–15 percig.",
+        "Légzési nehézség vagy más súlyos tünet esetén hívd a segélyhívót. A mérgezési tájékoztató szolgálattól vagy egészségügyi szakembertől kérj tanácsot. Lenyelés esetén ne hánytasd magad, és ne igyál, kivéve, ha szakember erre utasít."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Kapcsolattartás hálózati zavarban és biztonságos hazatérés",
+      "blocks": [
+        "Tarts készenlétben elemes rádiót, tartalék elemeket, feltöltött hordozható töltőt és papírra írt fontos telefonszámokat. Írd fel, melyik helyi rádió és hivatalos csatorna közöl riasztásokat. Ha túlterhelt a mobilhálózat, rövid üzenetben közöld a kijelölt kapcsolattartóval, hol vagy, hogy vagy és mire van szükséged. A segélyhívót sürgős esetben használd. A továbbküldött riasztásoknál ellenőrizd a kibocsátót, az időpontot és az érintett területet.",
+        "Radioaktív kibocsátás után, ha a hatóságok elrendelik a távozást, kövesd a kijelölt útvonalat, és menj a megadott fogadóhelyre. Csak akkor térj haza, ha a hatóságok biztonságosnak nyilvánították a területet. Kerüld a láthatóan sérült épületeket és a leszakadt vezetékeket. Gázszag esetén menj ki villanykapcsoló és nyílt láng használata nélkül. Biztonságos helyről hívd a segélyhívót."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "id": "nuclear-blast",
+      "title": "Wybuch jądrowy i pierwsze 24 godziny",
+      "blocks": [
+        "Jeśli widzisz błysk, który może pochodzić z wybuchu jądrowego, natychmiast odwróć wzrok. Połóż się twarzą do ziemi i osłoń oczy. Pozostań na ziemi, aż przejdą fale uderzeniowe. Gdy możesz bezpiecznie się ruszyć, wejdź do najbliższego budynku. Wybierz solidną konstrukcję z cegły lub betonu, jeśli szybko do niej dotrzesz.",
+        "Idź do piwnicy lub do środka budynku, z dala od okien, ścian zewnętrznych i dachu. Zamknij drzwi i okna. Jeśli to możliwe, wyłącz wentylację pobierającą powietrze z zewnątrz. Samochód słabo chroni przed opadem promieniotwórczym. Zabierz zwierzęta domowe do środka, jeśli to bezpieczne.",
+        "Przygotuj się na pozostanie w schronieniu przynajmniej przez pierwsze 24 godziny, chyba że służby zalecą inaczej albo grozi ci pożar, zawalenie lub inne bezpośrednie niebezpieczeństwo. Słuchaj lokalnych komunikatów. Jeśli w budynku zrobi się niebezpiecznie, przenieś się do innego bezpiecznego budynku. Po 24 godzinach nadal przestrzegaj poleceń dotyczących wyjścia i miejsca, do którego masz się udać."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Usuwanie pyłu promieniotwórczego",
+      "blocks": [
+        "Wejdź szybko do środka. Jeśli przebywałeś na zewnątrz, ostrożnie zdejmij wierzchnią warstwę ubrania bez strzepywania pyłu. Zamknij ją w worku lub pojemniku z dala od ludzi i zwierząt. Weź letni prysznic z mydłem i szamponem. Pomiń odżywkę do włosów, myj się bez szorowania i pozostaw skaleczenia zakryte. Załóż czyste ubranie przechowywane w środku.",
+        "Jeśli nie możesz wziąć prysznica, umyj odsłoniętą skórę pod kranem lub przetrzyj czystą, wilgotną ściereczką, zwłaszcza twarz i ręce. Zamknij zużyte ściereczki razem z ubraniem. Jeśli zwierzę było na zewnątrz, umyj je delikatnie mydłem lub szamponem dla zwierząt, dokładnie spłucz, a potem umyj ręce i twarz. Użyj nieprzemakalnych rękawiczek, jeśli je masz."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Żywność, woda i jod po zdarzeniu radiacyjnym",
+      "blocks": [
+        "Korzystaj z napojów i żywności w szczelnych opakowaniach lub niezepsutej żywności przechowywanej wcześniej w środku, z dala od opadu. Zakurzone opakowania wytrzyj wilgotną ściereczką przed otwarciem. Zamknij ściereczkę z dala od ludzi i zwierząt, a potem umyj ręce. Poczekaj na komunikat dopuszczający spożycie produktów z ogrodu i wody z lokalnych źródeł. Gotowanie wody nie usuwa substancji promieniotwórczych. Zwykle możesz używać wody z kranu do mycia. Przestrzegaj ograniczeń podanych przez dostawcę wody.",
+        "Przyjmij jodek potasu (KI) tylko na polecenie władz sanitarnych, o wskazanej porze i w podanej dawce. Chroni jedynie tarczycę przed jodem promieniotwórczym. Pozostań w schronieniu zgodnie z poleceniami. Sól jodowana i suplementy jodu nie zastępują tabletek KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Uwolnienie substancji chemicznej",
+      "blocks": [
+        "Oddal się od miejsca uwolnienia. Jeśli substancja wydostała się wewnątrz budynku i doszło do narażenia, wyjdź na świeże powietrze. Jeśli zdarzenie miało miejsce na zewnątrz, stosuj się do lokalnych komunikatów o schronieniu lub ewakuacji. Gdy masz pozostać w środku, zamknij okna i drzwi oraz wyłącz wentylację zasysającą powietrze z zewnątrz. Wybierz pomieszczenie i uszczelnij otwory według instrukcji służb.",
+        "Po kontakcie szybko zdejmij skażoną odzież. Jeśli możesz, weź letni prysznic z łagodnym mydłem, najlepiej w ciągu 10 minut. Myj się delikatnie. Bez prysznica przykładaj materiał chłonny, nie pocierając skóry. Zamknij skażone przedmioty w pojemniku z dala od innych i zastosuj się do instrukcji utylizacji. Jeśli pieką cię oczy lub pogorszyło się widzenie, płucz oczy czystą wodą przez 10–15 minut.",
+        "Przy dusznościach lub innych ciężkich objawach zadzwoń pod numer alarmowy. Zapytaj o poradę ośrodek toksykologiczny lub pracownika ochrony zdrowia. Po połknięciu substancji nie wywołuj wymiotów i niczego nie pij bez wskazania specjalisty."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Awarie łączności i bezpieczny powrót",
+      "blocks": [
+        "Miej radio na baterie, zapas baterii, naładowany powerbank i spis ważnych numerów na papierze. Zapisz, na jakiej stacji radiowej i w jakich oficjalnych kanałach publikowane są ostrzeżenia. Przy przeciążonej sieci wyślij wyznaczonej osobie krótki SMS z informacją, gdzie jesteś, jak się czujesz i czego potrzebujesz. W pilnej sytuacji zadzwoń pod numer alarmowy. Sprawdź czas, obszar i nadawcę przekazanych ci alertów przed działaniem.",
+        "Po uwolnieniu substancji promieniotwórczych korzystaj z tras i punktów przyjęcia wskazanych przez służby, gdy zarządzą ewakuację. Wróć do domu dopiero po ogłoszeniu, że obszar jest bezpieczny. Omijaj uszkodzone budynki i zerwane przewody elektryczne. Jeśli czujesz gaz, wyjdź bez używania przełączników ani otwartego ognia i wezwij pomoc z bezpiecznego miejsca."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "id": "nuclear-blast",
+      "title": "Explozia nucleară și primele 24 de ore",
+      "blocks": [
+        "Dacă vezi fulgerul unei posibile explozii nucleare, întoarce imediat privirea. Culcă-te cu fața în jos și protejează-ți ochii. Rămâi la pământ până trec undele de șoc. Când te poți deplasa în siguranță, intră în cea mai apropiată clădire. Alege una solidă, din beton sau cărămidă, dacă poți ajunge repede la ea.",
+        "Mergi la subsol sau în centrul clădirii, departe de ferestre, pereții exteriori și acoperiș. Închide ușile și ferestrele. Oprește, dacă poți, ventilația care trage aer de afară. O mașină oferă prea puțină protecție împotriva depunerilor radioactive. Adu animalele de companie înăuntru dacă o poți face în siguranță.",
+        "Pregătește-te să rămâi la adăpost cel puțin în primele 24 de ore, cu excepția cazului în care autoritățile spun altceva sau există pericol imediat, cum ar fi un incendiu ori o prăbușire. Ascultă anunțurile locale. Dacă adăpostul devine nesigur, mută-te într-o altă clădire sigură. După 24 de ore, continuă să urmezi indicațiile privind momentul și destinația plecării."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Îndepărtarea prafului radioactiv",
+      "blocks": [
+        "Intră repede în clădire. Dacă ai fost afară, scoate cu grijă stratul exterior de haine, fără să îl scuturi. Închide hainele într-o pungă sau într-un recipient, departe de oameni și animale. Fă un duș călduț cu săpun și șampon. Evită balsamul de păr, spală-te fără să freci și ține tăieturile acoperite. Îmbracă haine curate păstrate în interior.",
+        "Dacă nu poți face duș, spală pielea expusă la robinet sau șterge-o cu o cârpă curată și umedă, mai ales fața și mâinile. Pune cârpele folosite în același recipient închis cu hainele. Dacă un animal de companie a stat afară, spală-l ușor cu săpun sau șampon pentru animale, clătește-l bine, apoi spală-ți mâinile și fața. Folosește mănuși impermeabile dacă ai."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Alimente, apă și iod după o urgență radiologică",
+      "blocks": [
+        "Consumă băuturi și alimente ambalate ermetic sau alimente nealterate păstrate deja în interior, ferite de depunerile radioactive. Șterge ambalajele posibil prăfuite cu o cârpă umedă înainte de a le deschide. Închide cârpa într-o pungă departe de oameni și animale și spală-te pe mâini. Așteaptă aprobarea autorităților înainte să consumi produse din grădină sau apă din surse locale. Fierberea nu înlătură materialele radioactive. Apa de la robinet poate fi folosită, de regulă, pentru spălare. Respectă eventualele restricții ale furnizorului.",
+        "Ia iodură de potasiu (KI) doar la indicația autorităților sanitare, la ora și în doza precizate. Protejează numai tiroida de iodul radioactiv. Rămâi la adăpost conform instrucțiunilor. Sarea iodată și suplimentele cu iod nu înlocuiesc comprimatele de KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Eliberarea unei substanțe chimice",
+      "blocks": [
+        "Îndepărtează-te de locul eliberării. Dacă substanța s-a răspândit în interior și ai fost expus, ieși la aer curat. Dacă s-a răspândit afară, urmează alertele locale privind adăpostirea sau evacuarea. Dacă trebuie să te adăpostești, închide ușile și ferestrele și oprește ventilația care aduce aer de afară. Respectă indicațiile despre încăperea de folosit și deschiderile de etanșat.",
+        "După contact, scoate repede hainele contaminate. Dacă poți, fă un duș cu apă călduță și săpun blând, de preferință în primele 10 minute. Spală-te ușor. Dacă nu poți face duș, îndepărtează substanța prin tamponare, fără frecare. Izolează obiectele contaminate într-un recipient închis și urmează instrucțiunile de eliminare. Dacă te ustură ochii sau ți se modifică vederea, clătește ochii cu apă curată timp de 10–15 minute.",
+        "Sună la serviciile de urgență în caz de dificultăți de respirație sau alte simptome severe. Cere sfatul unui centru toxicologic sau al unui profesionist medical. Dacă ai înghițit substanța, nu provoca vărsături și nu bea nimic fără indicații medicale."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Întreruperi de comunicații și întoarcerea în siguranță",
+      "blocks": [
+        "Ține la îndemână un radio cu baterii, baterii de rezervă, o baterie externă încărcată și numerele importante scrise pe hârtie. Notează postul local și canalele oficiale de alertă. Dacă rețeaua mobilă e aglomerată, trimite persoanei de contact un mesaj scurt în care spui unde ești, cum te simți și de ce ai nevoie. Folosește apelurile de urgență pentru ajutor urgent. Verifică ora, zona și sursa alertelor retransmise.",
+        "După o eliberare radioactivă, urmează rutele și mergi la centrele indicate când autoritățile cer evacuarea. Întoarce-te acasă doar după ce autoritățile confirmă că zona e sigură. Evită clădirile avariate și cablurile electrice căzute. Dacă miroase a gaz, ieși fără să folosești întrerupătoare sau flăcări și sună la urgențe dintr-un loc sigur."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "uk": [
+    {
+      "id": "nuclear-blast",
+      "title": "Ядерний вибух і перші 24 години",
+      "blocks": [
+        "Якщо ви побачили спалах, схожий на ядерний вибух, негайно відверніться. Ляжте обличчям донизу й захистіть очі. Залишайтеся на землі, доки не пройдуть ударні хвилі. Щойно зможете безпечно рухатися, зайдіть до найближчої будівлі. Якщо можна швидко дістатися до міцної цегляної чи бетонної будівлі, оберіть її.",
+        "Перейдіть у підвал або до середини будівлі, подалі від вікон, зовнішніх стін і даху. Зачиніть двері й вікна. За можливості вимкніть вентиляцію, яка подає повітря ззовні. Автомобіль майже не захищає від радіоактивних опадів. Якщо це безпечно, заберіть домашніх тварин усередину.",
+        "Будьте готові залишатися в укритті щонайменше перші 24 години, якщо влада не дає інших вказівок і немає негайної загрози, як-от пожежі чи обвалу. Слухайте місцеві повідомлення. Якщо в укритті стало небезпечно, перейдіть до іншої безпечної будівлі. Після 24 годин далі виконуйте вказівки про час і напрямок виходу."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Як видалити радіоактивний пил",
+      "blocks": [
+        "Швидко зайдіть до будівлі. Якщо були надворі, обережно зніміть верхній шар одягу, не струшуючи пил. Закрийте одяг у пакеті чи контейнері подалі від людей і тварин. Прийміть теплий душ із милом і шампунем. Не використовуйте кондиціонер для волосся, мийтеся без тертя й тримайте порізи закритими. Одягніть чисті речі, що зберігалися в приміщенні.",
+        "Якщо душу немає, промийте відкриту шкіру під краном або протріть чистою вологою тканиною, особливо обличчя та руки. Закрийте використані серветки чи тканину разом з одягом. Якщо тварина була надворі, обережно вимийте її з милом або шампунем для тварин. Добре сполосніть її, а потім вимийте руки й обличчя. Якщо є водонепроникні рукавички, скористайтеся ними."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Їжа, вода та йод під час радіаційної аварії",
+      "blocks": [
+        "Вживайте напої та їжу в герметичній упаковці або незіпсовану їжу, яка вже зберігалася в приміщенні й була захищена від опадів. Перед відкриванням протріть запилені упаковки вологою тканиною. Запакуйте тканину подалі від людей і тварин та вимийте руки. Чекайте дозволу влади, перш ніж споживати городину чи воду з місцевих джерел. Кип’ятіння не усуває радіоактивних речовин. Водопровідною водою зазвичай можна митися. Дотримуйтеся окремих обмежень водопостачальника.",
+        "Приймайте йодид калію (KI) лише за вказівкою органів охорони здоров’я, у визначений час і в зазначеній дозі. Він захищає лише щитоподібну залозу від радіоактивного йоду. Залишайтеся в укритті, як наказано. Йодована сіль і добавки з йодом не замінюють таблеток KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Викид небезпечної хімічної речовини",
+      "blocks": [
+        "Відійдіть від місця викиду. Якщо викид стався в приміщенні й ви зазнали впливу, вийдіть на свіже повітря. При викиді надворі слухайте місцеві повідомлення про те, чи слід укриватися або евакуюватися. Якщо наказано залишатися всередині, зачиніть вікна й двері та вимкніть вентиляцію з подачею зовнішнього повітря. Виконуйте вказівки, у якій кімнаті залишатися й що герметизувати.",
+        "Після контакту швидко зніміть забруднений одяг. За можливості прийміть теплий душ із м’яким милом, бажано в перші 10 хвилин. Мийтеся обережно. Якщо немає душу, промокніть речовину тканиною, не розтираючи. Запакуйте забруднені речі окремо й дотримуйтеся вказівок щодо утилізації. Якщо печуть очі або змінився зір, промивайте очі чистою водою протягом 10–15 хвилин.",
+        "При утрудненому диханні або інших тяжких симптомах телефонуйте до екстреної служби. Зверніться до токсикологічного центру або медичного фахівця. Якщо проковтнули речовину, не викликайте блювання й нічого не пийте без вказівки фахівця."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Перебої зі зв’язком і безпечне повернення",
+      "blocks": [
+        "Тримайте радіоприймач на батарейках, запасні батарейки, заряджений павербанк і список важливих номерів на папері. Запишіть місцеву радіостанцію й офіційні канали сповіщень. Якщо мобільна мережа перевантажена, надішліть контактній особі коротке SMS. Напишіть, де ви, як почуваєтеся і що потрібно. На екстрені номери телефонуйте за невідкладної потреби. У пересланих сповіщеннях перевіряйте час, район і джерело.",
+        "Якщо після радіаційного викиду влада наказує евакуюватися, ідіть визначеними маршрутами до вказаних пунктів прийому. Повертайтеся додому тільки після повідомлення про безпеку району. Оминайте пошкоджені будівлі й обірвані електродроти. Якщо пахне газом, вийдіть, не торкаючись вимикачів і не запалюючи вогню. Викличте допомогу з безпечного місця."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "el": [
+    {
+      "id": "nuclear-blast",
+      "title": "Πυρηνική έκρηξη και οι πρώτες 24 ώρες",
+      "blocks": [
+        "Αν δεις τη λάμψη μιας πιθανής πυρηνικής έκρηξης, στρέψε αμέσως αλλού το βλέμμα. Πέσε μπρούμυτα και προστάτεψε τα μάτια σου. Μείνε στο έδαφος μέχρι να περάσουν τα ωστικά κύματα. Μόλις μπορείς να κινηθείς με ασφάλεια, μπες στο πλησιέστερο κτίριο. Προτίμησε ένα γερό κτίριο από τούβλα ή σκυρόδεμα, αν μπορείς να φτάσεις γρήγορα εκεί.",
+        "Πήγαινε στο υπόγειο ή στο κέντρο του κτιρίου, μακριά από παράθυρα, εξωτερικούς τοίχους και στέγη. Κλείσε πόρτες και παράθυρα. Αν γίνεται, κλείσε τον εξαερισμό που τραβά αέρα από έξω. Το αυτοκίνητο προσφέρει μικρή προστασία από τη ραδιενεργό κατακρήμνιση. Βάλε μέσα τα κατοικίδια, αν μπορείς με ασφάλεια.",
+        "Ετοιμάσου να μείνεις στο καταφύγιο τουλάχιστον τις πρώτες 24 ώρες, εκτός αν οι αρχές δώσουν άλλες οδηγίες ή απειλείσαι άμεσα από φωτιά ή κατάρρευση. Άκου τις τοπικές ενημερώσεις. Αν το κτίριο γίνει επικίνδυνο, πήγαινε σε άλλο ασφαλές κτίριο. Και μετά τις 24 ώρες, συνέχισε να ακολουθείς τις οδηγίες για το πότε και πού θα πας."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "Απομάκρυνση ραδιενεργού σκόνης",
+      "blocks": [
+        "Μπες γρήγορα σε κτίριο. Αν ήσουν έξω, βγάλε προσεκτικά τα εξωτερικά ρούχα χωρίς να τα τινάξεις. Κλείσε τα σε σακούλα ή δοχείο μακριά από ανθρώπους και ζώα. Κάνε χλιαρό ντους με σαπούνι και σαμπουάν. Απόφυγε το μαλακτικό μαλλιών, πλύσου χωρίς τρίψιμο και κράτα καλυμμένα τα κοψίματα. Βάλε καθαρά ρούχα που ήταν φυλαγμένα μέσα.",
+        "Αν δεν μπορείς να κάνεις ντους, πλύνε το εκτεθειμένο δέρμα στη βρύση ή σκούπισέ το με καθαρό νωπό πανί, ιδιαίτερα το πρόσωπο και τα χέρια. Κλείσε τα χρησιμοποιημένα πανιά μαζί με τα ρούχα. Αν ένα κατοικίδιο ήταν έξω, πλύνε το απαλά με σαπούνι ή σαμπουάν για κατοικίδια. Ξέπλυνέ το καλά και πλύνε μετά τα χέρια και το πρόσωπό σου. Χρησιμοποίησε αδιάβροχα γάντια αν έχεις."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "Τρόφιμα, νερό και ιώδιο σε ραδιολογικό συμβάν",
+      "blocks": [
+        "Χρησιμοποίησε σφραγισμένα ποτά και τρόφιμα ή τρόφιμα σε καλή κατάσταση που ήταν ήδη φυλαγμένα μέσα, προστατευμένα από τη ραδιενεργό σκόνη. Πριν ανοίξεις συσκευασίες με πιθανή σκόνη, σκούπισέ τες με νωπό πανί. Κλείσε το πανί σε σακούλα μακριά από ανθρώπους και ζώα και πλύνε τα χέρια σου. Περίμενε έγκριση για προϊόντα κήπου και νερό από τοπικές πηγές. Ο βρασμός δεν απομακρύνει ραδιενεργά υλικά. Το νερό βρύσης γενικά μπορεί να χρησιμοποιηθεί για πλύσιμο. Τήρησε τυχόν περιορισμούς της υπηρεσίας ύδρευσης.",
+        "Πάρε ιωδιούχο κάλιο (KI) μόνο αν το συστήσουν οι υγειονομικές αρχές, στον χρόνο και στη δόση που ορίζουν. Προστατεύει μόνο τον θυρεοειδή από το ραδιενεργό ιώδιο. Μείνε στο καταφύγιο σύμφωνα με τις οδηγίες. Το ιωδιούχο αλάτι και τα συμπληρώματα ιωδίου δεν υποκαθιστούν τα δισκία KI."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "Έκλυση επικίνδυνης χημικής ουσίας",
+      "blocks": [
+        "Απομακρύνσου από το σημείο της έκλυσης. Αν έγινε σε κλειστό χώρο και εκτέθηκες, βγες σε καθαρό αέρα. Για έκλυση σε εξωτερικό χώρο, ακολούθησε τις τοπικές ειδοποιήσεις για παραμονή σε κλειστό χώρο ή εκκένωση. Αν σου πουν να μείνεις μέσα, κλείσε πόρτες και παράθυρα και σταμάτησε τον εξαερισμό που φέρνει αέρα από έξω. Ακολούθησε τις οδηγίες για το δωμάτιο και τα ανοίγματα που πρέπει να σφραγίσεις.",
+        "Μετά την επαφή, βγάλε γρήγορα τα μολυσμένα ρούχα. Αν μπορείς, κάνε ντους με χλιαρό νερό και ήπιο σαπούνι, ιδανικά μέσα σε 10 λεπτά. Πλύσου απαλά. Αν δεν μπορείς να κάνεις ντους, απομάκρυνε την ουσία ταμπονάροντας, χωρίς τρίψιμο. Κλείσε τα μολυσμένα είδη χωριστά και ακολούθησε τις οδηγίες απόρριψης. Αν αισθάνεσαι κάψιμο στα μάτια ή έχει αλλάξει η όρασή σου, ξέπλυνε τα μάτια με καθαρό νερό για 10 έως 15 λεπτά.",
+        "Κάλεσε τις υπηρεσίες έκτακτης ανάγκης για δύσπνοια ή άλλα σοβαρά συμπτώματα. Ζήτησε συμβουλές από κέντρο δηλητηριάσεων ή επαγγελματία υγείας. Αν κατάπιες την ουσία, μην προκαλέσεις εμετό και μην πιεις τίποτα χωρίς οδηγία ειδικού."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "Διακοπές επικοινωνίας και ασφαλής επιστροφή",
+      "blocks": [
+        "Κράτα ραδιόφωνο μπαταρίας, εφεδρικές μπαταρίες, φορτισμένη φορητή μπαταρία και βασικούς αριθμούς σε χαρτί. Σημείωσε τον τοπικό σταθμό και τα επίσημα κανάλια ειδοποιήσεων. Αν το δίκτυο κινητής είναι υπερφορτωμένο, στείλε σύντομο SMS στην ορισμένη επαφή με τη θέση, την κατάστασή σου και όσα χρειάζεσαι. Χρησιμοποίησε τους αριθμούς έκτακτης ανάγκης για επείγουσα βοήθεια. Έλεγξε την ώρα, την περιοχή και τον αποστολέα προωθημένων ειδοποιήσεων.",
+        "Μετά από έκλυση ραδιενεργού υλικού, χρησιμοποίησε τις διαδρομές και τα σημεία υποδοχής που ορίζουν οι αρχές όταν ζητήσουν εκκένωση. Γύρνα σπίτι μόνο αφού επιβεβαιώσουν ότι η περιοχή είναι ασφαλής. Μείνε μακριά από κτίρια με ζημιές και πεσμένα καλώδια ρεύματος. Αν μυρίσεις αέριο, βγες χωρίς να αγγίξεις διακόπτες ή να ανάψεις φλόγα. Κάλεσε βοήθεια από ασφαλές σημείο."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "id": "nuclear-blast",
+      "title": "الانفجار النووي والساعات الأربع والعشرون الأولى",
+      "blocks": [
+        "إذا رأيت وميضًا يُشتبه في أنه ناتج عن انفجار نووي، فاصرف نظرك فورًا. انبطح على الأرض ووجهك إلى الأسفل واحمِ عينيك. ابقَ منخفضًا حتى تمر موجات الصدمة. ما إن يصبح التحرك آمنًا، ادخل أقرب مبنى. يُفضّل مبنى متين من الطوب أو الخرسانة إذا أمكنك الوصول إليه بسرعة.",
+        "انتقل إلى الطابق السفلي أو وسط المبنى، بعيدًا عن النوافذ والجدران الخارجية والسقف. أغلق الأبواب والنوافذ. أوقف التهوية التي تسحب الهواء من الخارج إن أمكن. لا توفر السيارة إلا حماية محدودة من الغبار المتساقط المشع. أدخل الحيوانات الأليفة إن أمكن ذلك بأمان.",
+        "استعد للبقاء في المأوى خلال أول 24 ساعة على الأقل، إلا إذا وجّهتك السلطات إلى غير ذلك أو واجهت خطرًا فوريًا مثل الحريق أو الانهيار. تابع التنبيهات المحلية. إذا صار المأوى خطرًا، انتقل إلى مبنى آمن آخر. بعد 24 ساعة، استمر في اتباع التعليمات بشأن موعد المغادرة ووجهتها."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/about/nuclear-blast-faq.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html",
+        "https://www.fema.gov/sites/default/files/documents/fema_oet-72-hour-nuclear-detonation-response-guidance.pdf"
+      ]
+    },
+    {
+      "id": "fallout-decontamination",
+      "title": "إزالة الغبار المشع",
+      "blocks": [
+        "ادخل المبنى بسرعة. إذا كنت في الخارج، انزع الطبقة الخارجية من ملابسك برفق من دون نفضها. أغلق عليها في كيس أو حاوية وأبعدها عن الأشخاص والحيوانات. استحم بماء فاتر وصابون وشامبو. تجنب بلسم الشعر ولا تفرك الجلد وأبقِ الجروح مغطاة. ارتدِ ملابس نظيفة كانت محفوظة في الداخل.",
+        "إن تعذر الاستحمام، اغسل الجلد الذي كان مكشوفًا بماء الصنبور أو امسحه بقطعة قماش نظيفة ورطبة، مع الاهتمام بالوجه واليدين. أغلق على المناديل أو القماش المستعمل مع الملابس. إذا كان حيوان أليف في الخارج، فاغسله برفق بالصابون أو بشامبو مخصص للحيوانات واشطفه جيدًا، ثم اغسل يديك ووجهك. ارتدِ قفازات مقاومة للماء إن توفرت."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/infographic/decontamination.html",
+        "https://www.cdc.gov/radiation-emergencies/response/get-inside.html"
+      ]
+    },
+    {
+      "id": "radiation-food-water-iodine",
+      "title": "الغذاء والماء واليود بعد حادث إشعاعي",
+      "blocks": [
+        "استخدم المشروبات والأغذية المحفوظة في عبوات محكمة أو الطعام السليم المخزن داخل المبنى بعيدًا عن الغبار المشع. امسح العبوات التي قد يكون عليها غبار بقطعة قماش رطبة قبل فتحها. أغلق على القماش في كيس بعيدًا عن الناس والحيوانات ثم اغسل يديك. انتظر موافقة السلطات قبل تناول محاصيل الحديقة أو شرب المياه من المصادر المحلية. غلي الماء لا يزيل المواد المشعة. يصلح ماء الصنبور عادةً للغسل. التزم بأي قيود أخرى من جهة إمداد المياه.",
+        "تناول يوديد البوتاسيوم (KI) فقط إذا أوصت به السلطات الصحية، واتبع تعليماتها بشأن التوقيت والجرعة. يقتصر دوره على حماية الغدة الدرقية من اليود المشع. ابقَ في المأوى وفق التعليمات. لا يغني الملح المعالج باليود أو المكمل الغذائي عن أقراص يوديد البوتاسيوم."
+      ],
+      "sources": [
+        "https://www.cdc.gov/radiation-emergencies/safety/food-drinking-water-medicine-safety.html",
+        "https://www.who.int/news-room/questions-and-answers/item/use-of-potassium-iodine-for-thyroid-protection-during-nuclear-or-radiological-emergencies"
+      ]
+    },
+    {
+      "id": "chemical-emergency",
+      "title": "تسرب مادة كيميائية خطرة",
+      "blocks": [
+        "ابتعد عن مكان التسرب. إذا تسربت المادة داخل مبنى وتعرضت لها، فاخرج إلى الهواء النقي. إذا حدث التسرب في الخارج، اتبع التنبيهات المحلية بشأن الاحتماء أو الإخلاء. إذا طُلب منك الاحتماء، فأغلق الأبواب والنوافذ وأوقف التهوية التي تسحب الهواء من الخارج. اتبع تعليمات اختيار الغرفة وإحكام إغلاق الفتحات.",
+        "بعد ملامسة المادة، انزع الملابس الملوثة سريعًا. استحم بماء فاتر وصابون لطيف إن أمكن، ويفضل خلال أول 10 دقائق. اغتسل برفق. إن تعذر الاستحمام، امتص المادة بقطعة قماش من دون فرك. أغلق على الأغراض الملوثة في حاوية بعيدًا عن الآخرين واتبع تعليمات التخلص منها. إذا شعرت بحرقة في عينيك أو تغيرت رؤيتك، اشطف عينيك بالماء النظيف لمدة تتراوح بين 10 و15 دقيقة.",
+        "اتصل بالطوارئ إذا وجدت صعوبة في التنفس أو ظهرت أعراض شديدة أخرى. اطلب المشورة من مركز مكافحة السموم أو من مختص صحي. إذا ابتلعت المادة فلا تحاول التقيؤ ولا تشرب شيئًا ما لم يطلب منك مختص ذلك."
+      ],
+      "sources": [
+        "https://www.cdc.gov/chemical-emergencies/response/index.html",
+        "https://www.cdc.gov/chemical-emergencies/response/get-chemical-off-body.html",
+        "https://www.cdc.gov/chemical-emergencies/response/shelter-in-place.html"
+      ]
+    },
+    {
+      "id": "blackouts-and-recovery",
+      "title": "انقطاع الاتصالات والعودة الآمنة",
+      "blocks": [
+        "احتفظ بجهاز راديو يعمل بالبطاريات وبطاريات احتياطية وشاحن متنقل مشحون وقائمة ورقية بالأرقام الضرورية. دوّن المحطة المحلية والقنوات الرسمية للتنبيهات. إذا كانت شبكة الهاتف مزدحمة، أرسل رسالة قصيرة إلى جهة الاتصال المتفق عليها، تذكر فيها مكانك وحالتك وما تحتاج إليه. استخدم خطوط الطوارئ للمساعدة العاجلة. تحقّق من توقيت التنبيه المعاد إرساله ومنطقته ومصدره.",
+        "بعد انبعاث مواد مشعة، التزم بالطرق ومراكز الاستقبال التي تحددها السلطات عند صدور أمر الإخلاء. لا تعد إلى المنزل إلا بعد إعلان أن المنطقة آمنة. ابتعد عن المباني المتضررة وخطوط الكهرباء الساقطة. إذا شممت رائحة غاز، اخرج من دون لمس مفاتيح الكهرباء أو إشعال لهب، واتصل بالطوارئ من مكان آمن."
+      ],
+      "sources": [
+        "https://docs.fcc.gov/public/attachments/DOC-317086A1.pdf",
+        "https://www.cdc.gov/radiation-emergencies/response/evacuation.html",
+        "https://www.cdc.gov/earthquakes/safety/stay-safe-after-an-earthquake.html",
+        "https://www.cdc.gov/natural-disasters/safety/index.html"
+      ]
+    }
+  ]
+}

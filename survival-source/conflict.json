@@ -1,0 +1,662 @@
+{
+  "en": [
+    {
+      "id": "air-raid",
+      "title": "Air raids and shelling",
+      "blocks": [
+        "When an air-raid warning sounds, move promptly to the nearest designated shelter and follow local instructions. Find the shelters near home, work and school ahead of time, including one everyone in your household can reach. Enable official alerts and keep a battery radio for outages.",
+        "If you cannot reach a shelter safely, get inside a sturdy, undamaged building. Move away from windows, balconies and glass doors to an interior room. If shelling catches you outdoors and you cannot reach shelter, get low and cover your head.",
+        "Stay sheltered until officials give the all-clear, even if the noise stops. If fire or another immediate danger makes your shelter unsafe, use a safe exit if possible and seek help from emergency services."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Sheltering or evacuating",
+      "blocks": [
+        "Read or listen to the full alert so you know which area it applies to and whether to shelter or leave. When officials tell your area to evacuate, leave promptly using the designated route or transport. Avoid shortcuts and obey closures. Return only when authorities say it is safe.",
+        "Decide in advance where you would go and how you would get there. Ask emergency management about accessible transport and shelters if you need them. Include children, carers, service animals and pets in your plan, and confirm that your destination can meet their needs.",
+        "If they are ready to grab, take identification, essential medicines, a phone and charger, and mobility or communication aids. Tell a trusted contact where you are going when you can do so safely."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Keeping families together",
+      "blocks": [
+        "Choose a meeting place and a trusted contact outside the area before a crisis. Put their details on a card and carry it. If separated and networks are busy, try a short text. Agree with the school or care service on how to reunite safely. Help children learn their name and a caregiver’s phone number when they are old enough.",
+        "If someone is missing after a conflict-related evacuation, report it through local authorities or the Red Cross or Red Crescent family tracing service. If you find a child alone, stay with them in a safe place and contact the responsible authorities. Share the child’s personal details privately with them and keep those details off social media."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Mines and unexploded ordnance",
+      "blocks": [
+        "Avoid closed or marked areas and use routes designated by local authorities. If you see suspicious debris, a possible mine or unexploded ammunition, stop. Keep away. Leave it untouched and warn others to stay clear. If you have a known safe way back, carefully withdraw that way. If you suspect you are in a mined area and cannot reach safe ground without stepping onto unknown ground, stay still and call for help.",
+        "Report what you saw and its location to local emergency services from safety if possible. Never return to take photos or collect objects. If someone is hurt in a suspected mined area, call specialist responders immediately and stay out of the area."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "id": "air-raid",
+      "title": "Ataques aéreos y bombardeos",
+      "blocks": [
+        "Si se activa una alerta aérea, ve cuanto antes al refugio oficial más cercano y sigue las indicaciones locales. Localiza de antemano los refugios cerca de casa, el trabajo y la escuela. Asegúrate de que todos en tu hogar puedan llegar. Activa las alertas oficiales y ten una radio a pilas para los cortes de luz.",
+        "Si no puedes llegar al refugio sin ponerte en peligro, entra en un edificio sólido y sin daños. Ve a una habitación interior alejada de ventanas, balcones y puertas de cristal. Si te sorprende un bombardeo al aire libre y no puedes ponerte a cubierto, agáchate y protégete la cabeza.",
+        "Quédate a cubierto hasta que las autoridades anuncien el fin de la alerta, aunque dejes de oír explosiones. Si un incendio u otro peligro inmediato hace que el refugio deje de ser seguro, utiliza una salida segura si es posible y pide ayuda a emergencias."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Refugio o evacuación",
+      "blocks": [
+        "Lee o escucha el aviso completo para saber a qué zona se refiere y si debes refugiarte o evacuar. Si las autoridades indican que evacúes tu zona, sal cuanto antes por la ruta o en el transporte indicado. Evita los atajos y respeta los cierres. Regresa solo cuando las autoridades indiquen que es seguro.",
+        "Decide con antelación adónde irías y cómo llegarías. Si los necesitas, pregunta a protección civil por transporte y refugios accesibles. Incluye en el plan a los niños, cuidadores, animales de asistencia y mascotas. Confirma que tu destino pueda atender sus necesidades.",
+        "Si están a mano, lleva documentos de identidad, medicamentos esenciales, teléfono y cargador y ayudas de movilidad o comunicación. Cuando puedas hacerlo con seguridad, avisa a una persona de confianza de adónde vas."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Cómo mantener unida a la familia",
+      "blocks": [
+        "Antes de una crisis, elige un punto de encuentro y un contacto de confianza que viva fuera de la zona. Anota sus datos en una tarjeta y llévala contigo. Si os separáis y las redes están saturadas, prueba con un mensaje breve. Acuerda con la escuela o el centro de cuidados cómo reuniros con seguridad. Ayuda a los niños que tengan edad suficiente a aprender su nombre y el número de teléfono de quien los cuida.",
+        "Si alguien desaparece tras una evacuación por un conflicto, avisa a las autoridades locales o al servicio de búsqueda familiar de la Cruz Roja o de la Media Luna Roja. Si encuentras a un niño solo, quédate con él en un lugar seguro y avisa a las autoridades competentes. Comunícales sus datos en privado y evita publicarlos en redes sociales."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Minas y municiones sin explotar",
+      "blocks": [
+        "Evita las zonas cerradas o señalizadas como peligrosas y utiliza las rutas indicadas por las autoridades locales. Si ves restos sospechosos, una posible mina o munición sin explotar, detente. Mantén la distancia. No toques el objeto y avisa a los demás para que se mantengan alejados. Si sabes por dónde puedes volver sin peligro, retrocede con cuidado por esa ruta. Si crees estar en una zona minada y tendrías que pisar terreno desconocido para salir, no te muevas y pide ayuda.",
+        "Informa a los servicios de emergencia de lo que viste y de su ubicación, desde un lugar seguro si es posible. No vuelvas para tomar fotos ni recoger objetos. Si hay una persona herida en una zona que podría estar minada, avisa de inmediato a los equipos especializados y no entres en la zona."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "id": "air-raid",
+      "title": "Alertes aériennes et bombardements",
+      "blocks": [
+        "Dès l’alerte aérienne, rendez-vous rapidement à l’abri désigné le plus proche et suivez les consignes locales. Repérez à l’avance les abris près de votre domicile, de votre lieu de travail et de l’école. Vérifiez que chacun dans votre foyer peut s’y rendre. Activez les alertes officielles et gardez une radio à piles en cas de coupure.",
+        "Si vous ne pouvez pas rejoindre un abri sans danger, entrez dans un bâtiment solide et intact. Choisissez une pièce intérieure éloignée des fenêtres, des balcons et des portes vitrées. Si un bombardement vous surprend dehors et que vous ne pouvez pas vous abriter, baissez-vous et protégez votre tête.",
+        "Restez à l’abri jusqu’à la levée officielle de l’alerte, même si le bruit cesse. Si un incendie ou un autre danger immédiat rend l’abri dangereux, empruntez une sortie sûre si possible et demandez l’aide des secours."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Se mettre à l’abri ou évacuer",
+      "blocks": [
+        "Lisez ou écoutez l’intégralité de l’alerte pour savoir quelle zone est concernée et s’il faut se mettre à l’abri ou évacuer. Si les autorités demandent l’évacuation de votre secteur, partez rapidement par l’itinéraire ou le moyen de transport indiqué. Évitez les raccourcis et respectez les fermetures. Attendez l’autorisation des autorités avant de revenir.",
+        "Décidez à l’avance où aller et comment vous y rendre. Renseignez-vous auprès de la sécurité civile sur les transports et les abris accessibles, selon vos besoins. Prévoyez les besoins des enfants, des aidants, des animaux d’assistance et des animaux de compagnie. Vérifiez qu’ils pourront être satisfaits à destination.",
+        "S’ils sont à portée de main, emportez vos papiers d’identité, vos médicaments indispensables, un téléphone et son chargeur, ainsi que vos aides à la mobilité ou à la communication. Prévenez une personne de confiance de votre destination dès que vous pouvez le faire sans danger."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Rester ensemble en famille",
+      "blocks": [
+        "Avant une crise, choisissez un lieu de rendez-vous et une personne de confiance à contacter en dehors de la zone. Notez leurs coordonnées sur une carte et gardez-la sur vous. En cas de séparation, si les réseaux sont saturés, essayez d’envoyer un court SMS. Convenez avec l’école ou le service d’accompagnement de la façon de vous retrouver en sécurité. Apprenez aux enfants assez grands à dire leur nom et le numéro d’un adulte qui s’occupe d’eux.",
+        "Si une personne a disparu après une évacuation liée à un conflit, signalez-le aux autorités locales ou au service de recherche familiale de la Croix-Rouge ou du Croissant-Rouge. Si vous trouvez un enfant seul, restez avec lui en lieu sûr et contactez les autorités compétentes. Communiquez-leur ses données en privé et gardez-les hors des réseaux sociaux."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Mines et munitions non explosées",
+      "blocks": [
+        "Évitez les zones fermées ou signalées comme dangereuses et empruntez les itinéraires indiqués par les autorités locales. Si vous apercevez des débris suspects, une mine possible ou une munition non explosée, arrêtez-vous. Gardez vos distances. Ne touchez à rien et prévenez les autres. Si vous connaissez un chemin sûr pour revenir en arrière, empruntez-le prudemment. Si vous pensez être en zone minée et qu’il faut traverser un terrain inconnu pour en sortir, ne bougez pas et appelez à l’aide.",
+        "Signalez aux secours ce que vous avez vu et où, depuis un lieu sûr si possible. Ne retournez pas sur place pour prendre des photos ou ramasser des objets. Si quelqu’un est blessé dans une zone qui pourrait être minée, prévenez immédiatement les secours spécialisés et n’entrez pas dans la zone."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "id": "air-raid",
+      "title": "Luftalarm und Beschuss",
+      "blocks": [
+        "Suchen Sie bei Luftalarm zügig den nächsten ausgewiesenen Schutzraum auf und befolgen Sie die örtlichen Anweisungen. Informieren Sie sich vorab über Schutzräume in der Nähe Ihrer Wohnung, der Arbeit und der Schule. Achten Sie darauf, dass alle in Ihrem Haushalt sie erreichen können. Aktivieren Sie behördliche Warnmeldungen und halten Sie ein Batterieradio für Stromausfälle bereit.",
+        "Wenn Sie keinen Schutzraum gefahrlos erreichen, gehen Sie in ein stabiles, unbeschädigtes Gebäude. Suchen Sie einen innenliegenden Raum fern von Fenstern, Balkonen und Glastüren auf. Wenn Sie draußen von Beschuss überrascht werden und keinen Schutzraum erreichen können, gehen Sie zu Boden und schützen Sie Ihren Kopf.",
+        "Bleiben Sie bis zur offiziellen Entwarnung in Deckung, auch wenn es still wird. Wenn Feuer oder eine andere unmittelbare Gefahr den Schutzraum unsicher macht, verlassen Sie ihn nach Möglichkeit über einen sicheren Ausgang und rufen Sie den Notdienst."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Schutz suchen oder evakuieren",
+      "blocks": [
+        "Lesen oder hören Sie die gesamte Warnmeldung. Prüfen Sie, für welches Gebiet sie gilt und ob Sie Schutz suchen oder das Gebiet verlassen sollen. Wenn die Behörden Ihr Gebiet evakuieren lassen, machen Sie sich zügig auf den Weg. Nutzen Sie die vorgegebene Route oder das vorgesehene Transportmittel. Vermeiden Sie Abkürzungen und beachten Sie Sperrungen. Kehren Sie erst nach behördlicher Freigabe zurück.",
+        "Legen Sie vorab fest, wohin Sie gehen und wie Sie dorthin gelangen. Fragen Sie bei Bedarf den Katastrophenschutz nach barrierefreien Transportmöglichkeiten und Unterkünften. Planen Sie für Kinder, Betreuungspersonen, Assistenztiere und Haustiere und prüfen Sie, ob am Ziel für alle gesorgt werden kann.",
+        "Nehmen Sie Ausweise, wichtige Medikamente, Telefon und Ladegerät sowie Mobilitäts- oder Kommunikationshilfen mit, wenn sie griffbereit sind. Teilen Sie einer Vertrauensperson mit, wohin Sie gehen, sobald das gefahrlos möglich ist."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Als Familie zusammenbleiben",
+      "blocks": [
+        "Vereinbaren Sie vor einer Krise einen Treffpunkt und eine Kontaktperson Ihres Vertrauens außerhalb des Gebiets. Notieren Sie die Angaben auf einer Karte und tragen Sie sie bei sich. Wenn Sie getrennt werden und die Netze überlastet sind, versuchen Sie es mit einer kurzen SMS. Sprechen Sie mit Schule oder Betreuungseinrichtung ab, wie Sie sicher wieder zusammenkommen. Bringen Sie Kindern ab einem geeigneten Alter ihren Namen und die Telefonnummer einer Betreuungsperson bei.",
+        "Wird nach einer Evakuierung in einem Konflikt jemand vermisst, melden Sie dies den örtlichen Behörden oder dem Suchdienst des Roten Kreuzes oder Roten Halbmonds. Wenn Sie ein Kind allein antreffen, bleiben Sie an einem sicheren Ort bei ihm und verständigen Sie die zuständigen Behörden. Geben Sie die persönlichen Daten des Kindes vertraulich an die zuständige Stelle weiter und veröffentlichen Sie sie nicht in sozialen Medien."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Minen und nicht explodierte Munition",
+      "blocks": [
+        "Meiden Sie gesperrte Gebiete und solche mit Warnschildern. Benutzen Sie die von den Behörden vorgegebenen Wege. Wenn Ihnen verdächtige Trümmer, eine mögliche Mine oder nicht explodierte Munition auffallen, bleiben Sie stehen. Halten Sie Abstand, berühren Sie nichts und warnen Sie andere. Wenn Sie den sicheren Rückweg kennen, gehen Sie vorsichtig auf diesem Weg zurück. Vermuten Sie, dass Sie sich in einem Minengebiet befinden, und können Sie sicheren Boden nur über unbekanntes Gelände erreichen, bleiben Sie stehen und rufen Sie Hilfe.",
+        "Melden Sie dem Notdienst möglichst von einem sicheren Ort aus, was Sie wo gesehen haben. Gehen Sie nicht zurück, um Fotos zu machen oder etwas aufzusammeln. Wenn jemand in einem möglicherweise verminten Gebiet verletzt ist, alarmieren Sie sofort spezialisierte Einsatzkräfte und betreten Sie das Gebiet nicht."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "it": [
+    {
+      "id": "air-raid",
+      "title": "Allarme aereo e bombardamenti",
+      "blocks": [
+        "Quando scatta un allarme aereo, raggiungi rapidamente il rifugio designato più vicino e segui le istruzioni locali. Individua in anticipo i rifugi vicino a casa, al lavoro e a scuola. Verifica che tutti in famiglia possano raggiungerli. Attiva le allerte ufficiali e tieni a disposizione una radio a batterie in caso di interruzioni di corrente.",
+        "Se non puoi raggiungere un rifugio in sicurezza, entra in un edificio solido e integro. Raggiungi un locale interno, lontano da finestre, balconi e porte a vetri. Se un bombardamento ti sorprende all’aperto e non puoi ripararti, abbassati e proteggiti la testa.",
+        "Resta al riparo fino al cessato allarme ufficiale, anche se il rumore si ferma. Se un incendio o un altro pericolo immediato rende il rifugio insicuro, usa un’uscita sicura se possibile e chiedi aiuto ai soccorsi."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Ripararsi o evacuare",
+      "blocks": [
+        "Leggi o ascolta l’avviso per intero per capire a quale zona si riferisce e se devi ripararti o evacuare. Se le autorità chiedono di evacuare la tua zona, parti subito usando il percorso o il trasporto indicato. Evita le scorciatoie e rispetta le chiusure. Torna solo quando le autorità dicono che è sicuro.",
+        "Stabilisci in anticipo dove andare e come arrivarci. Se ne hai bisogno, chiedi alla protezione civile informazioni su trasporti e rifugi accessibili. Includi nel piano bambini, persone che prestano assistenza, animali di servizio e animali domestici. Verifica che la destinazione risponda alle loro esigenze.",
+        "Se sono a portata di mano, porta documenti, farmaci indispensabili, telefono e caricabatterie e ausili per la mobilità o la comunicazione. Appena puoi farlo in sicurezza, comunica la tua destinazione a una persona fidata."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Tenere unita la famiglia",
+      "blocks": [
+        "Prima di una crisi, scegli un punto di ritrovo e una persona fidata fuori zona da contattare. Scrivi le informazioni su una tessera da portare con te. Se vi separate e le reti sono sovraccariche, prova a inviare un breve messaggio. Concorda con la scuola o il servizio di assistenza come ritrovarvi in sicurezza. Aiuta i bambini abbastanza grandi a imparare il proprio nome e il numero di chi si occupa di loro.",
+        "Se una persona è scomparsa dopo un’evacuazione legata a un conflitto, avvisa le autorità locali o il servizio di ricerca familiare della Croce Rossa o della Mezzaluna Rossa. Se trovi un bambino solo, resta con lui in un luogo sicuro e contatta le autorità competenti. Comunica i suoi dati solo in privato alle autorità, senza pubblicarli sui social."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Mine e ordigni inesplosi",
+      "blocks": [
+        "Evita le zone chiuse o segnalate come pericolose e usa i percorsi indicati dalle autorità locali. Se vedi detriti sospetti, una possibile mina o un ordigno inesploso, fermati. Mantieniti a distanza. Non toccare l’oggetto e avvisa gli altri di stare lontani. Se conosci una via sicura per tornare indietro, ripercorrila con cautela. Se temi di essere in una zona minata e per uscirne devi passare su terreno sconosciuto, rimani fermo e chiama aiuto.",
+        "Da un luogo sicuro, se possibile, comunica ai soccorsi cosa hai visto e dove. Non tornare per fare foto o raccogliere oggetti. Se qualcuno è ferito in una zona che potrebbe essere minata, chiama subito i soccorsi specializzati e non entrare nella zona."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "id": "air-raid",
+      "title": "Alertas aéreos e bombardeamentos",
+      "blocks": [
+        "Quando houver um alerta aéreo, siga rapidamente para o abrigo indicado mais próximo e cumpra as instruções locais. Identifique com antecedência os abrigos perto de casa, do trabalho e da escola. Verifique se todas as pessoas da sua casa conseguem chegar lá. Ative os alertas oficiais e tenha um rádio a pilhas para usar se faltar energia.",
+        "Se não puder chegar a um abrigo em segurança, entre num edifício sólido e sem danos. Vá para uma divisão interior, longe de janelas, varandas e portas de vidro. Se um bombardeamento começar enquanto estiver na rua e não houver abrigo ao alcance, baixe-se e proteja a cabeça.",
+        "Fique abrigado até as autoridades anunciarem o fim do alerta, mesmo que o barulho pare. Se um incêndio ou outro perigo imediato tornar o abrigo inseguro, use uma saída segura, se possível, e peça ajuda aos serviços de emergência."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Procurar abrigo ou evacuar",
+      "blocks": [
+        "Leia ou ouça o alerta completo para saber a que zona se aplica e se deve abrigar-se ou evacuar. Se as autoridades mandarem evacuar a sua zona, saia rapidamente pela rota ou pelo transporte indicado. Evite atalhos e respeite os bloqueios. Só volte quando as autoridades disserem que é seguro.",
+        "Decida com antecedência para onde ir e como chegar. Se precisar, pergunte à proteção civil sobre transportes e abrigos acessíveis. Inclua no plano crianças, cuidadores, animais de assistência e animais de estimação. Confirme se o destino pode atender às suas necessidades.",
+        "Se estiverem à mão, leve documentos de identificação, medicamentos essenciais, telefone e carregador e ajudas de mobilidade ou de comunicação. Quando for seguro, diga a uma pessoa de confiança para onde vai."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Manter a família unida",
+      "blocks": [
+        "Antes de uma crise, escolha um ponto de encontro e uma pessoa de confiança fora da região. Anote os dados num cartão e leve-o consigo. Se a família se separar e a rede estiver congestionada, tente enviar uma mensagem curta. Combine com a escola ou o serviço de cuidados como se reunirem em segurança. Ensine às crianças com idade suficiente o seu nome e o número de telefone de quem cuida delas.",
+        "Se alguém desaparecer depois de uma evacuação relacionada com um conflito, avise as autoridades locais ou o serviço de busca familiar da Cruz Vermelha ou do Crescente Vermelho. Se encontrar uma criança sozinha, fique com ela num local seguro e contacte as autoridades responsáveis. Partilhe os dados da criança em privado com as autoridades e não os publique nas redes sociais."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Minas e munições por explodir",
+      "blocks": [
+        "Evite zonas fechadas ou sinalizadas como perigosas e siga os percursos indicados pelas autoridades locais. Se vir destroços suspeitos, uma possível mina ou munições por explodir, pare. Mantenha a distância. Não toque no objeto e avise as outras pessoas para se afastarem. Se souber por onde pode voltar em segurança, recue com cuidado por esse caminho. Se suspeitar que está numa zona minada e tiver de pisar terreno desconhecido para sair, fique imóvel e peça ajuda.",
+        "Se possível, de um local seguro, diga aos serviços de emergência o que viu e onde. Nunca volte para tirar fotografias ou recolher objetos. Se alguém estiver ferido numa zona possivelmente minada, chame de imediato uma equipa especializada e não entre na zona."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "id": "air-raid",
+      "title": "Légiriadó és tüzérségi támadás",
+      "blocks": [
+        "Légiriadó esetén mielőbb menj a legközelebbi kijelölt óvóhelyre, és kövesd a helyi utasításokat. Előre keresd meg az otthonod, a munkahelyed és az iskola közelében lévő óvóhelyeket. Győződj meg róla, hogy a háztartásod minden tagja el tud jutni valamelyikbe. Engedélyezd a hivatalos riasztásokat, és tarts kéznél elemes rádiót áramszünet esetére.",
+        "Ha nem tudsz biztonságosan eljutni az óvóhelyre, menj be egy szilárd, sértetlen épületbe. Húzódj ablakoktól, erkélyektől és üvegajtóktól távoli belső helyiségbe. Ha tüzérségi támadás ér a szabadban, és nem tudsz fedezékbe vonulni, húzódj le és védd a fejed.",
+        "Maradj fedezékben a riadó hivatalos lefújásáig, akkor is, ha elhallgatnak a robbanások. Ha tűz vagy más közvetlen veszély miatt az óvóhely már nem biztonságos, lehetőség szerint biztonságos kijáraton távozz, és hívd a segélyszolgálatot."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Óvóhelyre vonulás vagy kitelepítés",
+      "blocks": [
+        "Olvasd el vagy hallgasd meg a teljes riasztást, hogy tudd, melyik területre vonatkozik, és fedezékbe kell-e vonulnod, vagy el kell hagynod a környéket. Ha a hatóságok elrendelik a kitelepítést a környékeden, indulj el mielőbb a kijelölt útvonalon vagy járművel. Kerüld a rövidítéseket, és tartsd be a lezárásokat. Csak a hatóság engedélyével térj vissza.",
+        "Előre tervezd meg, hová és hogyan jutsz el. Ha szükséges, érdeklődj a katasztrófavédelemnél az akadálymentes szállításról és menedékhelyekről. Gondolj a gyerekekre, a gondozókra, a segítő állatokra és a házi kedvencekre is. Ellenőrizd, hogy a célállomáson gondoskodni tudnak-e róluk.",
+        "Ha kéznél vannak, vidd az igazolványokat, a nélkülözhetetlen gyógyszereket, a telefont és a töltőt, valamint a mozgást vagy kommunikációt segítő eszközöket. Amint biztonságosan megteheted, szólj egy megbízható ismerősnek, hová mész."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Hogyan maradhat együtt a család?",
+      "blocks": [
+        "Válság előtt jelöljetek ki egy találkozóhelyet és egy megbízható kapcsolattartót, aki a környéken kívül él. Írjátok fel az adatokat egy kártyára, és tartsátok magatoknál. Ha elszakadtok egymástól, és a hálózat túlterhelt, próbálkozzatok rövid szöveges üzenettel. Az iskolával vagy a gondozást végző szolgálattal egyeztessétek, hogyan találkozhattok újra biztonságosan. Ha a gyerekek már elég nagyok hozzá, tanulják meg a saját nevüket és az egyik gondviselő telefonszámát.",
+        "Ha valaki fegyveres konfliktus miatti kitelepítés után eltűnik, jelezd a helyi hatóságoknak, vagy fordulj a Vöröskereszt vagy a Vörös Félhold családkereső szolgálatához. Ha egyedül találsz egy gyereket, maradj vele biztonságos helyen, és értesítsd az illetékes hatóságot. A gyerek adatait bizalmasan add át nekik, és ne tedd közzé a közösségi médiában."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Aknák és fel nem robbant lőszerek",
+      "blocks": [
+        "Kerüld a lezárt vagy veszélyesként megjelölt területeket. Használd a hatóságok által kijelölt útvonalakat. Ha gyanús törmeléket, aknának tűnő tárgyat vagy fel nem robbant lőszert látsz, állj meg. Tarts távolságot. Ne érj hozzá, és figyelmeztess másokat, hogy maradjanak távol. Ha ismersz biztonságos visszautat, óvatosan azon menj vissza. Ha aknás területen lehetsz, és csak ismeretlen talajon át juthatnál biztonságos helyre, ne mozdulj, és hívj segítséget.",
+        "Lehetőleg biztonságos helyről jelentsd a segélyszolgálatnak, hogy mit láttál és hol. Ne térj vissza fényképezni vagy tárgyakat felszedni. Ha valaki megsérült egy esetleg aknás területen, azonnal kérj szakszerű segítséget, és ne lépj be a területre."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "id": "air-raid",
+      "title": "Alarmy lotnicze i ostrzał",
+      "blocks": [
+        "Gdy rozlegnie się alarm lotniczy, szybko udaj się do najbliższego wyznaczonego schronu i postępuj zgodnie z lokalnymi poleceniami. Z wyprzedzeniem sprawdź, gdzie są schrony blisko domu, pracy i szkoły. Upewnij się, że każdy domownik może do nich dotrzeć. Włącz oficjalne powiadomienia i miej radio na baterie na wypadek przerwy w dostawie prądu.",
+        "Jeśli nie możesz bezpiecznie dotrzeć do schronu, wejdź do solidnego, nieuszkodzonego budynku. Przejdź do wewnętrznego pomieszczenia, z dala od okien, balkonów i szklanych drzwi. Jeśli ostrzał zaskoczy cię na zewnątrz i nie możesz się schronić, padnij nisko i osłoń głowę.",
+        "Pozostań w ukryciu do oficjalnego odwołania alarmu, nawet jeśli odgłosy ustaną. Jeśli pożar lub inne bezpośrednie zagrożenie sprawi, że schron przestanie być bezpieczny, użyj bezpiecznego wyjścia, jeśli to możliwe, i wezwij służby ratunkowe."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Schronienie czy ewakuacja",
+      "blocks": [
+        "Przeczytaj lub wysłuchaj całego komunikatu, żeby wiedzieć, jakiego obszaru dotyczy i czy masz się schronić, czy ewakuować. Jeśli władze zarządzą ewakuację twojej okolicy, wyjdź szybko wyznaczoną trasą lub skorzystaj ze wskazanego transportu. Unikaj skrótów i respektuj zamknięcia dróg. Wróć dopiero, gdy władze potwierdzą, że jest bezpiecznie.",
+        "Zaplanuj z wyprzedzeniem, dokąd pojedziesz i jak tam dotrzesz. W razie potrzeby zapytaj służby zarządzania kryzysowego o dostępny transport i schronienia bez barier. Uwzględnij w planie dzieci, opiekunów, zwierzęta asystujące i domowe. Sprawdź, czy na miejscu będzie można zaspokoić ich potrzeby.",
+        "Jeśli masz je pod ręką, zabierz dokumenty tożsamości, niezbędne leki, telefon i ładowarkę oraz sprzęt wspomagający poruszanie się lub komunikację. Gdy będzie to bezpieczne, powiedz zaufanej osobie, dokąd się udajesz."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Jak pozostać razem z rodziną",
+      "blocks": [
+        "Przed kryzysem wybierzcie miejsce spotkania i zaufaną osobę spoza okolicy. Zapiszcie dane na kartce i noście ją przy sobie. Jeśli się rozdzielicie, a sieci są przeciążone, spróbujcie wysłać krótki SMS. Ustalcie ze szkołą lub placówką opiekuńczą, jak bezpiecznie się odnaleźć. Nauczcie dzieci, gdy będą na to gotowe, jak się nazywają i jaki numer telefonu ma ich opiekun.",
+        "Jeśli ktoś zaginął po ewakuacji w związku z konfliktem, zgłoś to lokalnym władzom lub służbie poszukiwań rodziny Czerwonego Krzyża lub Czerwonego Półksiężyca. Jeśli znajdziesz dziecko bez opieki, zostań z nim w bezpiecznym miejscu i powiadom właściwe służby. Przekaż im dane dziecka poufnie i nie publikuj ich w mediach społecznościowych."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Miny i niewybuchy",
+      "blocks": [
+        "Omijaj zamknięte lub oznaczone jako niebezpieczne obszary. Korzystaj z tras wyznaczonych przez lokalne władze. Jeśli zauważysz podejrzane odłamki, przedmiot przypominający minę lub niewybuch, zatrzymaj się. Zachowaj odległość. Nie dotykaj przedmiotu i ostrzeż innych. Jeśli znasz bezpieczną drogę powrotną, ostrożnie się nią wycofaj. Jeśli podejrzewasz, że jesteś na terenie zaminowanym i bezpieczny grunt jest osiągalny tylko przez nieznany teren, nie ruszaj się i wezwij pomoc.",
+        "W miarę możliwości z bezpiecznego miejsca poinformuj służby, co i gdzie widzisz. Nie wracaj, by robić zdjęcia ani cokolwiek podnosić. Jeśli ktoś został ranny na prawdopodobnie zaminowanym terenie, natychmiast wezwij wyspecjalizowane służby i nie wchodź na ten teren."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "id": "air-raid",
+      "title": "Alerte aeriene și bombardamente",
+      "blocks": [
+        "Când se dă alerta aeriană, mergi repede la cel mai apropiat adăpost desemnat și urmează instrucțiunile locale. Află din timp unde se află adăposturile de lângă casă, locul de muncă și școală. Asigură-te că toți cei din gospodărie pot ajunge acolo. Activează alertele oficiale și ține la îndemână un radio cu baterii pentru penele de curent.",
+        "Dacă nu poți ajunge în siguranță la un adăpost, intră într-o clădire solidă și nedeteriorată. Alege o încăpere interioară departe de ferestre, balcoane și uși de sticlă. Dacă bombardamentul te surprinde afară și nu te poți adăposti, stai cât mai aproape de sol și protejează-ți capul.",
+        "Rămâi la adăpost până când autoritățile anunță încetarea alertei, chiar dacă zgomotul se oprește. Dacă un incendiu sau alt pericol imediat face adăpostul nesigur, folosește o ieșire sigură, dacă este posibil, și cere ajutor serviciilor de urgență."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Adăpostire sau evacuare",
+      "blocks": [
+        "Citește sau ascultă avertizarea integral ca să știi ce zonă vizează și dacă trebuie să te adăpostești sau să pleci. Dacă autoritățile cer evacuarea zonei tale, pleacă repede pe traseul indicat sau cu mijlocul de transport desemnat. Evită scurtăturile și respectă restricțiile. Întoarce-te doar când autoritățile spun că este sigur.",
+        "Stabilește din timp unde ai merge și cum ai ajunge acolo. Dacă ai nevoie, întreabă serviciile de protecție civilă despre transport și adăposturi accesibile. Include în plan copiii, îngrijitorii, animalele de asistență și animalele de companie. Verifică dacă nevoile lor pot fi acoperite la destinație.",
+        "Dacă sunt la îndemână, ia actele de identitate, medicamentele esențiale, telefonul și încărcătorul, precum și dispozitivele de mobilitate sau comunicare. Când o poți face în siguranță, spune unei persoane de încredere unde te duci."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Cum să rămâneți împreună ca familie",
+      "blocks": [
+        "Înainte de o criză, alegeți un loc de întâlnire și o persoană de încredere din afara zonei pe care să o contactați. Notați datele pe un cartonaș pe care să îl aveți la voi. Dacă vă despărțiți și rețelele sunt aglomerate, încercați să trimiteți un mesaj scurt. Stabiliți cu școala sau serviciul de îngrijire cum vă puteți reuni în siguranță. Învățați-i pe copiii care au vârsta potrivită să își spună numele și numărul de telefon al persoanei care îi îngrijește.",
+        "Dacă cineva dispare după o evacuare cauzată de un conflict, anunță autoritățile locale sau serviciul de căutare a familiei al Crucii Roșii sau al Semilunii Roșii. Dacă găsești un copil singur, rămâi cu el într-un loc sigur și contactează autoritățile competente. Transmite-le datele copilului în mod confidențial și nu le posta pe rețelele sociale."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Mine și muniții neexplodate",
+      "blocks": [
+        "Evită zonele închise sau marcate ca periculoase. Folosește traseele indicate de autoritățile locale. Dacă vezi resturi suspecte, o posibilă mină sau muniție neexplodată, oprește-te. Păstrează distanța. Nu atinge obiectul și avertizează-i pe ceilalți să nu se apropie. Dacă știi o cale sigură de întoarcere, retrage-te cu grijă pe acolo. Dacă bănuiești că te afli într-o zonă minată și trebuie să calci pe teren necunoscut pentru a ajunge în siguranță, rămâi nemișcat și cere ajutor.",
+        "Raportează serviciilor de urgență ce ai văzut și unde, dintr-un loc sigur dacă este posibil. Nu te întoarce să faci fotografii sau să ridici obiecte. Dacă cineva este rănit într-o zonă posibil minată, cheamă imediat echipele specializate și nu intra în zonă."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "uk": [
+    {
+      "id": "air-raid",
+      "title": "Повітряна тривога й обстріли",
+      "blocks": [
+        "Під час повітряної тривоги негайно прямуйте до найближчого визначеного укриття й виконуйте вказівки місцевих служб. Заздалегідь дізнайтеся, де є укриття біля дому, роботи та школи. Переконайтеся, що до них можуть дістатися всі, хто з вами живе. Увімкніть офіційні сповіщення і тримайте радіоприймач на батарейках на випадок відключень.",
+        "Якщо безпечно дістатися до укриття неможливо, зайдіть до міцної неушкодженої будівлі. Перейдіть у внутрішнє приміщення подалі від вікон, балконів і скляних дверей. Якщо обстріл застав вас надворі й немає змоги укритися, пригніться якнайнижче й захистіть голову.",
+        "Залишайтеся в укритті до офіційного відбою тривоги, навіть якщо стало тихо. Якщо пожежа чи інша безпосередня загроза робить укриття небезпечним, скористайтеся безпечним виходом, якщо це можливо, і зверніться до екстрених служб."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Укриття чи евакуація",
+      "blocks": [
+        "Прочитайте або прослухайте повідомлення повністю, щоб зрозуміти, якої території воно стосується та що робити — укритися чи виїхати. Якщо влада оголосила евакуацію у вашій місцевості, вирушайте негайно визначеним маршрутом або транспортом. Не скорочуйте шлях і оминайте перекриті ділянки. Повертайтеся лише після дозволу влади.",
+        "Заздалегідь визначте, куди й чим дістанетеся. За потреби запитайте в служб цивільного захисту про доступний транспорт і безбар’єрні місця тимчасового перебування. Врахуйте потреби дітей, людей, які забезпечують догляд, тварин-помічників і домашніх тварин. Переконайтеся, що в пункті призначення є необхідні умови.",
+        "Якщо все це під рукою, візьміть документи, необхідні ліки, телефон і зарядний пристрій, а також засоби, що допомагають пересуватися чи спілкуватися. Коли це безпечно, повідомте людині, якій довіряєте, куди ви прямуєте."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Як не загубити рідних",
+      "blocks": [
+        "Заздалегідь домовтеся про місце зустрічі та оберіть людину за межами вашої місцевості, з якою всі зможуть зв’язатися. Запишіть ці дані на картці й носіть її з собою. Якщо ви розділилися, а мережі перевантажені, спробуйте надіслати коротке повідомлення. З’ясуйте в школі чи закладі догляду, як безпечно возз’єднатися. Навчіть дітей, які вже можуть це запам’ятати, називати своє ім’я та номер телефону людини, яка про них піклується.",
+        "Якщо хтось зник після евакуації через збройний конфлікт, повідомте місцеві органи влади або зверніться до служби розшуку Червоного Хреста чи Червоного Півмісяця. Якщо знайшли дитину без супроводу, залишайтеся з нею в безпечному місці та зверніться до відповідальних органів. Передайте дані дитини конфіденційно і не публікуйте їх у соцмережах."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Міни й боєприпаси, що не вибухнули",
+      "blocks": [
+        "Уникайте закритих ділянок і місць, позначених як небезпечні. Користуйтеся маршрутами, які визначила місцева влада. Якщо бачите підозрілі уламки, предмет, схожий на міну, або боєприпас, що не вибухнув, зупиніться. Не наближайтеся і не торкайтеся предмета. Попередьте інших, щоб не підходили. Якщо знаєте безпечний шлях назад, обережно поверніться ним. Якщо підозрюєте, що перебуваєте на замінованій ділянці, а вихід вимагає ступити на невідому територію, не рухайтеся й кличте на допомогу.",
+        "За можливості з безпечного місця повідомте екстреним службам, що ви бачили й де. Не повертайтеся, щоб зробити фото чи підібрати предмети. Якщо хтось поранений на ймовірно замінованій ділянці, негайно викличте фахівців і не заходьте туди."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "el": [
+    {
+      "id": "air-raid",
+      "title": "Συναγερμός αεροπορικής επιδρομής και βομβαρδισμοί",
+      "blocks": [
+        "Μόλις ηχήσει συναγερμός αεροπορικής επιδρομής, πηγαίνετε γρήγορα στο πλησιέστερο καθορισμένο καταφύγιο και ακολουθήστε τις τοπικές οδηγίες. Μάθετε από πριν πού υπάρχουν καταφύγια κοντά στο σπίτι, στην εργασία και στο σχολείο. Βεβαιωθείτε ότι όλα τα μέλη του νοικοκυριού μπορούν να φτάσουν εκεί. Ενεργοποιήστε τις επίσημες ειδοποιήσεις και έχετε ραδιόφωνο με μπαταρίες για τις διακοπές ρεύματος.",
+        "Αν δεν μπορείτε να φτάσετε με ασφάλεια σε καταφύγιο, μπείτε σε ένα γερό κτίριο χωρίς ζημιές. Πηγαίνετε σε εσωτερικό δωμάτιο μακριά από παράθυρα, μπαλκόνια και γυάλινες πόρτες. Αν ο βομβαρδισμός σάς βρει έξω και δεν μπορείτε να καλυφθείτε, μείνετε χαμηλά και προστατέψτε το κεφάλι σας.",
+        "Μείνετε προφυλαγμένοι μέχρι την επίσημη λήξη του συναγερμού, ακόμη κι αν σταματήσουν οι θόρυβοι. Αν υπάρχει φωτιά ή άλλος άμεσος κίνδυνος μέσα στο καταφύγιο, χρησιμοποιήστε ασφαλή έξοδο αν μπορείτε και καλέστε τις υπηρεσίες έκτακτης ανάγκης."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "Καταφύγιο ή εκκένωση",
+      "blocks": [
+        "Διαβάστε ή ακούστε ολόκληρη την ειδοποίηση για να δείτε ποια περιοχή αφορά και αν πρέπει να καταφύγετε σε ασφαλή χώρο ή να απομακρυνθείτε. Αν οι αρχές ζητήσουν εκκένωση της περιοχής σας, φύγετε έγκαιρα από την καθορισμένη διαδρομή ή με το μεταφορικό μέσο που υποδεικνύουν. Αποφύγετε τις συντομεύσεις και σεβαστείτε τους αποκλεισμούς. Επιστρέψτε μόνο όταν το επιτρέψουν οι αρχές.",
+        "Αποφασίστε από πριν πού θα πάτε και πώς. Αν χρειάζεστε προσβάσιμη μεταφορά ή καταφύγιο, ρωτήστε την πολιτική προστασία. Συμπεριλάβετε στο σχέδιο παιδιά, φροντιστές, ζώα βοήθειας και κατοικίδια. Βεβαιωθείτε ότι οι ανάγκες τους μπορούν να καλυφθούν στον προορισμό σας.",
+        "Αν τα έχετε πρόχειρα, πάρτε ταυτότητα, απαραίτητα φάρμακα, τηλέφωνο και φορτιστή, καθώς και βοηθήματα κίνησης ή επικοινωνίας. Όταν μπορείτε να το κάνετε με ασφάλεια, πείτε σε κάποιον που εμπιστεύεστε πού πηγαίνετε."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "Πώς να μείνει μαζί η οικογένεια",
+      "blocks": [
+        "Πριν από μια κρίση, ορίστε ένα σημείο συνάντησης και ένα άτομο εμπιστοσύνης εκτός περιοχής. Γράψτε τα στοιχεία σε κάρτα και κρατήστε τη μαζί σας. Αν χωριστείτε και τα δίκτυα είναι υπερφορτωμένα, δοκιμάστε να στείλετε ένα σύντομο μήνυμα. Συνεννοηθείτε με το σχολείο ή την υπηρεσία φροντίδας για το πώς θα ξαναβρεθείτε με ασφάλεια. Βοηθήστε τα παιδιά που είναι σε κατάλληλη ηλικία να μάθουν το όνομά τους και το τηλέφωνο του φροντιστή τους.",
+        "Αν κάποιος αγνοείται μετά από εκκένωση λόγω σύγκρουσης, ενημερώστε τις τοπικές αρχές ή την υπηρεσία αναζήτησης συγγενών του Ερυθρού Σταυρού ή της Ερυθράς Ημισελήνου. Αν βρείτε ασυνόδευτο παιδί, μείνετε μαζί του σε ασφαλές σημείο και καλέστε τις αρμόδιες αρχές. Δώστε ιδιωτικά τα στοιχεία του παιδιού στις αρχές και μην τα δημοσιεύσετε στα κοινωνικά δίκτυα."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "Νάρκες και πυρομαχικά που δεν έχουν εκραγεί",
+      "blocks": [
+        "Αποφύγετε περιοχές που έχουν αποκλειστεί ή επισημανθεί ως επικίνδυνες. Χρησιμοποιήστε τις διαδρομές που ορίζουν οι τοπικές αρχές. Αν δείτε ύποπτα συντρίμμια, μια πιθανή νάρκη ή πυρομαχικό που δεν έχει εκραγεί, σταματήστε. Κρατήστε απόσταση, μην αγγίξετε το αντικείμενο και προειδοποιήστε τους άλλους να μην πλησιάσουν. Αν γνωρίζετε ασφαλή διαδρομή επιστροφής, απομακρυνθείτε προσεκτικά από εκεί. Αν υποψιάζεστε ότι είστε σε ναρκοθετημένη περιοχή και χρειάζεται να πατήσετε σε άγνωστο έδαφος για να βγείτε, μείνετε ακίνητοι και καλέστε βοήθεια.",
+        "Αναφέρετε στις υπηρεσίες έκτακτης ανάγκης τι είδατε και πού, από ασφαλές σημείο, αν γίνεται. Μην επιστρέψετε για φωτογραφίες ή για να μαζέψετε αντικείμενα. Αν κάποιος τραυματίστηκε σε πιθανώς ναρκοθετημένη περιοχή, καλέστε αμέσως εξειδικευμένο συνεργείο και μην μπείτε στην περιοχή."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "id": "air-raid",
+      "title": "الإنذار الجوي والقصف",
+      "blocks": [
+        "عند صدور إنذار جوي، توجّه سريعًا إلى أقرب ملجأ معتمد واتبع التعليمات المحلية. اعرف مسبقًا أماكن الملاجئ القريبة من المنزل والعمل والمدرسة. تأكّد من أن جميع أفراد أسرتك يستطيعون الوصول إليها. فعّل التنبيهات الرسمية واحتفظ بمذياع يعمل بالبطاريات لاستخدامه عند انقطاع الكهرباء.",
+        "إذا لم تستطع الوصول إلى ملجأ بأمان، ادخل مبنى متينًا غير متضرر. انتقل إلى غرفة داخلية بعيدًا عن النوافذ والشرفات والأبواب الزجاجية. إذا فاجأك القصف في الخارج ولم تجد مأوى في متناولك، انخفض إلى الأرض واحمِ رأسك.",
+        "ابقَ في المأوى حتى تعلن السلطات انتهاء الإنذار، حتى لو توقفت أصوات الانفجارات. إذا أصبح المأوى غير آمن بسبب حريق أو خطر مباشر آخر، غادر عبر مخرج آمن إن أمكن واطلب المساعدة من خدمات الطوارئ."
+      ],
+      "sources": [
+        "https://www.mcf.se/en/advice-for-individuals/civil-defence-shelters-evacuation-and-warning-systems/good-to-know-about-civil-defence-shelters/",
+        "https://www.meteo.gov.ua/f/Pamiatka%20War.pdf"
+      ]
+    },
+    {
+      "id": "evacuation",
+      "title": "الاحتماء أو الإخلاء",
+      "blocks": [
+        "اقرأ التنبيه كاملًا أو استمع إليه لتعرف المنطقة المعنيّة وما إذا كان عليك الاحتماء أو المغادرة. عندما تطلب السلطات إخلاء منطقتك، غادر سريعًا عبر المسار المحدد أو باستخدام وسيلة النقل المخصصة. تجنّب الطرق المختصرة والتزم بإغلاقات الطرق. لا تعد حتى تعلن السلطات أن العودة آمنة.",
+        "حدّد مسبقًا وجهتك وكيف ستصل إليها. إذا احتجت إلى وسيلة نقل أو مأوى مهيّأ لاحتياجاتك، فاسأل خدمات الطوارئ المحلية. ضع في خطتك الأطفال ومقدّمي الرعاية وحيوانات المساعدة والحيوانات الأليفة. تأكّد من إمكانية تلبية احتياجاتهم في الوجهة المقصودة.",
+        "خذ وثائق الهوية والأدوية الضرورية والهاتف والشاحن وأدوات المساعدة على الحركة أو التواصل إذا كانت في متناول اليد. أخبر شخصًا تثق به عن وجهتك عندما يمكنك ذلك بأمان."
+      ],
+      "sources": [
+        "https://www.ready.gov/sites/default/files/2021-11/are-you-ready-guide.pdf",
+        "https://www.ready.gov/sites/default/files/2024-02/ready-gov_caregivers-preparedness-guide.pdf",
+        "https://www.krisinformation.se/en/get-prepared/seeking-shelter-and-finding-help/evacuation/"
+      ]
+    },
+    {
+      "id": "family-reunification",
+      "title": "كيف تبقى الأسرة معًا",
+      "blocks": [
+        "قبل وقوع أزمة، حدّدوا مكانًا للقاء وشخصًا موثوقًا به خارج المنطقة يمكن للجميع الاتصال به. دوّنوا البيانات على بطاقة واحملوها معكم. إذا افترقتم وكانت الشبكات مزدحمة، حاولوا إرسال رسالة نصية قصيرة. اتفقوا مع المدرسة أو مركز الرعاية على كيفية الالتقاء مجددًا بأمان. ساعدوا الأطفال القادرين على الحفظ في تعلّم أسمائهم ورقم هاتف أحد القائمين على رعايتهم.",
+        "إذا فُقد شخص بعد إخلاء بسبب نزاع، أبلغوا السلطات المحلية أو تواصلوا مع خدمة البحث عن أفراد العائلة التابعة للصليب الأحمر أو الهلال الأحمر. إذا وجدتم طفلًا بمفرده، ابقوا معه في مكان آمن واتصلوا بالجهة المختصة. أعطوها بيانات الطفل على نحو خاص ولا تنشروها على وسائل التواصل الاجتماعي."
+      ],
+      "sources": [
+        "https://www.icrc.org/en/publication/4435-restoring-family-links-families-belong-together",
+        "https://www.unicef.org/parenting/emergencies/displaced-from-home",
+        "https://www.unicef.org/ukraine/en/stories/resources-and-helplines-families-fleeing-ukraine"
+      ]
+    },
+    {
+      "id": "unexploded-ordnance",
+      "title": "الألغام والذخائر غير المنفجرة",
+      "blocks": [
+        "ابتعد عن المناطق المغلقة أو المعلّمة بعلامات الخطر، واستخدم المسارات التي حدّدتها السلطات المحلية. إذا رأيت حطامًا مشبوهًا أو جسمًا يبدو أنه لغم أو ذخيرة لم تنفجر، توقّف. ابقَ بعيدًا ولا تلمس الجسم وحذّر الآخرين من الاقتراب. إذا كنت تعرف طريقًا آمنًا للعودة، فتراجع عبره بحذر. إذا شككت في أنك داخل منطقة ملغّمة ولا يمكنك بلوغ مكان آمن دون السير على أرض مجهولة، فلا تتحرك واطلب المساعدة.",
+        "أبلغ خدمات الطوارئ بما رأيت ومكانه، من موقع آمن إن أمكن. لا تعد لتصوير الأشياء أو التقاطها. إذا أُصيب أحد في منطقة يُشتبه في أنها ملغّمة، اطلب فورًا فرق الإنقاذ المتخصصة ولا تدخل المنطقة."
+      ],
+      "sources": [
+        "https://www.unicef.org/ukraine/en/stories/fostering-culture-safety-among-children-and-youth-making-mine-safety-rules-known-children",
+        "https://www.denix.osd.mil/uxo/explosives-safety/faqs/",
+        "https://digitallibrary.un.org/nanna/record/3799237/files/handbook_english.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+      ]
+    }
+  ]
+}

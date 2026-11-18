@@ -1,0 +1,674 @@
+{
+  "en": [
+    {
+      "id": "household-plan",
+      "title": "Household plan and three-day kit",
+      "blocks": [
+        "Write down your emergency number, official alert channels, an out-of-area contact and two meeting places: one near home and one outside the neighbourhood. Work out how children will be collected and how anyone who needs accessible transport, backup power or daily care will get help. Keep paper copies and practise the plan.",
+        "Store at least three days of essentials at home. Plan for roughly four litres of water per person per day for drinking and basic hygiene, with extra for pets, heat and medical needs. Stock shelf-stable food, a manual can opener, a torch, radio, spare batteries, power bank, hygiene supplies and a first-aid kit.",
+        "Pack a bag you can carry with water, snacks, medication, essential documents, cash, warm layers and a phone charger. Ask a pharmacist about extra medicine and storage. Check supplies and batteries twice a year."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Safe water and sanitation",
+      "blocks": [
+        "Check the exact water advisory. If officials say not to drink or use tap water, follow the limits they give and use a safe supply instead. Use safe water for drinking, cooking, brushing teeth, ice and infant formula.",
+        "For a boil-water advisory, use sealed bottled water or bring clear water to a rolling boil for one minute. Above about 2,000 metres, boil it for three minutes. Let it cool in a clean, covered container. Boiling, household filters and disinfectants cannot make water contaminated with fuel, toxic chemicals or radioactive material safe.",
+        "Wash your hands with soap and safe water, especially after using the toilet and before handling food. If water and soap are unavailable, use hand sanitiser containing at least 60% alcohol."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "First aid while waiting for help",
+      "blocks": [
+        "Check for dangers such as traffic, fire and live wires before approaching. For a life-threatening emergency, call the local emergency number, give your exact location and follow the dispatcher’s instructions. If someone is unresponsive and is not breathing normally or is only gasping, start CPR and use an automated external defibrillator (AED) as soon as it is available. Follow its prompts.",
+        "For heavy external bleeding, press firmly and continuously on the wound with gauze or a clean cloth. If an object is embedded, leave it in place and press around it.",
+        "Cool a heat burn under cool running water for 20 minutes. Do not use ice or pull away anything stuck to the burn. Seek urgent help for large, deep, electrical or chemical burns. Learn first aid and CPR in a practical course before an emergency."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Power outages and food safety",
+      "blocks": [
+        "Use a torch or battery lantern. Run generators only outdoors at least six metres from doors, windows and vents, with the exhaust pointed away from buildings. Never use a gas oven, grill or camping stove indoors for heat. If a carbon monoxide alarm sounds, get outside into fresh air and call emergency services.",
+        "Keep refrigerator and freezer doors closed. An unopened fridge keeps perishables cold for about four hours. A closed full freezer lasts about 48 hours and a half-full one about 24 hours. After four hours without power or another cold source, discard refrigerated perishables. Never taste food to check its safety.",
+        "If you depend on powered medical equipment or refrigerated medicine, ask your provider in advance about safe backup power, storage and when to relocate."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "es": [
+    {
+      "id": "household-plan",
+      "title": "Plan familiar y suministros para tres días",
+      "blocks": [
+        "Anota tu número de emergencias, los canales oficiales de alerta, un contacto que viva fuera de la zona y dos puntos de encuentro: uno cerca de casa y otro fuera del barrio. Define quién recogerá a los niños y cómo recibirán ayuda las personas que necesitan transporte accesible, electricidad de respaldo o cuidados diarios. Guarda copias en papel y ensaya el plan.",
+        "Guarda suministros para al menos tres días. Calcula unos cuatro litros de agua por persona al día para beber y para la higiene básica, más una reserva para mascotas, calor y necesidades médicas. Guarda alimentos no perecederos, abrelatas manual, linterna, radio, pilas, batería externa, artículos de higiene y botiquín.",
+        "Prepara una mochila que puedas cargar con agua, comida, medicamentos, documentos esenciales, efectivo, ropa de abrigo y cargador. Consulta en la farmacia cómo guardar los medicamentos y qué reserva puedes tener. Revisa los suministros y las pilas dos veces al año."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Agua segura e higiene",
+      "blocks": [
+        "Comprueba qué indica el aviso sobre el agua. Si las autoridades prohíben beber o usar el agua del grifo, respeta las restricciones y consigue agua de una fuente segura. Usa agua segura para beber, cocinar, cepillarte los dientes, hacer hielo y preparar fórmula infantil.",
+        "Si se ordena hervir el agua, usa agua embotellada sellada o mantén el agua clara en ebullición intensa durante un minuto. Por encima de unos 2.000 metros, hiérvela tres minutos. Déjala enfriar en un recipiente limpio y tapado. Hervir, filtrar en casa o desinfectar el agua no elimina el combustible, los productos químicos tóxicos ni los materiales radiactivos.",
+        "Lávate las manos con jabón y agua segura después de ir al baño y antes de manipular alimentos. Si no hay agua y jabón, usa gel con al menos un 60 % de alcohol."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Primeros auxilios mientras llega la ayuda",
+      "blocks": [
+        "Antes de acercarte, comprueba si hay tráfico, fuego o cables con corriente. Si hay peligro de muerte, llama a emergencias, indica tu ubicación exacta y sigue las instrucciones del operador. Si la persona no responde y no respira con normalidad o solo jadea, comienza la reanimación cardiopulmonar (RCP) y utiliza un desfibrilador externo automático (DEA) en cuanto esté disponible. Sigue sus indicaciones.",
+        "Si hay sangrado externo abundante, presiona la herida con firmeza y sin interrupción con una gasa o paño limpio. Si hay un objeto clavado, déjalo en su sitio y presiona alrededor.",
+        "Enfría las quemaduras por calor con agua corriente fresca durante 20 minutos. No uses hielo ni arranques nada adherido. Busca ayuda urgente para quemaduras extensas, profundas, eléctricas o químicas. Practica primeros auxilios y RCP en un curso."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Cortes de luz y seguridad alimentaria",
+      "blocks": [
+        "Usa linternas o lámparas a pilas. Pon los generadores en el exterior, a un mínimo de seis metros de puertas, ventanas y rejillas de ventilación, con el escape orientado en dirección contraria a los edificios. Nunca uses un horno de gas, una parrilla o un hornillo de camping para calentar interiores. Si suena una alarma de monóxido de carbono, sal al aire libre y llama a emergencias.",
+        "No abras el refrigerador ni el congelador. Con la puerta cerrada, el refrigerador conserva los perecederos unas cuatro horas. Un congelador lleno conserva el frío unas 48 horas y uno medio lleno unas 24. Desecha los alimentos perecederos refrigerados tras cuatro horas sin electricidad ni otra fuente de frío. No pruebes la comida para comprobar si está en buen estado.",
+        "Si dependes de dispositivos médicos eléctricos o medicamentos refrigerados, pregunta con antelación a tu proveedor cómo mantenerlos operativos o fríos y cuándo trasladarte."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "id": "household-plan",
+      "title": "Plan familial et réserves pour trois jours",
+      "blocks": [
+        "Notez le numéro d’urgence, les canaux d’alerte officiels, un contact hors de la zone et deux lieux de rendez-vous, l’un près de chez vous, l’autre hors du quartier. Décidez qui ira chercher les enfants et comment aider les personnes qui ont besoin d’un transport adapté, d’électricité de secours ou de soins quotidiens. Gardez des copies papier et répétez le plan.",
+        "Prévoyez au moins trois jours de réserves. Comptez environ quatre litres d’eau par personne et par jour pour boire et assurer l’hygiène de base. Prévoyez davantage pour les animaux, la chaleur et les besoins médicaux. Ajoutez vivres non périssables, ouvre-boîte manuel, lampe, radio, piles, batterie externe, produits d’hygiène et trousse de secours.",
+        "Préparez un sac transportable avec eau, collations, médicaments, documents essentiels, espèces, vêtements chauds et chargeur. Demandez au pharmacien comment constituer et conserver une réserve de médicaments. Vérifiez les réserves et les piles deux fois par an."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Eau potable et hygiène",
+      "blocks": [
+        "Lisez l’avis concernant l’eau. Si les autorités interdisent de boire ou d’utiliser l’eau du robinet, respectez les restrictions et utilisez une source sûre. Utilisez de l’eau sûre pour boire, cuisiner, vous brosser les dents, faire des glaçons et préparer les biberons.",
+        "En cas d’avis d’ébullition, employez de l’eau en bouteille scellée ou faites bouillir l’eau claire à gros bouillons pendant une minute. Au-dessus d’environ 2 000 mètres, faites-la bouillir trois minutes. Laissez refroidir dans un récipient propre et couvert. L’ébullition, les filtres domestiques et les désinfectants ne rendent pas sûre une eau contaminée par du carburant, des produits chimiques toxiques ou des matières radioactives.",
+        "Lavez-vous les mains au savon et à l’eau sûre, surtout après les toilettes et avant de manipuler les aliments. À défaut d’eau et de savon, utilisez une solution contenant au moins 60 % d’alcool."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Premiers secours en attendant l’aide",
+      "blocks": [
+        "Avant d’approcher, vérifiez les dangers comme la circulation, le feu ou des câbles sous tension. En cas d’urgence vitale, appelez les secours, indiquez votre emplacement exact et suivez les consignes données. Si la personne ne réagit pas et ne respire pas normalement ou ne fait que haleter de façon irrégulière, commencez la réanimation cardiopulmonaire (RCP) et utilisez un défibrillateur automatisé externe (DAE) dès que possible. Suivez ses instructions.",
+        "En cas de saignement externe abondant, comprimez fermement et sans interruption avec une compresse ou un linge propre. Si un objet est fiché dans la plaie, laissez-le en place et appuyez autour.",
+        "Pour une brûlure thermique, laissez couler de l’eau fraîche sur la zone pendant 20 minutes. N’utilisez pas de glace et ne retirez rien qui adhère à la brûlure. Demandez une aide urgente pour les brûlures étendues, profondes, électriques ou chimiques. Suivez une formation pratique aux premiers secours et à la RCP."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Pannes de courant et sécurité alimentaire",
+      "blocks": [
+        "Éclairez-vous avec des lampes à piles. Faites fonctionner les groupes électrogènes uniquement dehors, à au moins six mètres des portes, fenêtres et bouches d’aération, échappement orienté à l’écart des bâtiments. Ne chauffez jamais une pièce avec un four à gaz, un barbecue ou un réchaud. Si le détecteur de monoxyde de carbone sonne, sortez à l’air libre et appelez les secours.",
+        "Gardez réfrigérateur et congélateur fermés. Un réfrigérateur fermé maintient les denrées périssables au froid environ quatre heures. Un congélateur plein et fermé tient environ 48 heures, ou 24 heures s’il est à moitié plein. Jetez les denrées périssables réfrigérées après quatre heures sans courant ni autre source de froid. Ne goûtez pas les aliments pour vérifier leur innocuité.",
+        "Si vous utilisez du matériel médical électrique ou des médicaments à conserver au froid, demandez à l’avance quelles solutions de secours utiliser et quand vous déplacer."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "de": [
+    {
+      "id": "household-plan",
+      "title": "Haushaltsplan und Vorräte für drei Tage",
+      "blocks": [
+        "Notieren Sie die Notrufnummer, amtliche Warnkanäle, einen Kontakt außerhalb des betroffenen Gebiets und zwei Treffpunkte: einen in Wohnungsnähe und einen außerhalb des Viertels. Klären Sie, wer die Kinder abholt und wie Menschen mit Bedarf an barrierefreiem Transport, Notstrom oder täglicher Pflege Hilfe erhalten. Bewahren Sie Kopien auf Papier auf und üben Sie den Plan.",
+        "Legen Sie für mindestens drei Tage Vorräte an. Rechnen Sie für Trinken und Grundhygiene mit etwa vier Litern Wasser pro Person und Tag. Planen Sie mehr für Haustiere, Hitze und medizinische Bedürfnisse ein. Lagern Sie haltbare Lebensmittel, Dosenöffner, Taschenlampe, Radio, Batterien, Powerbank, Hygieneartikel und Erste-Hilfe-Material.",
+        "Packen Sie eine tragbare Tasche mit Wasser, Verpflegung, Medikamenten, wichtigen Dokumenten, Bargeld, warmer Kleidung und Ladegerät. Fragen Sie in der Apotheke nach Medikamentenvorrat und Lagerung. Prüfen Sie Vorräte und Batterien zweimal jährlich."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Sicheres Wasser und Hygiene",
+      "blocks": [
+        "Lesen Sie die Warnmeldung zum Trinkwasser genau. Wenn die Behörden das Trinken oder Verwenden von Leitungswasser untersagen, halten Sie die Beschränkung ein und nutzen Sie eine sichere Quelle. Verwenden Sie sicheres Wasser zum Trinken, Kochen, Zähneputzen, zur Eisbereitung und für Säuglingsnahrung.",
+        "Bei einer Abkochanordnung nehmen Sie ungeöffnetes Flaschenwasser oder kochen Sie klares Wasser eine Minute sprudelnd. Oberhalb von etwa 2.000 Metern sind es drei Minuten. Lassen Sie es in einem sauberen, abgedeckten Gefäß abkühlen. Kraftstoffe, giftige Chemikalien und radioaktive Stoffe im Wasser lassen sich durch Abkochen, Haushaltsfilter oder Desinfektion nicht sicher beseitigen.",
+        "Waschen Sie Ihre Hände mit Seife und sicherem Wasser, besonders nach dem Toilettengang und vor dem Umgang mit Lebensmitteln. Fehlen Wasser und Seife, verwenden Sie Händedesinfektionsmittel mit mindestens 60 Prozent Alkohol."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Erste Hilfe bis zum Eintreffen des Rettungsdienstes",
+      "blocks": [
+        "Achten Sie vor dem Annähern auf Gefahren wie Verkehr, Feuer oder Stromleitungen. Rufen Sie bei Lebensgefahr den örtlichen Notruf an. Nennen Sie Ihren genauen Standort und folgen Sie den Anweisungen. Reagiert die Person nicht und atmet sie nicht normal oder schnappt nur nach Luft, beginnen Sie mit der Wiederbelebung. Setzen Sie möglichst bald einen automatisierten externen Defibrillator (AED) ein und befolgen Sie seine Ansagen.",
+        "Drücken Sie bei einer starken äußeren Blutung mit einer Kompresse oder einem sauberen Tuch fest und ununterbrochen auf die Wunde. Steckt ein Gegenstand darin, lassen Sie ihn stecken und drücken Sie darum herum.",
+        "Kühlen Sie eine durch Hitze verursachte Verbrennung 20 Minuten mit kühlem fließendem Wasser. Verwenden Sie kein Eis und reißen Sie nichts Festklebendes ab. Holen Sie bei großen, tiefen, elektrischen oder chemischen Verbrennungen dringend Hilfe. Üben Sie Erste Hilfe und Wiederbelebung in einem Kurs."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Stromausfall und Lebensmittelsicherheit",
+      "blocks": [
+        "Nutzen Sie Batterie- oder Taschenlampen. Betreiben Sie Generatoren nur im Freien, mindestens sechs Meter von Türen, Fenstern und Lüftungsöffnungen entfernt. Leiten Sie die Abgase von Gebäuden weg. Heizen Sie Innenräume nie mit Gasbackofen, Grill oder Campingkocher. Bei einem Kohlenmonoxidalarm gehen Sie ins Freie und rufen den Notruf.",
+        "Lassen Sie Kühlschrank und Gefrierschrank geschlossen. Ein geschlossener Kühlschrank hält leicht verderbliche Lebensmittel etwa vier Stunden kalt. Ein voller Gefrierschrank hält etwa 48 Stunden kalt, ein halb voller etwa 24. Entsorgen Sie leicht verderbliche Kühlware nach vier Stunden ohne Strom oder andere Kühlung. Probieren Sie Lebensmittel nicht, um ihre Sicherheit zu prüfen.",
+        "Wenn Sie elektrisch betriebene Medizingeräte oder gekühlte Medikamente benötigen, klären Sie vorher mit Ihrem Versorger die Notstromversorgung, Lagerung und den Zeitpunkt für einen Ortswechsel."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "it": [
+    {
+      "id": "household-plan",
+      "title": "Piano familiare e scorte per tre giorni",
+      "blocks": [
+        "Scrivi il numero di emergenza, i canali ufficiali di allerta, un contatto fuori zona e due punti di ritrovo, uno vicino a casa e uno fuori dal quartiere. Decidi chi andrà a prendere i bambini e come assistere chi ha bisogno di un trasporto accessibile, di corrente di riserva o di assistenza quotidiana. Conserva copie cartacee e prova il piano.",
+        "Tieni in casa scorte per almeno tre giorni. Calcola circa quattro litri d’acqua a persona al giorno per bere e per l’igiene essenziale, con una riserva in più per animali, caldo ed esigenze mediche. Aggiungi cibi a lunga conservazione, apriscatole, torcia, radio, pile, batteria esterna, articoli per l’igiene e kit di primo soccorso.",
+        "Prepara una borsa trasportabile con acqua, snack, farmaci, documenti essenziali, contanti, abiti caldi e caricatore. Chiedi al farmacista come procurarti e conservare una scorta di medicinali. Controlla scorte e batterie due volte l’anno."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Acqua sicura e igiene",
+      "blocks": [
+        "Leggi attentamente l’avviso sull’acqua. Se le autorità vietano di bere o usare l’acqua del rubinetto, rispetta le restrizioni e usa una fonte sicura. Usa acqua sicura per bere, cucinare, lavarti i denti, fare ghiaccio e preparare il latte artificiale.",
+        "Se viene disposto di bollire l’acqua, usa acqua in bottiglia sigillata oppure fai bollire vivacemente l’acqua limpida per un minuto. Sopra i 2.000 metri circa, falla bollire per tre minuti. Lasciala raffreddare in un contenitore pulito e coperto. Bollitura, filtri domestici e disinfettanti non rendono sicura l’acqua contaminata da carburanti, sostanze chimiche tossiche o materiali radioattivi.",
+        "Lavati le mani con sapone e acqua sicura, soprattutto dopo il bagno e prima di toccare alimenti. Se mancano acqua e sapone, usa un igienizzante per mani con almeno il 60% di alcol."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Primo soccorso in attesa di aiuto",
+      "blocks": [
+        "Prima di avvicinarti, controlla se ci sono pericoli, come traffico, fiamme o cavi sotto tensione. In caso di pericolo di vita chiama il numero di emergenza locale, comunica la tua posizione esatta e segui le istruzioni. Se la persona non risponde e non respira normalmente o boccheggia soltanto, inizia la rianimazione cardiopolmonare (RCP) e usa appena disponibile un defibrillatore automatico esterno (DAE). Segui le sue istruzioni.",
+        "In caso di forte emorragia esterna, premi con decisione e senza interruzioni sulla ferita con una garza o un panno pulito. Se c’è un oggetto conficcato, lascialo dov’è e premi intorno.",
+        "Per un’ustione da calore, raffredda la parte con acqua corrente fresca per 20 minuti. Non usare ghiaccio e non staccare ciò che aderisce all’ustione. Chiedi aiuto urgente per ustioni estese, profonde, elettriche o chimiche. Impara il primo soccorso e la RCP in un corso pratico."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Blackout e sicurezza alimentare",
+      "blocks": [
+        "Usa torce o lampade a batteria. Accendi i generatori solo all’aperto, almeno sei metri da porte, finestre e prese d’aria, con i gas di scarico diretti lontano dagli edifici. Non usare mai forni a gas, barbecue o fornelli da campeggio per riscaldare un ambiente chiuso. Se scatta l’allarme del monossido di carbonio, esci all’aria aperta e chiama i soccorsi.",
+        "Tieni chiusi frigorifero e congelatore. Il frigorifero chiuso mantiene freddi i cibi deperibili per circa quattro ore. Un congelatore chiuso dura circa 48 ore se pieno e 24 se mezzo pieno. Dopo quattro ore senza corrente o un’altra fonte di freddo, getta i deperibili del frigorifero. Non assaggiarli per verificarne la sicurezza.",
+        "Se usi apparecchi medici elettrici o farmaci refrigerati, chiedi in anticipo al tuo fornitore come garantirne l’uso o la conservazione e quando trasferirti."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "pt": [
+    {
+      "id": "household-plan",
+      "title": "Plano familiar e reservas para três dias",
+      "blocks": [
+        "Anote o número de emergência, os canais oficiais de alerta, um contacto fora da região e dois pontos de encontro: um perto de casa e outro fora do bairro. Decida quem irá buscar as crianças e como ajudar quem precisa de transporte acessível, energia de reserva ou cuidados diários. Guarde cópias em papel e ensaie o plano.",
+        "Guarde pelo menos três dias de suprimentos em casa. Calcule cerca de quatro litros de água por pessoa, por dia, para beber e para higiene básica. Reserve mais para animais, dias quentes e necessidades médicas. Guarde alimentos não perecíveis, abre-latas manual, lanterna, rádio, pilhas, bateria externa, produtos de higiene e estojo de primeiros socorros.",
+        "Prepare uma mochila com água, alimentos, medicamentos, documentos essenciais, dinheiro, roupa quente e carregador. Pergunte na farmácia como guardar medicamentos extra. Verifique os suprimentos e as pilhas duas vezes por ano."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Água segura e higiene",
+      "blocks": [
+        "Leia o aviso sobre a água. Se as autoridades proibirem beber ou usar água da torneira, respeite as restrições e use uma fonte segura. Use água segura para beber, cozinhar, escovar os dentes, fazer gelo e preparar fórmula infantil.",
+        "Se houver indicação para ferver a água, use água engarrafada lacrada ou ferva água límpida em ebulição vigorosa por um minuto. Acima de cerca de 2.000 metros, ferva por três minutos. Deixe arrefecer num recipiente limpo e tapado. Ferver, filtrar em casa ou desinfetar não torna segura a água contaminada por combustíveis, produtos químicos tóxicos ou material radioativo.",
+        "Lave as mãos com sabão e água segura, sobretudo depois de usar o sanitário e antes de manusear alimentos. Sem água e sabão, use desinfetante para as mãos com pelo menos 60% de álcool."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Primeiros socorros enquanto aguarda ajuda",
+      "blocks": [
+        "Antes de se aproximar, verifique se há trânsito, fogo ou fios elétricos energizados. Em caso de risco de vida, ligue para a emergência local, indique o local exato e siga as instruções. Se a pessoa não reage e não respira normalmente ou só apresenta respiração agónica, inicie a reanimação cardiopulmonar (RCP). Use um desfibrilador automático externo (DAE) assim que estiver disponível e siga as suas instruções.",
+        "Para uma hemorragia externa intensa, pressione firmemente e sem parar com uma gaze ou pano limpo. Se houver um objeto cravado, deixe-o no lugar e pressione à volta.",
+        "Arrefeça uma queimadura por calor com água corrente fresca durante 20 minutos. Não use gelo nem retire o que estiver colado à queimadura. Procure ajuda urgente para queimaduras grandes, profundas, elétricas ou químicas. Aprenda primeiros socorros e RCP num curso prático."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Falhas de energia e segurança alimentar",
+      "blocks": [
+        "Use lanternas ou lâmpadas a pilhas. Use geradores apenas ao ar livre, a pelo menos seis metros de portas, janelas e aberturas de ventilação, com a saída de gases voltada para longe dos edifícios. Nunca aqueça interiores com forno a gás, grelhador ou fogareiro de campismo. Se tocar o alarme de monóxido de carbono, saia para o ar livre e chame os serviços de emergência.",
+        "Mantenha fechados o frigorífico e o congelador. O frigorífico fechado mantém os alimentos perecíveis frios por cerca de quatro horas. Um congelador fechado dura cerca de 48 horas se estiver cheio e 24 horas se estiver meio cheio. Deite fora os perecíveis refrigerados após quatro horas sem eletricidade ou outra fonte de frio. Não prove os alimentos para avaliar se são seguros.",
+        "Se depende de equipamento médico elétrico ou de medicamentos refrigerados, peça instruções antecipadas sobre energia de reserva, conservação e quando se deve deslocar."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "hu": [
+    {
+      "id": "household-plan",
+      "title": "Családi vészhelyzeti terv és háromnapos készlet",
+      "blocks": [
+        "Írd fel a segélyhívó számot, a hivatalos riasztási csatornákat és egy távolabb élő kapcsolattartó elérhetőségét. Jelöljetek ki két találkozóhelyet, egyet az otthonotok közelében, egyet a környéken kívül. Beszéljétek meg, ki megy a gyerekekért, és hogyan kap segítséget, akinek akadálymentes szállításra, tartalék áramra vagy napi ellátásra van szüksége. Őrizzétek meg papíron is, és gyakoroljátok a tervet.",
+        "Tarts otthon legalább három napra elég készletet. Ivásra és alapvető tisztálkodásra naponta személyenként körülbelül négy liter vízzel számolj. A háziállatok, a hőség és az egészségügyi szükségletek miatt tegyél félre többet. Legyen tartós élelmiszer, kézi konzervnyitó, zseblámpa, rádió, elem, külső akkumulátor, tisztálkodószer és elsősegélycsomag.",
+        "Készíts hordozható táskát vízzel, ennivalóval, gyógyszerrel, iratokkal, készpénzzel, meleg ruhával és töltővel. Kérj tanácsot gyógyszerésztől a gyógyszertartalékról és a tárolásról. Évente kétszer ellenőrizd a készletet és az elemeket."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Biztonságos ivóvíz és higiénia",
+      "blocks": [
+        "Olvasd el pontosan a vízre vonatkozó figyelmeztetést. Ha a hatóság tiltja a csapvíz fogyasztását vagy használatát, tartsd be a korlátozást, és használj biztonságos forrásból származó vizet. Ivásra, főzésre, fogmosásra, jéghez és tápszerhez csak biztonságos vizet használj.",
+        "Ha forralást írnak elő, használj bontatlan palackos vizet, vagy forrald a tiszta vizet lobogva egy percig. Körülbelül 2 000 méter felett három percig forrald. Tiszta, fedett tárolóban hagyd kihűlni. Az üzemanyaggal, mérgező vegyi anyaggal vagy radioaktív anyaggal szennyezett víz forralással, házi szűrővel vagy fertőtlenítéssel sem tehető biztonságossá.",
+        "Moss kezet szappannal és biztonságos vízzel, különösen vécéhasználat után és élelmiszer kezelése előtt. Ha nincs víz és szappan, használj legalább 60%-os alkoholtartalmú kézfertőtlenítőt."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Elsősegély a segítség megérkezéséig",
+      "blocks": [
+        "Mielőtt odamész, nézd meg, veszélyt jelent-e a forgalom, a tűz vagy egy feszültség alatt álló vezeték. Életveszélyben hívd a helyi segélyhívót, mondd meg a pontos helyszínt és kövesd az utasításokat. Ha az illető nem reagál, és nem lélegzik rendesen vagy csak levegő után kapkod, kezdj újraélesztést. Használj automata külső defibrillátort (AED), amint elérhető, és kövesd az utasításait.",
+        "Erős külső vérzésnél nyomd a sebet erősen és folyamatosan gézzel vagy tiszta kendővel. Ha tárgy áll ki a sebből, hagyd a helyén, és körülötte gyakorolj nyomást.",
+        "Hő okozta égésnél hűtsd a sérült felületet hűvös folyó vízzel húsz percig. Ne használj jeget, és ne húzz le semmit, ami odaragadt. Nagy kiterjedésű, mély, elektromos vagy vegyi égésnél kérj sürgős segítséget. Tanuld meg az elsősegélyt és az újraélesztést gyakorlati képzésen."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Áramszünet és élelmiszer-biztonság",
+      "blocks": [
+        "Használj zseblámpát vagy elemes lámpát. Áramfejlesztőt csak a szabadban, ajtóktól, ablakoktól és szellőzőktől legalább hat méterre használj, a kipufogót az épületektől elfelé fordítva. Beltérben soha ne fűts gázsütővel, grillel vagy kempingfőzővel. Ha megszólal a szén-monoxid-érzékelő, menj a szabadba, és hívd a segélyhívót.",
+        "Tartsd csukva a hűtőt és a fagyasztót. A csukott hűtő körülbelül négy órán át tartja hidegen a romlandó ételeket. A teli fagyasztó körülbelül 48 óráig, a félig teli 24 óráig. Négy órányi áramszünet vagy más hűtés hiánya után dobd ki a romlandó hűtött ételeket. Ne kóstolással ellenőrizd, hogy biztonságosak-e.",
+        "Ha elektromos orvosi készüléket vagy hűtött gyógyszert használsz, előre tisztázd az ellátóddal a tartalék áramot, a tárolást és azt, mikor kell máshová menned."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "pl": [
+    {
+      "id": "household-plan",
+      "title": "Domowy plan i zapasy na trzy dni",
+      "blocks": [
+        "Zapisz numer alarmowy, oficjalne kanały ostrzegania, kontakt do osoby spoza okolicy i dwa miejsca spotkań, jedno w pobliżu domu i drugie poza dzielnicą. Ustal, kto odbierze dzieci oraz jak pomóc osobom potrzebującym dostępnego transportu, zasilania awaryjnego lub codziennej opieki. Zrób papierowe kopie i przećwicz plan.",
+        "Zgromadź w domu zapasy na co najmniej trzy dni. Zaplanuj około czterech litrów wody na osobę dziennie do picia i podstawowej higieny. Odłóż więcej ze względu na zwierzęta, upały i potrzeby zdrowotne. Przygotuj trwałą żywność, otwieracz, latarkę, radio, baterie, powerbank, środki higieny i apteczkę.",
+        "Spakuj poręczną torbę z wodą, przekąskami, lekami, podstawowymi dokumentami, gotówką, ciepłą odzieżą i ładowarką. Zapytaj farmaceutę o zapas leków i ich przechowywanie. Sprawdzaj zapasy i baterie dwa razy w roku."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Bezpieczna woda i higiena",
+      "blocks": [
+        "Uważnie przeczytaj komunikat o wodzie. Jeśli władze zabraniają picia lub używania wody z kranu, przestrzegaj ograniczeń i korzystaj z bezpiecznego źródła. Bezpiecznej wody używaj do picia, gotowania, mycia zębów, robienia lodu i przygotowywania mieszanki dla niemowląt.",
+        "Jeżeli zalecono gotowanie, użyj fabrycznie zamkniętej wody butelkowanej albo doprowadź klarowną wodę do mocnego wrzenia na minutę. Powyżej około 2000 metrów gotuj przez trzy minuty. Ostudź w czystym, przykrytym naczyniu. Gotowanie, domowy filtr i dezynfekcja nie usuwają zagrożenia ze strony paliwa, toksycznych chemikaliów ani materiału promieniotwórczego.",
+        "Myj ręce mydłem i bezpieczną wodą, zwłaszcza po skorzystaniu z toalety i przed kontaktem z żywnością. Jeśli nie ma wody i mydła, zastosuj środek do dezynfekcji rąk zawierający co najmniej 60% alkoholu."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Pierwsza pomoc w oczekiwaniu na ratowników",
+      "blocks": [
+        "Zanim podejdziesz, sprawdź zagrożenia, takie jak ruch pojazdów, ogień i przewody pod napięciem. W razie zagrożenia życia zadzwoń pod miejscowy numer alarmowy, podaj dokładną lokalizację i wykonuj polecenia dyspozytora. Jeżeli osoba nie reaguje i nie oddycha prawidłowo lub jedynie łapie powietrze, rozpocznij resuscytację krążeniowo-oddechową (RKO). Jak najszybciej użyj automatycznego defibrylatora zewnętrznego (AED) i wykonuj jego polecenia.",
+        "Przy silnym krwawieniu zewnętrznym mocno i bez przerwy uciskaj ranę gazą lub czystą tkaniną. Jeżeli w ranie tkwi przedmiot, nie wyjmuj go, tylko uciskaj wokół.",
+        "Oparzenie cieplne chłodź chłodną bieżącą wodą przez 20 minut. Nie używaj lodu i nie odrywaj niczego, co przywarło. Pilnie wezwij pomoc przy oparzeniach rozległych, głębokich, elektrycznych lub chemicznych. Naucz się pierwszej pomocy i RKO na kursie praktycznym."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Brak prądu i bezpieczeństwo żywności",
+      "blocks": [
+        "Używaj latarek lub lamp na baterie. Agregat włączaj tylko na zewnątrz, co najmniej sześć metrów od drzwi, okien i otworów wentylacyjnych, ze spalinami odprowadzanymi z dala od zabudowań. Nie ogrzewaj wnętrz piekarnikiem gazowym, grillem ani kuchenką turystyczną. Gdy czujnik tlenku węgla alarmuje, wyjdź na świeże powietrze i wezwij służby.",
+        "Nie otwieraj lodówki ani zamrażarki. Zamknięta lodówka utrzyma produkty łatwo psujące się w chłodzie przez około cztery godziny. Pełna zamrażarka utrzyma chłód około 48 godzin, a do połowy pełna około 24. Po czterech godzinach bez prądu i bez innego źródła chłodu wyrzuć z lodówki żywność łatwo psującą się. Nie sprawdzaj bezpieczeństwa jedzenia, próbując go.",
+        "Jeśli używasz elektrycznego sprzętu medycznego lub leków wymagających chłodzenia, ustal wcześniej z dostawcą kwestie zasilania zapasowego, przechowywania i ewentualnego przeniesienia."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "ro": [
+    {
+      "id": "household-plan",
+      "title": "Plan pentru locuință și provizii pentru trei zile",
+      "blocks": [
+        "Notează numărul de urgență, canalele oficiale de alertă, datele unei persoane de contact din afara zonei și două locuri de întâlnire, unul lângă casă și unul în afara cartierului. Stabilește cine preia copiii și cum vor fi ajutate persoanele care au nevoie de transport accesibil, curent de rezervă sau îngrijire zilnică. Păstrează copii pe hârtie și exersează planul.",
+        "Depozitează acasă lucrurile esențiale pentru cel puțin trei zile. Calculează aproximativ patru litri de apă de persoană pe zi, pentru băut și igienă de bază. Adaugă apă pentru animale, zile călduroase și nevoi medicale. Pregătește alimente neperisabile, desfăcător de conserve, lanternă, radio, baterii, acumulator extern, produse de igienă și trusă de prim ajutor.",
+        "Pregătește un rucsac cu apă, gustări, medicamente, acte importante, numerar, haine călduroase și încărcător. Întreabă farmacistul despre rezervele de medicamente și depozitarea lor. Verifică stocul și bateriile de două ori pe an."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Apă sigură și igienă",
+      "blocks": [
+        "Citește atent avertizarea privind apa. Dacă autoritățile interzic consumul sau folosirea apei de la robinet, respectă restricțiile și alege o sursă sigură. Folosește apă sigură pentru băut, gătit, spălat pe dinți, gheață și prepararea laptelui praf.",
+        "Când este recomandată fierberea, folosește apă îmbuteliată sigilată sau lasă apa limpede să fiarbă în clocot un minut. Peste aproximativ 2.000 de metri, fierbe-o trei minute. Las-o să se răcească într-un vas curat și acoperit. Fierberea, filtrele de uz casnic și dezinfectanții nu fac sigură apa contaminată cu combustibil, substanțe chimice toxice sau materiale radioactive.",
+        "Spală-te pe mâini cu săpun și apă sigură, mai ales după folosirea toaletei și înainte de a manipula alimente. Dacă nu ai apă și săpun, folosește dezinfectant pentru mâini cu cel puțin 60% alcool."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Primul ajutor până la sosirea echipajelor",
+      "blocks": [
+        "Înainte de a te apropia, verifică dacă există pericole precum traficul, focul ori cablurile sub tensiune. Într-o urgență care pune viața în pericol, apelează numărul local de urgență, indică locul exact și urmează instrucțiunile operatorului. Dacă persoana nu răspunde și nu respiră normal sau doar gâfâie, începe resuscitarea cardiopulmonară (RCP). Folosește cât mai repede un defibrilator extern automat (DEA) și urmează-i indicațiile.",
+        "La o hemoragie externă puternică, apasă ferm și continuu pe rană cu tifon sau o cârpă curată. Dacă este înfipt un obiect, lasă-l pe loc și apasă în jur.",
+        "Răcește arsura termică sub apă curentă răcoroasă timp de 20 de minute. Nu folosi gheață și nu desprinde nimic lipit. Cere ajutor urgent pentru arsuri extinse, adânci, electrice sau chimice. Învață primul ajutor și RCP la un curs practic."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Pene de curent și siguranța alimentelor",
+      "blocks": [
+        "Folosește lanterne sau lămpi pe baterii. Folosește generatorul numai afară, la cel puțin șase metri de uși, ferestre și guri de ventilație, cu evacuarea îndreptată în direcția opusă clădirilor. Nu încălzi spații închise cu cuptorul pe gaz, grătarul sau aragazul de camping. Dacă pornește alarma de monoxid de carbon, ieși la aer curat și sună la urgențe.",
+        "Ține închise frigiderul și congelatorul. Frigiderul închis păstrează alimentele perisabile reci circa patru ore. Un congelator închis plin rezistă aproximativ 48 de ore, unul pe jumătate plin aproximativ 24. După patru ore fără curent sau altă sursă de răcire, aruncă alimentele perisabile din frigider. Nu le gusta ca să verifici dacă mai sunt sigure.",
+        "Dacă depinzi de aparate medicale electrice ori de medicamente refrigerate, întreabă din timp furnizorul despre curentul de rezervă, depozitare și momentul potrivit pentru a te muta."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "uk": [
+    {
+      "id": "household-plan",
+      "title": "Сімейний план і запаси на три доби",
+      "blocks": [
+        "Запишіть номер екстреної допомоги, офіційні канали оповіщення, контакт людини поза вашим районом і два місця зустрічі, одне біля дому й одне за межами району. Заздалегідь домовтеся, хто забере дітей і як отримають допомогу люди, яким потрібні доступний транспорт, резервне живлення або щоденний догляд. Збережіть паперові копії та відпрацюйте план.",
+        "Зробіть запас щонайменше на три доби. Для пиття й базової гігієни розраховуйте приблизно на чотири літри води на людину на добу, із додатковим запасом для тварин, спеки й медичних потреб. Підготуйте продукти тривалого зберігання, консервний ніж, ліхтарик, радіо, батарейки, павербанк, засоби гігієни й аптечку.",
+        "Зберіть сумку з водою, перекусом, ліками, документами, готівкою, теплим одягом і зарядним пристроєм. Запитайте фармацевта про запас ліків та умови їхнього зберігання. Перевіряйте запаси й батарейки двічі на рік."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Безпечна вода та гігієна",
+      "blocks": [
+        "Уважно прочитайте попередження про воду. Якщо влада заборонила пити або використовувати водопровідну воду, дотримуйтеся обмежень і користуйтеся джерелом безпечної води. Безпечна вода потрібна для пиття, приготування їжі, чищення зубів, льоду та дитячої суміші.",
+        "Якщо оголосили, що воду треба кип’ятити, використовуйте запечатану бутильовану воду або бурхливо кип’ятіть прозору воду одну хвилину. На висоті понад приблизно 2 000 метрів кип’ятіть три хвилини. Дайте воді охолонути в чистій накритій ємності. Кип’ятіння, побутові фільтри та дезінфекція не роблять безпечною воду, забруднену паливом, токсичними хімікатами чи радіоактивними матеріалами.",
+        "Мийте руки милом і безпечною водою, особливо після туалету та перед роботою з їжею. Якщо немає води й мила, скористайтеся антисептиком для рук із вмістом спирту щонайменше 60%."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Перша допомога до прибуття рятувальників",
+      "blocks": [
+        "Перш ніж наблизитися, перевірте, чи немає небезпеки від транспорту, вогню або проводів під напругою. Якщо є загроза життю, викличте екстрену допомогу, назвіть точне місце та виконуйте вказівки диспетчера. Якщо людина не реагує і не дихає нормально або лише хапає повітря, почніть серцево-легеневу реанімацію (СЛР). Якнайшвидше скористайтеся автоматичним зовнішнім дефібрилятором (АЗД) і виконуйте його підказки.",
+        "У разі сильної зовнішньої кровотечі міцно й безперервно притискайте рану марлею або чистою тканиною. Якщо в рані застряг предмет, залиште його та тисніть навколо.",
+        "Термічний опік охолоджуйте прохолодною проточною водою 20 хвилин. Не прикладайте лід і не відривайте те, що прилипло. За великих, глибоких, електричних чи хімічних опіків терміново зверніться по допомогу. Навчіться першої допомоги й СЛР на практичному курсі."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Відключення електрики й безпечна їжа",
+      "blocks": [
+        "Користуйтеся ліхтариками або лампами на батарейках. Вмикайте генератор лише надворі щонайменше за шість метрів від дверей, вікон і вентиляційних отворів, спрямовуючи вихлоп від будівель. Ніколи не обігрівайте приміщення газовою духовкою, грилем чи похідною плиткою. Якщо спрацював датчик чадного газу, вийдіть на свіже повітря та викличте екстрені служби.",
+        "Тримайте холодильник і морозильник зачиненими. Зачинений холодильник зберігає швидкопсувні продукти холодними близько чотирьох годин. Повний морозильник тримає холод близько 48 годин, напівповний близько 24. Викиньте швидкопсувні продукти з холодильника після чотирьох годин без електрики й іншого джерела холоду. Не куштуйте їжу, щоб перевірити її безпечність.",
+        "Якщо користуєтеся електричним медичним обладнанням або ліками, що потребують охолодження, заздалегідь уточніть, як забезпечити резервне живлення, зберігання і коли слід переїхати."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "el": [
+    {
+      "id": "household-plan",
+      "title": "Σχέδιο για το σπίτι και προμήθειες τριών ημερών",
+      "blocks": [
+        "Σημειώστε τον αριθμό έκτακτης ανάγκης, τα επίσημα κανάλια ειδοποιήσεων, ένα άτομο επικοινωνίας εκτός περιοχής και δύο σημεία συνάντησης, ένα κοντά στο σπίτι και ένα έξω από τη γειτονιά. Ορίστε ποιος θα παραλάβει τα παιδιά και πώς θα βοηθηθούν άτομα που χρειάζονται προσβάσιμη μεταφορά, εφεδρικό ρεύμα ή καθημερινή φροντίδα. Κρατήστε έντυπα αντίγραφα και κάντε πρόβα.",
+        "Κρατήστε προμήθειες τουλάχιστον τριών ημερών. Υπολογίστε περίπου τέσσερα λίτρα νερό ανά άτομο την ημέρα για πόση και βασική υγιεινή, συν επιπλέον για κατοικίδια, ζέστη και ιατρικές ανάγκες. Προμηθευτείτε τρόφιμα μακράς διαρκείας, ανοιχτήρι, φακό, ραδιόφωνο, μπαταρίες, φορητό φορτιστή, είδη υγιεινής και φαρμακείο πρώτων βοηθειών.",
+        "Ετοιμάστε τσάντα με νερό, σνακ, φάρμακα, βασικά έγγραφα, μετρητά, ζεστά ρούχα και φορτιστή. Ρωτήστε τον φαρμακοποιό για εφεδρικά φάρμακα και αποθήκευση. Ελέγχετε προμήθειες και μπαταρίες δύο φορές τον χρόνο."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "Ασφαλές νερό και υγιεινή",
+      "blocks": [
+        "Διαβάστε τη σχετική ανακοίνωση για το νερό. Αν οι αρχές απαγορεύουν την πόση ή χρήση νερού βρύσης, τηρήστε τους περιορισμούς και βρείτε ασφαλή πηγή. Χρησιμοποιήστε ασφαλές νερό για πόση, μαγείρεμα, βούρτσισμα δοντιών, παγάκια και προετοιμασία βρεφικού γάλακτος.",
+        "Αν έχει εκδοθεί οδηγία βρασμού, χρησιμοποιήστε σφραγισμένο εμφιαλωμένο νερό ή βράστε έντονα διαυγές νερό για ένα λεπτό. Πάνω από περίπου 2.000 μέτρα βράστε το για τρία λεπτά. Αφήστε το να κρυώσει σε καθαρό, σκεπασμένο δοχείο. Ο βρασμός, τα οικιακά φίλτρα και τα απολυμαντικά δεν κάνουν ασφαλές νερό που έχει μολυνθεί από καύσιμα, τοξικά χημικά ή ραδιενεργά υλικά.",
+        "Πλένετε τα χέρια με σαπούνι και ασφαλές νερό, ιδίως μετά την τουαλέτα και πριν πιάσετε τρόφιμα. Αν δεν υπάρχουν σαπούνι και νερό, χρησιμοποιήστε αντισηπτικό χεριών με τουλάχιστον 60% αλκοόλη."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "Πρώτες βοήθειες μέχρι να φτάσει βοήθεια",
+      "blocks": [
+        "Πριν πλησιάσετε, ελέγξτε για κινδύνους όπως κυκλοφορία, φωτιά ή ηλεκτροφόρα καλώδια. Αν απειλείται ζωή, καλέστε τον τοπικό αριθμό έκτακτης ανάγκης, δώστε ακριβή τοποθεσία και ακολουθήστε τις οδηγίες. Αν κάποιος δεν ανταποκρίνεται και δεν αναπνέει φυσιολογικά ή μόνο αγκομαχά, αρχίστε καρδιοπνευμονική αναζωογόνηση (ΚΑΡΠΑ) και χρησιμοποιήστε αυτόματο εξωτερικό απινιδωτή μόλις είναι διαθέσιμος. Ακολουθήστε τις οδηγίες του.",
+        "Σε έντονη εξωτερική αιμορραγία, πιέστε σταθερά και συνεχόμενα την πληγή με γάζα ή καθαρό πανί. Αν έχει καρφωθεί αντικείμενο, αφήστε το στη θέση του και πιέστε γύρω του.",
+        "Σε θερμικό έγκαυμα, δροσίστε με δροσερό τρεχούμενο νερό για 20 λεπτά. Μη βάζετε πάγο και μην τραβάτε ό,τι έχει κολλήσει στο έγκαυμα. Ζητήστε άμεσα βοήθεια για εκτεταμένα, βαθιά, ηλεκτρικά ή χημικά εγκαύματα. Μάθετε πρώτες βοήθειες και ΚΑΡΠΑ σε πρακτικό μάθημα."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "Διακοπές ρεύματος και ασφάλεια τροφίμων",
+      "blocks": [
+        "Χρησιμοποιήστε φακό ή φωτιστικό με μπαταρία. Λειτουργήστε γεννήτριες μόνο έξω, σε απόσταση τουλάχιστον έξι μέτρων από πόρτες, παράθυρα και ανοίγματα εξαερισμού, με την εξάτμιση προς την αντίθετη κατεύθυνση από τα κτίρια. Μη θερμαίνετε εσωτερικό χώρο με φούρνο αερίου, ψησταριά ή γκαζάκι. Σε συναγερμό μονοξειδίου του άνθρακα, βγείτε στον καθαρό αέρα και καλέστε για βοήθεια.",
+        "Κρατήστε κλειστά το ψυγείο και τον καταψύκτη. Κλειστό ψυγείο διατηρεί τα ευπαθή τρόφιμα κρύα για περίπου τέσσερις ώρες. Γεμάτος καταψύκτης διατηρείται κρύος περίπου 48 ώρες και μισογεμάτος περίπου 24. Μετά από τέσσερις ώρες χωρίς ρεύμα ή άλλη πηγή ψύξης, πετάξτε τα ευπαθή τρόφιμα του ψυγείου. Μην τα δοκιμάζετε για να ελέγξετε αν είναι ασφαλή.",
+        "Αν χρειάζεστε ηλεκτρική ιατρική συσκευή ή φάρμακα ψυγείου, οργανώστε εκ των προτέρων με τον πάροχο εφεδρική παροχή, αποθήκευση και το πότε θα πρέπει να μετακινηθείτε."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ],
+  "ar": [
+    {
+      "id": "household-plan",
+      "title": "خطة للأسرة ومؤن لثلاثة أيام",
+      "blocks": [
+        "دوّن رقم الطوارئ وقنوات التنبيه الرسمية وبيانات شخص للاتصال به خارج المنطقة ومكانين للقاء، أحدهما قرب المنزل والآخر خارج الحي. حدد من سيصطحب الأطفال وكيف سيحصل من يحتاج إلى نقل ميسّر أو كهرباء احتياطية أو رعاية يومية على المساعدة. احتفظ بنسخ ورقية وتدرّب مع الأسرة على الخطة.",
+        "خزّن في المنزل مستلزمات ثلاثة أيام على الأقل. احسب نحو أربعة لترات من الماء لكل شخص يومياً للشرب والنظافة الأساسية، وأكثر للحيوانات الأليفة والحر والاحتياجات الطبية. جهّز أطعمة طويلة الصلاحية وفتّاحة علب ومصباحاً وراديو وبطاريات وشاحناً متنقلاً ومستلزمات النظافة وحقيبة إسعاف.",
+        "حضّر حقيبة يسهل حملها فيها ماء ووجبات خفيفة وأدوية ووثائق أساسية ونقود وملابس دافئة وشاحن. اسأل الصيدلي عن تخزين الأدوية وإمكانية توفير كمية احتياطية. افحص المؤن والبطاريات مرتين في السنة."
+      ],
+      "sources": [
+        "https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/pcktgdtmrgncs/",
+        "https://www2.gov.bc.ca/gov/content/safety/emergency-management/preparedbc/build-an-emergency-kit-and-grab-and-go-bag"
+      ]
+    },
+    {
+      "id": "water-sanitation",
+      "title": "المياه المأمونة والنظافة",
+      "blocks": [
+        "اقرأ التنبيه الخاص بالمياه بدقة. إذا منعت السلطات شرب مياه الصنبور أو استخدامها، التزم بالقيود واستخدم مصدراً مأموناً. استخدم مياه مأمونة للشرب والطهو وتنظيف الأسنان وصنع الثلج وتحضير حليب الرضع.",
+        "إذا صدر تنبيه بغلي الماء، استخدم عبوات مياه محكمة الإغلاق، أو اترك الماء الصافي يغلي بقوة دقيقة واحدة. على ارتفاع يزيد على نحو 2000 متر، اغله ثلاث دقائق. اتركه يبرد في وعاء نظيف ومغطّى. الغلي والمرشحات المنزلية والمطهّرات لا تجعل الماء الملوّث بوقود أو مواد كيميائية سامة أو مواد مشعّة مأموناً.",
+        "اغسل يديك بالصابون والماء المأمون، خصوصاً بعد استخدام المرحاض وقبل لمس الطعام. إذا لم يتوفر الماء والصابون، فاستخدم معقّماً لليدين يحتوي على كحول بنسبة 60% على الأقل."
+      ],
+      "sources": [
+        "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+        "https://www.cdc.gov/water-emergency/about/",
+        "https://www.cdc.gov/water-emergency/safety/guidelines-for-personal-hygiene-during-an-emergency.html"
+      ]
+    },
+    {
+      "id": "first-aid",
+      "title": "الإسعافات الأولية بانتظار المساعدة",
+      "blocks": [
+        "تأكد من خلو المكان من أخطار مثل حركة المركبات والنيران والأسلاك المكهربة قبل الاقتراب. إذا كان هناك خطر على الحياة، اتصل برقم الطوارئ المحلي، وحدّد موقعك بدقة واتبع تعليمات موظف الطوارئ. إذا لم يستجب المصاب ولم يتنفس بشكل طبيعي أو كان لا يصدر إلا شهقات، ابدأ الإنعاش القلبي الرئوي. استخدم جهاز إزالة الرجفان الخارجي الآلي فور توفره واتبع تعليماته.",
+        "إذا كان النزيف الخارجي غزيراً، اضغط بقوة وباستمرار على الجرح مستخدماً الشاش أو قطعة قماش نظيفة. إذا كان هناك جسم مغروس، اتركه في مكانه واضغط حوله.",
+        "برّد الحرق الناتج عن الحرارة بماء جارٍ بارد برودة معتدلة لمدة 20 دقيقة. لا تستخدم الثلج ولا تنزع ما التصق بالحرق. اطلب المساعدة العاجلة للحروق الواسعة أو العميقة أو الكهربائية أو الكيميائية. تعلّم الإسعافات الأولية والإنعاش في دورة عملية."
+      ],
+      "sources": [
+        "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+        "https://www.redcross.org/take-a-class/resources/learn-first-aid/bleeding-life-threatening-external",
+        "https://www.nhs.uk/conditions/burns-and-scalds/"
+      ]
+    },
+    {
+      "id": "power-outage",
+      "title": "انقطاع الكهرباء وسلامة الغذاء",
+      "blocks": [
+        "استخدم مصباحاً يدوياً أو مصباحاً يعمل بالبطاريات. شغّل المولّدات في الخارج فقط على مسافة ستة أمتار على الأقل من الأبواب والنوافذ وفتحات التهوية، ووجّه العادم بعيداً عن المباني. لا تستخدم فرن الغاز أو الشوّاية أو موقد التخييم لتدفئة مكان مغلق. إذا انطلق إنذار أول أكسيد الكربون، فاخرج إلى الهواء الطلق واتصل بالطوارئ.",
+        "أبقِ أبواب الثلاجة والمجمّد مغلقة. تحفظ الثلاجة المغلقة برودة الأغذية سريعة التلف قرابة أربع ساعات. يحافظ المجمّد المغلق على البرودة قرابة 48 ساعة إذا كان ممتلئاً و24 ساعة إذا كان نصف ممتلئ. تخلّص من الأغذية سريعة التلف في الثلاجة بعد أربع ساعات دون كهرباء أو مصدر تبريد آخر. لا تتذوقها للتحقق من سلامتها.",
+        "إذا كنت تعتمد على معدات طبية كهربائية أو أدوية تحتاج إلى التبريد، فاسأل مزوّد الرعاية مسبقاً عن الطاقة الاحتياطية والتخزين ومتى يجب الانتقال إلى مكان آخر."
+      ],
+      "sources": [
+        "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html",
+        "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage"
+      ]
+    }
+  ]
+}

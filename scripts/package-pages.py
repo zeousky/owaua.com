@@ -42,7 +42,10 @@ def package(output, mount, base_url):
     output.mkdir(parents=True, exist_ok=False)
     for source in SITE.rglob("*"):
         name = source.relative_to(SITE)
-        if source.suffix not in PUBLIC_EXTENSIONS or not source.is_file() or source.is_symlink():
+        is_survival_download = name.parts[:2] == ("survival", "downloads") and source.suffix in {".pdf", ".zip"}
+        if not source.is_file() or source.is_symlink():
+            continue
+        if source.suffix not in PUBLIC_EXTENSIONS and not is_survival_download:
             continue
         if name.parts[:2] in {("assets", "archive"), ("assets", "editorial")}:
             continue
